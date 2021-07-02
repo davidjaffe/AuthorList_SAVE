@@ -1,0 +1,39 @@
+# comment line
+# version1
+# format of a valid line:   Action FamilyName GivenName Institution
+#   valid Actions are 'ADD' or 'REMOVE' (case-insensitive)
+#   For multiple, unhyphenated names in FamilyName or GivenName use an underscore
+#
+# Fixes to excel file:
+# 1. Heeger appears with/without middle initial and has invalid dates due to change of institution
+# 2. Ling has invalid dates due to change of institution
+# 3. Olshevski only appears with reversed FamilyName and GivenName
+# 4. M.Kramer, K.B.Luk, H.Steiner, H.L.H.Wong all should have UCB & LBNL affiliations
+# 5. Add Marco Grassi IHEP 20140711 (one year rule)
+# 6. Add 2d institution for Wei Wang 20140728
+# 
+ADD Heeger Karsten_M.   Yale
+ADD Ling     Jiajie            BNL
+ADD Ling     Jiajie            UIUC
+ADD Blyth   Simon           NTU
+ADD Olshevski Alexandr Dubna
+ADD Kramer Matt            UCB
+ADD Luk       Kam-Biu     LBNL
+ADD Steiner Herb            LBNL
+ADD Wong   Hin-Lok_Henoch       LBNL
+ADD Grassi Marco 		IHEP
+ADD Wang Wei                 ZSU
+#
+# Remove  false or outdated affiliations
+# 1. D. Naumov "please remove Yu.Gornushkin from the author list as he left the Collaboration. " 20140707
+REMOVE Cherwinka Jeff   BNL 
+REMOVE Napolitano Jim  RPI 
+REMOVE Gornushkin Yuri_A. Dubna
+#
+# remove duplicates
+REMOVE Heeger Karsten  Wisconsin
+#
+# fix collaborators with family and given names reversed in collaboration list
+REMOVE Alexandr Olshevski Dubna 
+REMOVE Soeren Jetter IHEP 
+#

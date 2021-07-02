@@ -1,0 +1,541 @@
+This is pdfeTeX, Version 3.141592-1.21a-2.2 (Web2C 7.5.4) (format=pdflatex 2011.6.16)  25 AUG 2020 17:32
+entering extended mode
+**../test_EJPC_authorlist.tex
+(../test_EJPC_authorlist.tex
+LaTeX2e <2008/12/01>
+Babel <v3.8d> and hyphenation patterns for american, french, german, ngerman, b
+ahasa, basque, bulgarian, catalan, croatian, czech, danish, dutch, esperanto, e
+stonian, finnish, greek, icelandic, irish, italian, latin, magyar, norsk, polis
+h, portuges, romanian, russian, serbian, slovak, slovene, spanish, swedish, tur
+kish, ukrainian, nohyphenation, loaded.
+(./svjour3.cls
+Document Class: svjour3 2010/11/25 v3.3 
+LaTeX document class for Springer journals
+
+Class Springer-SVJour3 Warning: Specified option or subpackage "pdftex" not fou
+nd - on input line 127.
+
+(./svepjc3.clo
+File: svepjc3.clo 2011/08/26 v1.2 style option for the EPJC journal
+
+SVJour Class option: svepjc3.clo for EPJC journal
+)
+Class Springer-SVJour3 Info: extra/valid Springer sub-package (-> *.clo) 
+(Springer-SVJour3)           not found in option list of \documentclass
+(Springer-SVJour3)           - autoactivating "global" style.
+ (./svglov3.clo
+File: svglov3.clo 2009/12/18 v3.2 style option for standardised journals
+
+SVJour Class option: svglov3.clo for standardised journals
+)
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 147.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 148.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 149.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 150.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 151.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 152.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 153.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 154.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 155.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 156.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 157.
+\logodepth=\dimen102
+\headerboxheight=\dimen103
+\betweenumberspace=\dimen104
+\aftertext=\dimen105
+\headlineindent=\dimen106
+\c@inst=\count79
+\c@auth=\count80
+\instindent=\dimen107
+\authrun=\box26
+\authorrunning=\toks14
+\titrun=\box27
+\titlerunning=\toks15
+\combirun=\box28
+\c@lastpage=\count81
+\rubricwidth=\dimen108
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@subparagraph=\count86
+\spthmsep=\dimen109
+\c@theorem=\count87
+\c@case=\count88
+\c@conjecture=\count89
+\c@corollary=\count90
+\c@definition=\count91
+\c@example=\count92
+\c@exercise=\count93
+\c@lemma=\count94
+\c@note=\count95
+\c@problem=\count96
+\c@property=\count97
+\c@proposition=\count98
+\c@question=\count99
+\c@solution=\count100
+\c@remark=\count101
+\c@figure=\count102
+\c@table=\count103
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\figcapgap=\dimen110
+\tabcapgap=\dimen111
+\figgap=\dimen112
+\bibindent=\dimen113
+\@tempcntc=\count104
+) (./svepjc3.clo
+\c@thanks=\count105
+\c@addressref=\count106
+) (/sw/share/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2004/02/22 v1.99f Standard LaTeX package
+
+(/sw/share/texmf-dist/tex/latex/base/t1enc.def
+File: t1enc.def 2004/02/22 v1.99f Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
+)
+
+LaTeX Font Warning: Font shape `T1/cmr/m/n' in size <9.5> not available
+(Font)              size <9> substituted on input line 100.
+
+) (/sw/share/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/sw/share/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(/sw/share/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2001/07/07 v1.0n Standard LaTeX Graphics (DPC,SPQR)
+
+(/sw/share/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/sw/share/texmf-dist/tex/latex/graphics/graphics.cfg
+File: graphics.cfg 2005/02/03 v1.3 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 80.
+
+(/sw/share/texmf-dist/tex/latex/graphics/pdftex.def
+File: pdftex.def 2002/06/19 v0.03k graphics/color for pdftex
+\Gread@gobject=\count107
+))
+\Gin@req@height=\dimen114
+\Gin@req@width=\dimen115
+)
+(/sw/share/texmf-dist/tex/latex/psnfss/mathptmx.sty
+Package: mathptmx 2004/09/15 PSNFSS-v9.2 Times w/ Math, improved (SPQR, WaS) 
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 28.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/ztmcm/m/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ztmcm/m/n on input line 28.
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 29.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/ztmcm/m/it on input line 29.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/ztmcm/m/it on input line 29.
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 30.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/ztmcm/m/n on input line 30.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/ztmcm/m/n on input line 30.
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 31.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/ztmcm/m/n on input line 31.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/ztmcm/m/n on input line 31.
+\symbold=\mathgroup4
+\symitalic=\mathgroup5
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 34.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/ptm/m/it on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/ptm/m/it on input line 35.
+LaTeX Info: Redefining \hbar on input line 50.
+) (./flushend.sty
+Package: flushend 2015/04/14 v3.1 Balancing columns in twocolumn mode
+\flushend@@lastskip@a=\skip43
+\flushend@@lastskip@b=\skip44
+\flushend@@lastskip@c=\skip45
+\flushend@@penalty@a=\count108
+\flushend@@lastkern@a=\dimen116
+\var@@temp@spread=\dimen117
+\var@@temp@a=\dimen118
+\flushend@@page@rule=\dimen119
+\flushend@@varbox@a=\box29
+\flushend@@varbox@c=\box30
+\flushend@@tempbox@a=\box31
+\flushend@@tempbox@c=\box32
+\@viper=\box33
+\hold@viper=\box34
+\atColsBreak=\toks17
+\atColsEnd=\toks18
+
+(./etoolbox.sty
+Package: etoolbox 2015/05/04 v2.2 e-TeX tools for LaTeX (JAW)
+ (/sw/share/texmf-dist/tex/latex/etex/etex.sty
+Package: etex 1998/03/26 v2.0 eTeX basic definition package (PEB)
+\et@xins=\count109
+)
+\etb@tempcnta=\count110
+)) (./natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip46
+\bibsep=\skip47
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count111
+) (/sw/share/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2003/11/30 v6.74m Hypertext links for LaTeX
+\@linkdim=\dimen120
+\Hy@linkcounter=\count112
+\Hy@pagecounter=\count113
+
+(/sw/share/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2003/11/30 v6.74m Hyperref: PDFDocEncoding definition (HO)
+)
+(/sw/share/texmf-dist/tex/latex/hyperref/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive and teTeX
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 1830.
+Package hyperref Info: Hyper figures OFF on input line 1880.
+Package hyperref Info: Link nesting OFF on input line 1885.
+Package hyperref Info: Hyper index ON on input line 1888.
+Package hyperref Info: Plain pages ON on input line 1893.
+Package hyperref Info: Backreferencing OFF on input line 1900.
+
+Implicit mode ON; LaTeX internals redefined
+Package hyperref Info: Bookmarks ON on input line 2004.
+(/sw/share/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2004/03/15  ver 3.1  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 2143.
+\Fld@menulength=\count114
+\Field@Width=\dimen121
+\Fld@charsize=\dimen122
+\Choice@toks=\toks19
+\Field@toks=\toks20
+Package hyperref Info: Hyper figures OFF on input line 2618.
+Package hyperref Info: Link nesting OFF on input line 2623.
+Package hyperref Info: Hyper index ON on input line 2626.
+Package hyperref Info: backreferencing OFF on input line 2633.
+Package hyperref Info: Link coloring ON on input line 2636.
+\c@Item=\count115
+\c@Hfootnote=\count116
+)
+*hyperref using driver hpdftex*
+(/sw/share/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2003/11/30 v6.74m Hyperref driver for pdfTeX
+
+(/sw/share/texmf-dist/tex/latex/psnfss/pifont.sty
+Package: pifont 2004/09/15 PSNFSS-v9.2 Pi font support (SPQR) 
+LaTeX Font Info:    Try loading font information for U+pzd on input line 63.
+
+(/sw/share/texmf-dist/tex/latex/psnfss/upzd.fd
+File: upzd.fd 2001/06/04 font definitions for U/pzd.
+)
+LaTeX Font Info:    Try loading font information for U+psy on input line 64.
+
+(/sw/share/texmf-dist/tex/latex/psnfss/upsy.fd
+File: upsy.fd 2001/06/04 font definitions for U/psy.
+))
+\Fld@listcount=\count117
+\@outlinefile=\write3
+) (./test_EJPC_authorlist.aux)
+\openout1 = `test_EJPC_authorlist.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Try loading font information for T1+ptm on input line 18.
+
+(/sw/share/texmf-dist/tex/latex/psnfss/t1ptm.fd
+File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
+)
+(/sw/share/texmf-dist/tex/context/base/supp-pdf.tex
+(/sw/share/texmf-dist/tex/context/base/supp-mis.tex
+loading : Context Support Macros / Miscellaneous (2004.10.26)
+\protectiondepth=\count118
+\scratchcounter=\count119
+\scratchtoks=\toks21
+\scratchdimen=\dimen123
+\scratchskip=\skip48
+\scratchmuskip=\muskip11
+\scratchbox=\box35
+\scratchread=\read1
+\scratchwrite=\write4
+\zeropoint=\dimen124
+\onepoint=\dimen125
+\onebasepoint=\dimen126
+\minusone=\count120
+\thousandpoint=\dimen127
+\onerealpoint=\dimen128
+\emptytoks=\toks22
+\nextbox=\box36
+\nextdepth=\dimen129
+\everyline=\toks23
+\!!counta=\count121
+\!!countb=\count122
+\recursecounter=\count123
+)
+loading : Context Support Macros / PDF (2004.03.26)
+\nofMPsegments=\count124
+\nofMParguments=\count125
+\MPscratchCnt=\count126
+\MPscratchDim=\dimen130
+\MPnumerator=\count127
+\everyMPtoPDFconversion=\toks24
+)
+\big@size=\dimen131
+ (/sw/share/texmf-dist/tex/latex/graphics/color.sty
+Package: color 1999/02/16 v1.0i Standard LaTeX Color (DPC)
+LaTeX Info: Redefining \color on input line 71.
+
+(/sw/share/texmf-dist/tex/latex/graphics/color.cfg
+File: color.cfg 2005/02/03 v1.3 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 125.
+)
+Package hyperref Info: Link coloring ON on input line 18.
+
+(/sw/share/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2003/12/03 v2.21 Cross-referencing by name of section
+\c@section@level=\count128
+)
+LaTeX Info: Redefining \ref on input line 18.
+LaTeX Info: Redefining \pageref on input line 18.
+
+(./test_EJPC_authorlist.out) (./test_EJPC_authorlist.out)
+\openout3 = `test_EJPC_authorlist.out'.
+
+ (./EJPC.tex)
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <9.5> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 44.
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <13> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 44.
+LaTeX Font Info:    Calculating math sizes for size <9.5> on input line 44.
+LaTeX Font Info:    Try loading font information for OT1+ztmcm on input line 44
+.
+
+(/sw/share/texmf-dist/tex/latex/psnfss/ot1ztmcm.fd
+File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
+)
+LaTeX Font Info:    Try loading font information for OML+ztmcm on input line 44
+.
+
+(/sw/share/texmf-dist/tex/latex/psnfss/omlztmcm.fd
+File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
+)
+LaTeX Font Info:    Try loading font information for OMS+ztmcm on input line 44
+.
+
+(/sw/share/texmf-dist/tex/latex/psnfss/omsztmcm.fd
+File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
+)
+LaTeX Font Info:    Try loading font information for OMX+ztmcm on input line 44
+.
+
+(/sw/share/texmf-dist/tex/latex/psnfss/omxztmcm.fd
+File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
+)
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 44.
+
+(/sw/share/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9.5> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 44.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.03004> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 44.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5.70006> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 44.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 44.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 44.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 44.
+ [1{/sw/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+
+SVJour3 Warning: Title too long for running head.
+Please supply a shorter form with \titlerunning prior to \maketitle
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[][][]
+ []
+
+[2] [3]
+
+Package mathptmx Warning: There are no bold math fonts on input line 80.
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[][][]
+ []
+
+[4] (./test_EJPC_authorlist.aux)
+
+LaTeX Font Warning: Size substitutions with differences
+(Font)              up to 0.5pt have occurred.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 4201 strings out of 94500
+ 53131 string characters out of 1176114
+ 152010 words of memory out of 1500000
+ 7231 multiletter control sequences out of 10000+50000
+ 39792 words of font info for 67 fonts, out of 1200000 for 2000
+ 580 hyphenation exceptions out of 8191
+ 30i,9n,28p,849b,220s stack positions out of 5000i,500n,6000p,200000b,5000s
+PDF statistics:
+ 311 PDF objects out of 65536
+ 93 named destinations out of 20000
+ 17 words of extra memory for PDF output out of 65536
+
+! pdfTeX warning (dest): name{CQU} has been referenced but does not exist, repl
+aced by a fixed one
+
+! pdfTeX warning (dest): name{IowaState} has been referenced but does not exist
+, replaced by a fixed one
+
+! pdfTeX warning (dest): name{NUDT} has been referenced but does not exist, rep
+laced by a fixed one
+
+! pdfTeX warning (dest): name{CGNPG} has been referenced but does not exist, re
+placed by a fixed one
+
+! pdfTeX warning (dest): name{NJU} has been referenced but does not exist, repl
+aced by a fixed one
+
+! pdfTeX warning (dest): name{WM} has been referenced but does not exist, repla
+ced by a fixed one
+
+! pdfTeX warning (dest): name{CalTech} has been referenced but does not exist, 
+replaced by a fixed one
+
+! pdfTeX warning (dest): name{Princeton} has been referenced but does not exist
+, replaced by a fixed one
+
+! pdfTeX warning (dest): name{SJTU} has been referenced but does not exist, rep
+laced by a fixed one
+
+! pdfTeX warning (dest): name{NanKai} has been referenced but does not exist, r
+eplaced by a fixed one
+
+! pdfTeX warning (dest): name{HKU} has been referenced but does not exist, repl
+aced by a fixed one
+
+! pdfTeX warning (dest): name{UCB} has been referenced but does not exist, repl
+aced by a fixed one
+
+! pdfTeX warning (dest): name{DGUT} has been referenced but does not exist, rep
+laced by a fixed one
+
+! pdfTeX warning (dest): name{TempleUniversity} has been referenced but does no
+t exist, replaced by a fixed one
+
+! pdfTeX warning (dest): name{UC} has been referenced but does not exist, repla
+ced by a fixed one
+
+! pdfTeX warning (dest): name{NCTU} has been referenced but does not exist, rep
+laced by a fixed one
+
+! pdfTeX warning (dest): name{VirginiaTech} has been referenced but does not ex
+ist, replaced by a fixed one
+
+! pdfTeX warning (dest): name{SDU} has been referenced but does not exist, repl
+aced by a fixed one
+
+! pdfTeX warning (dest): name{CIAE} has been referenced but does not exist, rep
+laced by a fixed one
+
+! pdfTeX warning (dest): name{UH} has been referenced but does not exist, repla
+ced by a fixed one
+
+! pdfTeX warning (dest): name{XJTU} has been referenced but does not exist, rep
+laced by a fixed one
+
+! pdfTeX warning (dest): name{BNU} has been referenced but does not exist, repl
+aced by a fixed one
+
+! pdfTeX warning (dest): name{Dubna} has been referenced but does not exist, re
+placed by a fixed one
+
+! pdfTeX warning (dest): name{IIT} has been referenced but does not exist, repl
+aced by a fixed one
+
+! pdfTeX warning (dest): name{LBNL} has been referenced but does not exist, rep
+laced by a fixed one
+
+! pdfTeX warning (dest): name{UIUC} has been referenced but does not exist, rep
+laced by a fixed one
+
+! pdfTeX warning (dest): name{Charles} has been referenced but does not exist, 
+replaced by a fixed one
+
+! pdfTeX warning (dest): name{USTC} has been referenced but does not exist, rep
+laced by a fixed one
+
+! pdfTeX warning (dest): name{UCI} has been referenced but does not exist, repl
+aced by a fixed one
+
+! pdfTeX warning (dest): name{Siena} has been referenced but does not exist, re
+placed by a fixed one
+
+! pdfTeX warning (dest): name{CUHK} has been referenced but does not exist, rep
+laced by a fixed one
+
+! pdfTeX warning (dest): name{NCEPU} has been referenced but does not exist, re
+placed by a fixed one
+
+! pdfTeX warning (dest): name{ZSU} has been referenced but does not exist, repl
+aced by a fixed one
+
+! pdfTeX warning (dest): name{SZU} has been referenced but does not exist, repl
+aced by a fixed one
+
+! pdfTeX warning (dest): name{TsingHua} has been referenced but does not exist,
+ replaced by a fixed one
+
+! pdfTeX warning (dest): name{NUU} has been referenced but does not exist, repl
+aced by a fixed one
+
+! pdfTeX warning (dest): name{IHEP} has been referenced but does not exist, rep
+laced by a fixed one
+
+! pdfTeX warning (dest): name{NTU} has been referenced but does not exist, repl
+aced by a fixed one
+
+! pdfTeX warning (dest): name{BNL} has been referenced but does not exist, repl
+aced by a fixed one
+
+! pdfTeX warning (dest): name{Yale} has been referenced but does not exist, rep
+laced by a fixed one
+
+! pdfTeX warning (dest): name{Wisconsin} has been referenced but does not exist
+, replaced by a fixed one
+
+! pdfTeX warning (dest): name{ECUST} has been referenced but does not exist, re
+placed by a fixed one
+
+{/sw/share/texmf-dist/fonts/enc/dvips/psnfss/8r.enc}</sw/share/texmf-dist/fonts
+/type1/urw/times/utmr8a.pfb></sw/share/texmf-dist/fonts/type1/urw/times/utmb8a.
+pfb>
+Output written on test_EJPC_authorlist.pdf (4 pages, 94264 bytes).

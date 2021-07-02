@@ -1,0 +1,2995 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSpy v2011 (http://www.altova.com) by aaa (bbb) -->
+<collaborationauthorlist xmlns:cal="http://www.slac.stanford.edu/spires/hepnames/authors_xml/" xmlns:foaf="http://xmlns.com/foaf/0.1/">
+	<cal:creationDate>2015-08-10_10:10</cal:creationDate>
+	<cal:publicationReference>http://arXiv.org/abs/xxx</cal:publicationReference>
+	<cal:collaborations>
+		<cal:collaboration id="c1">
+			<foaf:name>Daya Bay Collaboration</foaf:name>
+			<cal:experimentNumber>DAYA-BAY</cal:experimentNumber>
+		</cal:collaboration>
+	</cal:collaborations>
+	<cal:organizations>
+		<foaf:Organization id="o0">
+			<foaf:name>Institute of Modern Physics, East China University of Science and Technology, Shanghai</foaf:name>
+			<cal:orgName>East China U. Sci. Tech.</cal:orgName>
+			<cal:orgAddress>Institute of Modern Physics, East China University of Science and Technology, Shanghai</cal:orgAddress>
+			<cal:orgStatus>member</cal:orgStatus>
+		</foaf:Organization>
+		<foaf:Organization id="o1">
+			<foaf:name>University of Wisconsin, Madison, Wisconsin 53706, USA</foaf:name>
+			<cal:orgName>Wisconsin U., Madison</cal:orgName>
+			<cal:orgAddress>University of Wisconsin, Madison, Wisconsin 53706, USA</cal:orgAddress>
+			<cal:orgStatus>member</cal:orgStatus>
+		</foaf:Organization>
+		<foaf:Organization id="o2">
+			<foaf:name>Department of Physics, Yale University, New Haven, Connecticut 06520, USA</foaf:name>
+			<cal:orgName>Yale U.</cal:orgName>
+			<cal:orgAddress>Department of Physics, Yale University, New Haven, Connecticut 06520, USA</cal:orgAddress>
+			<cal:orgStatus>member</cal:orgStatus>
+		</foaf:Organization>
+		<foaf:Organization id="o3">
+			<foaf:name>Brookhaven National Laboratory, Upton, New York 11973, USA</foaf:name>
+			<cal:orgName>Brookhaven</cal:orgName>
+			<cal:orgAddress>Brookhaven National Laboratory, Upton, New York 11973, USA</cal:orgAddress>
+			<cal:orgStatus>member</cal:orgStatus>
+		</foaf:Organization>
+		<foaf:Organization id="o4">
+			<foaf:name>Department of Physics, National Taiwan University, Taipei</foaf:name>
+			<cal:orgName>Taiwan, Natl. Taiwan. U.</cal:orgName>
+			<cal:orgAddress>Department of Physics, National Taiwan University, Taipei</cal:orgAddress>
+			<cal:orgStatus>member</cal:orgStatus>
+		</foaf:Organization>
+		<foaf:Organization id="o5">
+			<foaf:name>National United University, Miao-Li</foaf:name>
+			<cal:orgName>Natl. United U., Taiwan</cal:orgName>
+			<cal:orgAddress>National United University, Miao-Li</cal:orgAddress>
+			<cal:orgStatus>member</cal:orgStatus>
+		</foaf:Organization>
+		<foaf:Organization id="o6">
+			<foaf:name>Joint Institute for Nuclear Research, Dubna, Moscow Region</foaf:name>
+			<cal:orgName>Dubna, JINR</cal:orgName>
+			<cal:orgAddress>Joint Institute for Nuclear Research, Dubna, Moscow Region</cal:orgAddress>
+			<cal:orgStatus>member</cal:orgStatus>
+		</foaf:Organization>
+		<foaf:Organization id="o7">
+			<foaf:name>Institute of High Energy Physics, Beijing</foaf:name>
+			<cal:orgName>Beijing, Inst. High Energy Phys.</cal:orgName>
+			<cal:orgAddress>Institute of High Energy Physics, Beijing</cal:orgAddress>
+			<cal:orgStatus>member</cal:orgStatus>
+		</foaf:Organization>
+		<foaf:Organization id="o8">
+			<foaf:name>Chinese University of Hong Kong, Hong Kong</foaf:name>
+			<cal:orgName>Hong Kong, Chinese U.</cal:orgName>
+			<cal:orgAddress>Chinese University of Hong Kong, Hong Kong</cal:orgAddress>
+			<cal:orgStatus>member</cal:orgStatus>
+		</foaf:Organization>
+		<foaf:Organization id="o9">
+			<foaf:name>Institute of Physics, National Chiao-Tung University, Hsinchu</foaf:name>
+			<cal:orgName>Taiwan, Natl. Chiao Tung U.</cal:orgName>
+			<cal:orgAddress>Institute of Physics, National Chiao-Tung University, Hsinchu</cal:orgAddress>
+			<cal:orgStatus>member</cal:orgStatus>
+		</foaf:Organization>
+		<foaf:Organization id="o10">
+			<foaf:name>Shandong University, Jinan</foaf:name>
+			<cal:orgName>Shandong U.</cal:orgName>
+			<cal:orgAddress>Shandong University, Jinan</cal:orgAddress>
+			<cal:orgStatus>member</cal:orgStatus>
+		</foaf:Organization>
+		<foaf:Organization id="o11">
+			<foaf:name>Department of Engineering Physics, Tsinghua University, Beijing</foaf:name>
+			<cal:orgName>Tsinghua U., Beijing</cal:orgName>
+			<cal:orgAddress>Department of Engineering Physics, Tsinghua University, Beijing</cal:orgAddress>
+			<cal:orgStatus>member</cal:orgStatus>
+		</foaf:Organization>
+		<foaf:Organization id="o12">
+			<foaf:name>North China Electric Power University, Beijing</foaf:name>
+			<cal:orgName>Beijing, North China Elec. Power U.</cal:orgName>
+			<cal:orgAddress>North China Electric Power University, Beijing</cal:orgAddress>
+			<cal:orgStatus>member</cal:orgStatus>
+		</foaf:Organization>
+		<foaf:Organization id="o13">
+			<foaf:name>Shenzhen University, Shenzhen</foaf:name>
+			<cal:orgName>Shenzhen U.</cal:orgName>
+			<cal:orgAddress>Shenzhen University, Shenzhen</cal:orgAddress>
+			<cal:orgStatus>member</cal:orgStatus>
+		</foaf:Organization>
+		<foaf:Organization id="o14">
+			<foaf:name>Siena College, Loudonville, New York 12211, USA</foaf:name>
+			<cal:orgName>Siena Coll., Loudonville</cal:orgName>
+			<cal:orgAddress>Siena College, Loudonville, New York 12211, USA</cal:orgAddress>
+			<cal:orgStatus>member</cal:orgStatus>
+		</foaf:Organization>
+		<foaf:Organization id="o15">
+			<foaf:name>Department of Physics, Illinois Institute of Technology, Chicago, Illinois 60616, USA</foaf:name>
+			<cal:orgName>IIT, Chicago</cal:orgName>
+			<cal:orgAddress>Department of Physics, Illinois Institute of Technology, Chicago, Illinois 60616, USA</cal:orgAddress>
+			<cal:orgStatus>member</cal:orgStatus>
+		</foaf:Organization>
+		<foaf:Organization id="o16">
+			<foaf:name>Lawrence Berkeley National Laboratory, Berkeley, California 94720, USA</foaf:name>
+			<cal:orgName>LBL, Berkeley</cal:orgName>
+			<cal:orgAddress>Lawrence Berkeley National Laboratory, Berkeley, California 94720, USA</cal:orgAddress>
+			<cal:orgStatus>member</cal:orgStatus>
+		</foaf:Organization>
+		<foaf:Organization id="o17">
+			<foaf:name>Department of Physics, University of Illinois at Urbana-Champaign, Urbana, Illinois 61801, USA</foaf:name>
+			<cal:orgName>Illinois U., Urbana</cal:orgName>
+			<cal:orgAddress>Department of Physics, University of Illinois at Urbana-Champaign, Urbana, Illinois 61801, USA</cal:orgAddress>
+			<cal:orgStatus>member</cal:orgStatus>
+		</foaf:Organization>
+		<foaf:Organization id="o18">
+			<foaf:name>Shanghai Jiao Tong University, Shanghai</foaf:name>
+			<cal:orgName>Shanghai Jiaotong U.</cal:orgName>
+			<cal:orgAddress>Shanghai Jiao Tong University, Shanghai</cal:orgAddress>
+			<cal:orgStatus>member</cal:orgStatus>
+		</foaf:Organization>
+		<foaf:Organization id="o19">
+			<foaf:name>Beijing Normal University, Beijing</foaf:name>
+			<cal:orgName>Beijing Normal U.</cal:orgName>
+			<cal:orgAddress>Beijing Normal University, Beijing</cal:orgAddress>
+			<cal:orgStatus>member</cal:orgStatus>
+		</foaf:Organization>
+		<foaf:Organization id="o20">
+			<foaf:name>Department of Physics, University of Houston, Houston, Texas 77204, USA</foaf:name>
+			<cal:orgName>Houston U.</cal:orgName>
+			<cal:orgAddress>Department of Physics, University of Houston, Houston, Texas 77204, USA</cal:orgAddress>
+			<cal:orgStatus>member</cal:orgStatus>
+		</foaf:Organization>
+		<foaf:Organization id="o21">
+			<foaf:name>Center for Neutrino Physics, Virginia Tech, Blacksburg, Virginia 24061, USA</foaf:name>
+			<cal:orgName>Virginia Tech.</cal:orgName>
+			<cal:orgAddress>Center for Neutrino Physics, Virginia Tech, Blacksburg, Virginia 24061, USA</cal:orgAddress>
+			<cal:orgStatus>member</cal:orgStatus>
+		</foaf:Organization>
+		<foaf:Organization id="o22">
+			<foaf:name>China Institute of Atomic Energy, Beijing</foaf:name>
+			<cal:orgName>Beijing, Inst. Atomic Energy</cal:orgName>
+			<cal:orgAddress>China Institute of Atomic Energy, Beijing</cal:orgAddress>
+			<cal:orgStatus>member</cal:orgStatus>
+		</foaf:Organization>
+		<foaf:Organization id="o23">
+			<foaf:name>School of Physics, Nankai University, Tianjin</foaf:name>
+			<cal:orgName>Nankai U.</cal:orgName>
+			<cal:orgAddress>School of Physics, Nankai University, Tianjin</cal:orgAddress>
+			<cal:orgStatus>member</cal:orgStatus>
+		</foaf:Organization>
+		<foaf:Organization id="o24">
+			<foaf:name>Department of Physics, University of Cincinnati, Cincinnati, Ohio 45221, USA</foaf:name>
+			<cal:orgName>Cincinnati U. </cal:orgName>
+			<cal:orgAddress>Department of Physics, University of Cincinnati, Cincinnati, Ohio 45221, USA</cal:orgAddress>
+			<cal:orgStatus>member</cal:orgStatus>
+		</foaf:Organization>
+		<foaf:Organization id="o25">
+			<foaf:name>Dongguan University of Technology, Dongguan</foaf:name>
+			<cal:orgName>DongGuan U. Technol.</cal:orgName>
+			<cal:orgAddress>Dongguan University of Technology, Dongguan</cal:orgAddress>
+			<cal:orgStatus>member</cal:orgStatus>
+		</foaf:Organization>
+		<foaf:Organization id="o26">
+			<foaf:name>Department of Physics, University of California, Berkeley, California 94720, USA</foaf:name>
+			<cal:orgName>UC, Berkeley</cal:orgName>
+			<cal:orgAddress>Department of Physics, University of California, Berkeley, California 94720, USA</cal:orgAddress>
+			<cal:orgStatus>member</cal:orgStatus>
+		</foaf:Organization>
+		<foaf:Organization id="o27">
+			<foaf:name>Department of Physics, The University of Hong Kong, Pokfulam, Hong Kong</foaf:name>
+			<cal:orgName>Hong Kong U.</cal:orgName>
+			<cal:orgAddress>Department of Physics, The University of Hong Kong, Pokfulam, Hong Kong</cal:orgAddress>
+			<cal:orgStatus>member</cal:orgStatus>
+		</foaf:Organization>
+		<foaf:Organization id="o28">
+			<foaf:name>Charles University, Faculty of Mathematics and Physics, Prague</foaf:name>
+			<cal:orgName>Charles U.</cal:orgName>
+			<cal:orgAddress>Charles University, Faculty of Mathematics and Physics, Prague</cal:orgAddress>
+			<cal:orgStatus>member</cal:orgStatus>
+		</foaf:Organization>
+		<foaf:Organization id="o29">
+			<foaf:name>University of Science and Technology of China, Hefei</foaf:name>
+			<cal:orgName>Hefei, CUST</cal:orgName>
+			<cal:orgAddress>University of Science and Technology of China, Hefei</cal:orgAddress>
+			<cal:orgStatus>member</cal:orgStatus>
+		</foaf:Organization>
+		<foaf:Organization id="o30">
+			<foaf:name>Sun Yat-Sen (Zhongshan) University, Guangzhou</foaf:name>
+			<cal:orgName>Zhongshan U.</cal:orgName>
+			<cal:orgAddress>Sun Yat-Sen (Zhongshan) University, Guangzhou</cal:orgAddress>
+			<cal:orgStatus>member</cal:orgStatus>
+		</foaf:Organization>
+		<foaf:Organization id="o31">
+			<foaf:name>Joseph Henry Laboratories, Princeton University, Princeton, New Jersey 08544, USA</foaf:name>
+			<cal:orgName>Princeton U.</cal:orgName>
+			<cal:orgAddress>Joseph Henry Laboratories, Princeton University, Princeton 08544, New Jersey, USA</cal:orgAddress>
+			<cal:orgStatus>member</cal:orgStatus>
+		</foaf:Organization>
+		<foaf:Organization id="o32">
+			<foaf:name>California Institute of Technology, Pasadena, California 91125, USA</foaf:name>
+			<cal:orgName>Caltech</cal:orgName>
+			<cal:orgAddress>California Institute of Technology, Pasadena, California 91125, USA</cal:orgAddress>
+			<cal:orgStatus>member</cal:orgStatus>
+		</foaf:Organization>
+		<foaf:Organization id="o33">
+			<foaf:name>College of William and Mary, Williamsburg, Virginia 23187, USA</foaf:name>
+			<cal:orgName>William-Mary Coll.</cal:orgName>
+			<cal:orgAddress>College of William and Mary, Williamsburg, Virginia 23187, USA</cal:orgAddress>
+			<cal:orgStatus>member</cal:orgStatus>
+		</foaf:Organization>
+		<foaf:Organization id="o34">
+			<foaf:name>Xi'an Jiaotong University, Xi'an</foaf:name>
+			<cal:orgName>Xian Jiaotong U.</cal:orgName>
+			<cal:orgAddress>Xi'an Jiaotong University, Xi'an</cal:orgAddress>
+			<cal:orgStatus>member</cal:orgStatus>
+		</foaf:Organization>
+		<foaf:Organization id="o35">
+			<foaf:name>Department of Physics, College of Science and Technology, Temple University, Philadelphia, Pennsylvania 19122, USA</foaf:name>
+			<cal:orgName>Temple U.</cal:orgName>
+			<cal:orgAddress>Department of Physics, College of Science and Technology, Temple University, Philadelphia, Pennsylvania 19122, USA</cal:orgAddress>
+			<cal:orgStatus>member</cal:orgStatus>
+		</foaf:Organization>
+		<foaf:Organization id="o36">
+			<foaf:name>Instituto de Física, Pontificia Universidad Católica de Chile, Santiago, Chile</foaf:name>
+			<cal:orgName>Chile U., Catolica</cal:orgName>
+			<cal:orgAddress>Instituto de Física, Pontificia Universidad Católica de Chile, Santiago, Chile</cal:orgAddress>
+			<cal:orgStatus>member</cal:orgStatus>
+		</foaf:Organization>
+		<foaf:Organization id="o37">
+			<foaf:name>Nanjing University, Nanjing</foaf:name>
+			<cal:orgName>Nanjing U.</cal:orgName>
+			<cal:orgAddress>Nanjing University, Nanjing</cal:orgAddress>
+			<cal:orgStatus>member</cal:orgStatus>
+		</foaf:Organization>
+		<foaf:Organization id="o38">
+			<foaf:name>Department of Physics, Applied Physics, and Astronomy, Rensselaer Polytechnic Institute, Troy, New York 12180, USA</foaf:name>
+			<cal:orgName>Rensselaer Poly.</cal:orgName>
+			<cal:orgAddress>Department of Physics, Applied Physics, and Astronomy, Rensselaer Polytechnic Institute, Troy, New York 12180, USA</cal:orgAddress>
+			<cal:orgStatus>member</cal:orgStatus>
+		</foaf:Organization>
+		<foaf:Organization id="o39">
+			<foaf:name>China General Nuclear Power Group</foaf:name>
+			<cal:orgName>CGNPC, Shenzhen</cal:orgName>
+			<cal:orgAddress>China General Nuclear Power Group</cal:orgAddress>
+			<cal:orgStatus>member</cal:orgStatus>
+		</foaf:Organization>
+		<foaf:Organization id="o40">
+			<foaf:name>College of Electronic Science and Engineering, National University of Defense Technology, Changsha</foaf:name>
+			<cal:orgName>Natl. U. Defense Tech., Hunan</cal:orgName>
+			<cal:orgAddress>College of Electronic Science and Engineering, National University of Defense Technology, Changsha</cal:orgAddress>
+			<cal:orgStatus>member</cal:orgStatus>
+		</foaf:Organization>
+		<foaf:Organization id="o41">
+			<foaf:name>Iowa State University, Ames, Iowa 50011, USA</foaf:name>
+			<cal:orgName>Iowa State U.</cal:orgName>
+			<cal:orgAddress>Iowa State University, Ames, Iowa 50011, USA</cal:orgAddress>
+			<cal:orgStatus>member</cal:orgStatus>
+		</foaf:Organization>
+		<foaf:Organization id="o42">
+			<foaf:name>Chongqing University, Chongqing</foaf:name>
+			<cal:orgName>Chongqing U. </cal:orgName>
+			<cal:orgAddress>Chongqing University, Chongqing</cal:orgAddress>
+			<cal:orgStatus>member</cal:orgStatus>
+		</foaf:Organization>
+	</cal:organizations>
+	<cal:authors>
+		<foaf:Person>
+			<cal:authorNamePaper>F.P. An</cal:authorNamePaper>
+			<foaf:givenName>Feng Peng</foaf:givenName>
+			<foaf:familyName>An</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o0"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00447796</cal:authorid>
+				<cal:authorid source="ORCID">0000-0002-8359-7804 </cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>A.B. Balantekin</cal:authorNamePaper>
+			<foaf:givenName>Akif Baha</foaf:givenName>
+			<foaf:familyName>Balantekin</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o1"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00064042</cal:authorid>
+				<cal:authorid source="ORCID">0000-0002-2999-0111 </cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>H.R. Band</cal:authorNamePaper>
+			<foaf:givenName>Henry Reyer</foaf:givenName>
+			<foaf:familyName>Band</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o2"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00145137</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>M. Bishai</cal:authorNamePaper>
+			<foaf:givenName>Mary R.</foaf:givenName>
+			<foaf:familyName>Bishai</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o3"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00306569</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>S. Blyth</cal:authorNamePaper>
+			<foaf:givenName>Simon</foaf:givenName>
+			<foaf:familyName>Blyth</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o4"/>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o5"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00369912</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+    <foaf:Person>
+        <cal:authorNamePaper>D. Cao</cal:authorNamePaper>
+        <foaf:givenName>De Wen</foaf:givenName>
+        <foaf:familyName>Cao</foaf:familyName>
+        <cal:authorCollaboration collaborationid="c1"/>
+        <cal:authorAffiliations>
+            <cal:authorAffiliation connection="Affiliated with" organizationid="o37"/>
+        </cal:authorAffiliations>
+        <cal:authorids>
+            <cal:authorid source="INSPIRE">INSPIRE-00450932</cal:authorid>
+        </cal:authorids>
+    </foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>G.F. Cao</cal:authorNamePaper>
+			<foaf:givenName>Guo Fu</foaf:givenName>
+			<foaf:familyName>Cao</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o7"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00408722</cal:authorid>
+				<cal:authorid source="ORCID">0000-0003-3714-3665</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>J. Cao</cal:authorNamePaper>
+			<foaf:givenName>Jun</foaf:givenName>
+			<foaf:familyName>Cao</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o7"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00053844</cal:authorid>
+				<cal:authorid source="ORCID">0000-0002-3586-2319</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>W.R. Cen</cal:authorNamePaper>
+			<foaf:givenName>Wu Rong</foaf:givenName>
+			<foaf:familyName>Cen</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o7"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00448865</cal:authorid>
+				<cal:authorid source="ORCID">0000-0001-8176-4915</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>Y.L. Chan</cal:authorNamePaper>
+			<foaf:givenName>Yat Long</foaf:givenName>
+			<foaf:familyName>Chan</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o8"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00436344</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>J.F. Chang</cal:authorNamePaper>
+			<foaf:givenName>Jin Fan</foaf:givenName>
+			<foaf:familyName>Chang</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o7"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00410244</cal:authorid>
+				<cal:authorid source="ORCID">0000-0003-3328-3214</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>L.C. Chang</cal:authorNamePaper>
+			<foaf:givenName>Li Chu</foaf:givenName>
+			<foaf:familyName>Chang</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o9"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00448787</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>Y. Chang</cal:authorNamePaper>
+			<foaf:givenName>Yun</foaf:givenName>
+			<foaf:familyName>Chang</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o5"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00447823</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>H.S. Chen</cal:authorNamePaper>
+			<foaf:givenName>He Sheng</foaf:givenName>
+			<foaf:familyName>Chen</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o7"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00072533</cal:authorid>
+				<cal:authorid source="ORCID">0000-0001-8672-8227</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>Q.Y. Chen</cal:authorNamePaper>
+			<foaf:givenName>Quan You</foaf:givenName>
+			<foaf:familyName>Chen</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o10"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00448801</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>S.M. Chen</cal:authorNamePaper>
+			<foaf:givenName>Shao Min</foaf:givenName>
+			<foaf:familyName>Chen</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o11"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00072614</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>Y.X. Chen</cal:authorNamePaper>
+			<foaf:givenName>Yixue</foaf:givenName>
+			<foaf:familyName>Chen</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o12"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00447861</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>Y. Chen</cal:authorNamePaper>
+			<foaf:givenName>Yu</foaf:givenName>
+			<foaf:familyName>Chen</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o13"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00448615</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>J.-H. Cheng</cal:authorNamePaper>
+			<foaf:givenName>Jia Hua</foaf:givenName>
+			<foaf:familyName>Cheng</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o9"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00455025</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>J. Cheng</cal:authorNamePaper>
+			<foaf:givenName>Jie</foaf:givenName>
+			<foaf:familyName>Cheng</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o10"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00448817</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>Y.P. Cheng</cal:authorNamePaper>
+			<foaf:givenName>Ya Ping</foaf:givenName>
+			<foaf:familyName>Cheng</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o7"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00447873</cal:authorid>
+				<cal:authorid source="ORCID">0000-0001-9717-6958 </cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>Z.K. Cheng</cal:authorNamePaper>
+      <foaf:givenName>Zhaokan</foaf:givenName>
+			<foaf:familyName>Cheng</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o30"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE"></cal:authorid>
+				<cal:authorid source="ORCID"></cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>J.J. Cherwinka</cal:authorNamePaper>
+			<foaf:givenName>Jeff.J.</foaf:givenName>
+			<foaf:familyName>Cherwinka</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o1"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00447884</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>M.C. Chu</cal:authorNamePaper>
+			<foaf:givenName>Mingchung</foaf:givenName>
+			<foaf:familyName>Chu</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o8"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00436262</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>A. Chukanov</cal:authorNamePaper>
+			<foaf:givenName>Artem</foaf:givenName>
+			<foaf:familyName>Chukanov</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o6"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00438160</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>J.P. Cummings</cal:authorNamePaper>
+			<foaf:givenName>John.P.</foaf:givenName>
+			<foaf:familyName>Cummings</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o14"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00448709</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>J. de Arcos</cal:authorNamePaper>
+			<foaf:givenName>Jose</foaf:givenName>
+			<foaf:familyName>de Arcos</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o15"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00448855</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>Z.Y. Deng</cal:authorNamePaper>
+			<foaf:givenName>Zi Yan</foaf:givenName>
+			<foaf:familyName>Deng</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o7"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00409975</cal:authorid>
+				<cal:authorid source="ORCID">0000-0003-0440-3870</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>X.F. Ding</cal:authorNamePaper>
+			<foaf:givenName>Xue Feng</foaf:givenName>
+			<foaf:familyName>Ding</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o7"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00446735</cal:authorid>
+				<cal:authorid source="ORCID">0000-0001-8803-320X</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>Y.Y. Ding</cal:authorNamePaper>
+			<foaf:givenName>Ya Yun</foaf:givenName>
+			<foaf:familyName>Ding</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o7"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00447904</cal:authorid>
+				<cal:authorid source="ORCID">0000-0001-8513-6772</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>M.V. Diwan</cal:authorNamePaper>
+			<foaf:givenName>Milind Vaman</foaf:givenName>
+			<foaf:familyName>Diwan</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o3"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00077335</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>J. Dove</cal:authorNamePaper>
+      <foaf:givenName>Jason</foaf:givenName>
+			<foaf:familyName>Dove</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o17"/>
+			</cal:authorAffiliations>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>M. Dolgareva</cal:authorNamePaper>
+      <foaf:givenName>Maria</foaf:givenName>
+			<foaf:familyName>Dolgareva</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o6"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00625778</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>D.A. Dwyer</cal:authorNamePaper>
+			<foaf:givenName>Daniel A.</foaf:givenName>
+			<foaf:familyName>Dwyer</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o16"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00445365</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>W.R. Edwards</cal:authorNamePaper>
+			<foaf:givenName>William R.</foaf:givenName>
+			<foaf:familyName>Edwards</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o26"/>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o16"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00324968</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>R. Gill</cal:authorNamePaper>
+			<foaf:givenName>Ronald</foaf:givenName>
+			<foaf:familyName>Gill</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o3"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00331599</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>M. Gonchar</cal:authorNamePaper>
+			<foaf:givenName>Maxim</foaf:givenName>
+			<foaf:familyName>Gonchar</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o6"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00398549</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>G.H. Gong</cal:authorNamePaper>
+			<foaf:givenName>Guang Hua</foaf:givenName>
+			<foaf:familyName>Gong</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o11"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00257225</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>H. Gong</cal:authorNamePaper>
+			<foaf:givenName>Hui</foaf:givenName>
+			<foaf:familyName>Gong</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o11"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00257237</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>M. Grassi</cal:authorNamePaper>
+			<foaf:givenName>Marco</foaf:givenName>
+			<foaf:familyName>Grassi</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o7"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00176787</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>W.Q. Gu</cal:authorNamePaper>
+			<foaf:givenName>Wen Qiang</foaf:givenName>
+			<foaf:familyName>Gu</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o18"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00447949</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>M.Y. Guan</cal:authorNamePaper>
+			<foaf:givenName>Meng Yun</foaf:givenName>
+			<foaf:familyName>Guan</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o7"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00447951</cal:authorid>
+				<cal:authorid source="ORCID">0000-0002-5291-1565 </cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>L. Guo</cal:authorNamePaper>
+			<foaf:givenName>Lei</foaf:givenName>
+			<foaf:familyName>Guo</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o11"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00448830</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>X.H. Guo</cal:authorNamePaper>
+			<foaf:givenName>Xin Heng</foaf:givenName>
+			<foaf:familyName>Guo</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o19"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00301892</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>Z. Guo</cal:authorNamePaper>
+			<foaf:givenName>Ziyi</foaf:givenName>
+			<foaf:familyName>Guo</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o11"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00455061</cal:authorid>
+        <cal:authorid source="ORCID">0000-0003-3109-3070</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>R.W. Hackenburg</cal:authorNamePaper>
+			<foaf:givenName>Robert W.</foaf:givenName>
+			<foaf:familyName>Hackenburg</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o3"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00087700</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>R. Han</cal:authorNamePaper>
+			<foaf:givenName>Ran</foaf:givenName>
+			<foaf:familyName>Han</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o12"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00448848</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>S. Hans</cal:authorNamePaper>
+			<foaf:givenName>Sunej</foaf:givenName>
+			<foaf:familyName>Hans</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o3"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00267653</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>M. He</cal:authorNamePaper>
+			<foaf:givenName>Miao</foaf:givenName>
+			<foaf:familyName>He</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o7"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00385915</cal:authorid>
+				<cal:authorid source="ORCID">0000-0002-6813-4553</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>K.M. Heeger</cal:authorNamePaper>
+			<foaf:givenName>Karsten Miklas</foaf:givenName>
+			<foaf:familyName>Heeger</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o2"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00089405</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>Y.K. Heng</cal:authorNamePaper>
+			<foaf:givenName>Yue Kun</foaf:givenName>
+			<foaf:familyName>Heng</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o7"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00409811</cal:authorid>
+				<cal:authorid source="ORCID">0000-0002-8483-690X</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>A. Higuera</cal:authorNamePaper>
+			<foaf:givenName>Aaron</foaf:givenName>
+			<foaf:familyName>Higuera</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o20"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00266543</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>Y.K. Hor</cal:authorNamePaper>
+			<foaf:givenName>Joseph Yuen-Keung</foaf:givenName>
+			<foaf:familyName>Hor</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o21"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00448957</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>Y.B. Hsiung</cal:authorNamePaper>
+			<foaf:givenName>Yee Bob</foaf:givenName>
+			<foaf:familyName>Hsiung</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o4"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00091300</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>B.Z. Hu</cal:authorNamePaper>
+			<foaf:givenName>Bei Zhen</foaf:givenName>
+			<foaf:familyName>Hu</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o4"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00448687</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>T. Hu</cal:authorNamePaper>
+			<foaf:givenName>Tao</foaf:givenName>
+			<foaf:familyName>Hu</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o7"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00374829</cal:authorid>
+				<cal:authorid source="ORCID">0000-0003-1620-983X</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>W. Hu</cal:authorNamePaper>
+			<foaf:givenName>Wei</foaf:givenName>
+			<foaf:familyName>Hu</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o7"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00447999</cal:authorid>
+				<cal:authorid source="ORCID">0000-0003-0428-0743</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>E.C. Huang</cal:authorNamePaper>
+			<foaf:givenName>En Chuan</foaf:givenName>
+			<foaf:familyName>Huang</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o17"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00448006</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>H.X. Huang</cal:authorNamePaper>
+			<foaf:givenName>Han Xiong</foaf:givenName>
+			<foaf:familyName>Huang</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o22"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00448940</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>X.T. Huang</cal:authorNamePaper>
+			<foaf:givenName>Xing Tao</foaf:givenName>
+			<foaf:familyName>Huang</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o10"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00319779</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>P. Huber</cal:authorNamePaper>
+			<foaf:givenName>Patrick</foaf:givenName>
+			<foaf:familyName>Huber</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o21"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00091440</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>W. Huo</cal:authorNamePaper>
+			<foaf:givenName>Wenju</foaf:givenName>
+      <foaf:familyName>Huo</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o29"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00455095</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>G. Hussain</cal:authorNamePaper>
+			<foaf:givenName>Ghulam</foaf:givenName>
+			<foaf:familyName>Hussain</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o11"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00448021</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>D.E. Jaffe</cal:authorNamePaper>
+			<foaf:givenName>David Edward</foaf:givenName>
+			<foaf:familyName>Jaffe</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o3"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00092903</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>P. Jaffke</cal:authorNamePaper>
+			<foaf:givenName>Patrick</foaf:givenName>
+			<foaf:familyName>Jaffke</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o21"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00402848</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>K.L. Jen</cal:authorNamePaper>
+			<foaf:givenName>Kou Lun</foaf:givenName>
+			<foaf:familyName>Jen</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o9"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00448790</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>S. Jetter</cal:authorNamePaper>
+			<foaf:givenName>Soeren</foaf:givenName>
+			<foaf:familyName>Jetter</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o7"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00448031</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>X.P. Ji</cal:authorNamePaper>
+			<foaf:givenName>Xiang Pan</foaf:givenName>
+			<foaf:familyName>Ji</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o23"/>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o11"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00448049</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>X.L. Ji</cal:authorNamePaper>
+			<foaf:givenName>Xiao Lu</foaf:givenName>
+			<foaf:familyName>Ji</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o7"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00394069</cal:authorid>
+				<cal:authorid source="ORCID">0000-0002-1913-1997</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>J.B. Jiao</cal:authorNamePaper>
+			<foaf:givenName>Jian Bin</foaf:givenName>
+			<foaf:familyName>Jiao</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o10"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00446130</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>R.A. Johnson</cal:authorNamePaper>
+			<foaf:givenName>Randy Allan</foaf:givenName>
+			<foaf:familyName>Johnson</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o24"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00093660</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>J. Joshi</cal:authorNamePaper>
+			<foaf:givenName>J.</foaf:givenName>
+			<foaf:familyName>Joshi</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o3"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00019290</cal:authorid>
+        <cal:authorid source="ORCID">0000-0001-7045-4292</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>L. Kang</cal:authorNamePaper>
+			<foaf:givenName>Li</foaf:givenName>
+			<foaf:familyName>Kang</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o25"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00448060</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>S.H. Kettell</cal:authorNamePaper>
+			<foaf:givenName>Steven H.</foaf:givenName>
+			<foaf:familyName>Kettell</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o3"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00095806</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>S. Kohn</cal:authorNamePaper>
+      <foaf:givenName>Sam</foaf:givenName>
+			<foaf:familyName>Kohn</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o26"/>
+			</cal:authorAffiliations>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>M. Kramer</cal:authorNamePaper>
+			<foaf:givenName>Matt</foaf:givenName>
+			<foaf:familyName>Kramer</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o16"/>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o26"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00448072</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>K.K. Kwan</cal:authorNamePaper>
+			<foaf:givenName>Kin Keung</foaf:givenName>
+			<foaf:familyName>Kwan</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o8"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00436670</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>M.W. Kwok</cal:authorNamePaper>
+			<foaf:givenName>Man-wai</foaf:givenName>
+			<foaf:familyName>Kwok</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o8"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00448085</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>T. Kwok</cal:authorNamePaper>
+			<foaf:givenName>Talent</foaf:givenName>
+			<foaf:familyName>Kwok</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o27"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00448099</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>T.J. Langford</cal:authorNamePaper>
+			<foaf:givenName>Thomas J.</foaf:givenName>
+			<foaf:familyName>Langford</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o2"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00365104</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>K. Lau</cal:authorNamePaper>
+			<foaf:givenName>Kwong Hon</foaf:givenName>
+			<foaf:familyName>Lau</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o20"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00100170</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>L. Lebanowski</cal:authorNamePaper>
+			<foaf:givenName>Logan</foaf:givenName>
+			<foaf:familyName>Lebanowski</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o11"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00404534</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>J.H.C. Lee</cal:authorNamePaper>
+			<foaf:givenName>Jenny H.C.</foaf:givenName>
+			<foaf:familyName>Lee</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o27"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE"></cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>J. Lee</cal:authorNamePaper>
+			<foaf:givenName>Jason</foaf:givenName>
+			<foaf:familyName>Lee</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o16"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00448710</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>R.T. Lei</cal:authorNamePaper>
+			<foaf:givenName>Rui Ting</foaf:givenName>
+			<foaf:familyName>Lei</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o25"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00448100</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>R. Leitner</cal:authorNamePaper>
+			<foaf:givenName>Rupert</foaf:givenName>
+			<foaf:familyName>Leitner</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o28"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00301106</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>J.K.C. Leung</cal:authorNamePaper>
+			<foaf:givenName>John Kon Chong</foaf:givenName>
+			<foaf:familyName>Leung</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o27"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00448126</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>C. Li</cal:authorNamePaper>
+			<foaf:givenName>Chao</foaf:givenName>
+			<foaf:familyName>Li</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o10"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00455122</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>D.J. Li</cal:authorNamePaper>
+			<foaf:givenName>Deng Jie</foaf:givenName>
+			<foaf:familyName>Li</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o29"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00448740</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>F. Li</cal:authorNamePaper>
+			<foaf:givenName>Fei</foaf:givenName>
+			<foaf:familyName>Li</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o7"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00447641</cal:authorid>
+				<cal:authorid source="ORCID">0000-0001-7427-0730</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>G.S. Li</cal:authorNamePaper>
+			<foaf:givenName>Gao Song</foaf:givenName>
+			<foaf:familyName>Li</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o18"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00448131</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>Q.J. Li</cal:authorNamePaper>
+			<foaf:givenName>Qiu Ju</foaf:givenName>
+			<foaf:familyName>Li</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o7"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00410060</cal:authorid>
+				<cal:authorid source="ORCID">0000-0002-9678-2697</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>S.C. Li</cal:authorNamePaper>
+			<foaf:givenName>Sheng Chao</foaf:givenName>
+			<foaf:familyName>Li</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o27"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00448870</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>W.D. Li</cal:authorNamePaper>
+			<foaf:givenName>Wei Dong</foaf:givenName>
+			<foaf:familyName>Li</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o7"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00395587</cal:authorid>
+				<cal:authorid source="ORCID">0000-0003-0633-4346</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>X.N. Li</cal:authorNamePaper>
+			<foaf:givenName>Xiao Nan</foaf:givenName>
+			<foaf:familyName>Li</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o7"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00409563</cal:authorid>
+				<cal:authorid source="ORCID">0000-0003-2857-0219</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>Y.F. Li</cal:authorNamePaper>
+			<foaf:givenName>Yu Feng</foaf:givenName>
+			<foaf:familyName>Li</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o7"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00408158</cal:authorid>
+				<cal:authorid source="ORCID">0000-0002-2220-5248</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>S. Li</cal:authorNamePaper>
+			<foaf:givenName>Shanfeng</foaf:givenName>
+			<foaf:familyName>Li</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o25"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00455113</cal:authorid>
+				<cal:authorid source="ORCID"></cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>Z.B. Li</cal:authorNamePaper>
+			<foaf:givenName>Zhi Bing</foaf:givenName>
+			<foaf:familyName>Li</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o30"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00446205</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>H. Liang</cal:authorNamePaper>
+			<foaf:givenName>Hao</foaf:givenName>
+			<foaf:familyName>Liang</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o29"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00447046</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>C.J. Lin</cal:authorNamePaper>
+			<foaf:givenName>Cheng-Ju Stephen</foaf:givenName>
+			<foaf:familyName>Lin</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o16"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00101888</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>G.L. Lin</cal:authorNamePaper>
+			<foaf:givenName>Guey Lin</foaf:givenName>
+			<foaf:familyName>Lin</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o9"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00448142</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>S. Lin</cal:authorNamePaper>
+			<foaf:givenName>Shengxin</foaf:givenName>
+			<foaf:familyName>Lin</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o25"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+        <cal:authorid source="INSPIRE">INSPIRE-00455163</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>S.K. Lin</cal:authorNamePaper>
+			<foaf:givenName>Shih Kai</foaf:givenName>
+			<foaf:familyName>Lin</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o20"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00448738</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>Y.-C. Lin</cal:authorNamePaper>
+			<foaf:givenName>Yu-Cheng</foaf:givenName>
+			<foaf:familyName>Lin</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o4"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE"></cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>J.J. Ling</cal:authorNamePaper>
+			<foaf:givenName>Jia Jie</foaf:givenName>
+			<foaf:familyName>Ling</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o3"/>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o17"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00021914</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>J.M. Link</cal:authorNamePaper>
+			<foaf:givenName>Jonathan Marion</foaf:givenName>
+			<foaf:familyName>Link</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o21"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00102055</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>L. Littenberg</cal:authorNamePaper>
+			<foaf:givenName>Laurence S.</foaf:givenName>
+			<foaf:familyName>Littenberg</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o3"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00102201</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>B.R. Littlejohn</cal:authorNamePaper>
+			<foaf:givenName>Bryce R.</foaf:givenName>
+			<foaf:familyName>Littlejohn</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o24"/>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o15"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00367771</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>D.W. Liu</cal:authorNamePaper>
+			<foaf:givenName>Da Wei</foaf:givenName>
+			<foaf:familyName>Liu</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o20"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00034568</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>J.L. Liu</cal:authorNamePaper>
+			<foaf:givenName>Jiang Lai</foaf:givenName>
+			<foaf:familyName>Liu</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o18"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00448170</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>J.C. Liu</cal:authorNamePaper>
+			<foaf:givenName>Jin Chang</foaf:givenName>
+			<foaf:familyName>Liu</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o7"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00474460</cal:authorid>
+				<cal:authorid source="ORCID">0000-0003-0457-2121</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>C.W. Loh</cal:authorNamePaper>
+			<foaf:givenName>Changwei</foaf:givenName>
+			<foaf:familyName>Loh</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o37"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00219300</cal:authorid>
+				<cal:authorid source="ORCID"></cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>C. Lu</cal:authorNamePaper>
+			<foaf:givenName>Chang Guo </foaf:givenName>
+			<foaf:familyName>Lu</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o31"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00102888</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>H.Q. Lu</cal:authorNamePaper>
+			<foaf:givenName>Hao Qi</foaf:givenName>
+			<foaf:familyName>Lu</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o7"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00448207</cal:authorid>
+				<cal:authorid source="ORCID">0000-0001-7759-9443</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>J.S. Lu</cal:authorNamePaper>
+			<foaf:givenName>Jia Shu</foaf:givenName>
+			<foaf:familyName>Lu</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o7"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00455202</cal:authorid>
+				<cal:authorid source="ORCID">0000-0003-4308-4665</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>K.B. Luk</cal:authorNamePaper>
+			<foaf:givenName>Kam Biu</foaf:givenName>
+			<foaf:familyName>Luk</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o26"/>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o16"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00255545</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>Z. Lv</cal:authorNamePaper>
+			<foaf:givenName>Zhipeng</foaf:givenName>
+			<foaf:familyName>Lv</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o34"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00455224</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>Q.M. Ma</cal:authorNamePaper>
+			<foaf:givenName>Qiu Mei</foaf:givenName>
+			<foaf:familyName>Ma</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o7"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00387084</cal:authorid>
+				<cal:authorid source="ORCID">0000-0002-3829-7044</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>X.Y. Ma</cal:authorNamePaper>
+			<foaf:givenName>Xiao Yan</foaf:givenName>
+			<foaf:familyName>Ma</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o7"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00409988</cal:authorid>
+				<cal:authorid source="ORCID">0000-0001-9113-1476</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>X.B. Ma</cal:authorNamePaper>
+			<foaf:givenName>Xu Bo</foaf:givenName>
+			<foaf:familyName>Ma</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o12"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00448692</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>Y.Q. Ma</cal:authorNamePaper>
+			<foaf:givenName>Yu Qian</foaf:givenName>
+			<foaf:familyName>Ma</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o7"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00448210</cal:authorid>
+				<cal:authorid source="ORCID">0000-0001-6829-5069</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>Y. Malyshkin</cal:authorNamePaper>
+			<foaf:givenName>Yury</foaf:givenName>
+			<foaf:familyName>Malyshkin</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o36"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00625493</cal:authorid>
+				<cal:authorid source="ORCID"></cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>D.A. Martinez Caicedo</cal:authorNamePaper>
+			<foaf:givenName>David A.</foaf:givenName>
+			<foaf:familyName>Martinez Caicedo</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o15"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00266490</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>K.T. McDonald</cal:authorNamePaper>
+			<foaf:givenName>Kirk T.</foaf:givenName>
+			<foaf:familyName>McDonald</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o31"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00106192</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>R.D. McKeown</cal:authorNamePaper>
+			<foaf:givenName>Robert D.</foaf:givenName>
+			<foaf:familyName>McKeown</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o32"/>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o33"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00187078</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>I. Mitchell</cal:authorNamePaper>
+			<foaf:givenName>Ian</foaf:givenName>
+			<foaf:familyName>Mitchell</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o20"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00445830</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>M. Mooney</cal:authorNamePaper>
+			<foaf:givenName>Michael Ryan</foaf:givenName>
+			<foaf:familyName>Mooney</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o3"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00000449</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>Y. Nakajima</cal:authorNamePaper>
+			<foaf:givenName>Yasuhiro</foaf:givenName>
+			<foaf:familyName>Nakajima</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o16"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00043227</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>J. Napolitano</cal:authorNamePaper>
+			<foaf:givenName>James Justin</foaf:givenName>
+			<foaf:familyName>Napolitano</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o35"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00321572</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>D. Naumov</cal:authorNamePaper>
+			<foaf:givenName>Dmitry Vadimovich</foaf:givenName>
+			<foaf:familyName>Naumov</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o6"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00212304</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>E. Naumova</cal:authorNamePaper>
+			<foaf:givenName>Elena</foaf:givenName>
+			<foaf:familyName>Naumova</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o6"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00448655</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>H.Y. Ngai</cal:authorNamePaper>
+			<foaf:givenName>Jimmy</foaf:givenName>
+			<foaf:familyName>Ngai</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o27"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00448243</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>Z. Ning</cal:authorNamePaper>
+			<foaf:givenName>Zhe</foaf:givenName>
+			<foaf:familyName>Ning</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o7"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00409462</cal:authorid>
+				<cal:authorid source="ORCID">0000-0002-4884-5251</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>J.P. Ochoa-Ricoux</cal:authorNamePaper>
+			<foaf:givenName>Juan Pedro</foaf:givenName>
+			<foaf:familyName>Ochoa-Ricoux</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o36"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00404468</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>A. Olshevskiy</cal:authorNamePaper>
+			<foaf:givenName>Alexander</foaf:givenName>
+			<foaf:familyName>Olshevskiy</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o6"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00226805</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+    <foaf:Person>
+        <cal:authorNamePaper>H.-R. Pan</cal:authorNamePaper>
+        <foaf:givenName>Hsiao-Ru</foaf:givenName>
+        <foaf:familyName>Pan</foaf:familyName>
+        <cal:authorCollaboration collaborationid="c1"/>
+        <cal:authorAffiliations>
+            <cal:authorAffiliation connection="Affiliated with" organizationid="o4"/>
+        </cal:authorAffiliations>
+        <cal:authorids>
+            <cal:authorid source="INSPIRE">INSPIRE-00455244</cal:authorid>
+        </cal:authorids>
+    </foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>J. Park</cal:authorNamePaper>
+			<foaf:givenName>Jaewon</foaf:givenName>
+			<foaf:familyName>Park</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o21"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00266582</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>S. Patton</cal:authorNamePaper>
+			<foaf:givenName>Simon John</foaf:givenName>
+			<foaf:familyName>Patton</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o16"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00325767</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>V. Pec</cal:authorNamePaper>
+			<foaf:givenName>Viktor</foaf:givenName>
+			<foaf:familyName>Pec</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o28"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00449020</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>J.C. Peng</cal:authorNamePaper>
+			<foaf:givenName>Jen Chieh</foaf:givenName>
+			<foaf:familyName>Peng</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o17"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00175661</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>L. Pinsky</cal:authorNamePaper>
+			<foaf:givenName>Lawrence S.</foaf:givenName>
+			<foaf:familyName>Pinsky</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o20"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00116547</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>C.S.J. Pun</cal:authorNamePaper>
+			<foaf:givenName>Jason C.S.</foaf:givenName>
+			<foaf:familyName>Pun</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o27"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00448722</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>F.Z. Qi</cal:authorNamePaper>
+			<foaf:givenName>Fa Zhi</foaf:givenName>
+			<foaf:familyName>Qi</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o7"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00013419</cal:authorid>
+				<cal:authorid source="ORCID">0000-0002-0448-2620</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>M. Qi</cal:authorNamePaper>
+			<foaf:givenName>Ming</foaf:givenName>
+			<foaf:familyName>Qi</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o37"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00222211</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>X. Qian</cal:authorNamePaper>
+			<foaf:givenName>Xin</foaf:givenName>
+			<foaf:familyName>Qian</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o3"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00328434</cal:authorid>
+				<cal:authorid source="ORCID">0000-0002-7903-7935</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>N. Raper</cal:authorNamePaper>
+			<foaf:givenName>Neill</foaf:givenName>
+			<foaf:familyName>Raper</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o38"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00448257</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>J. Ren</cal:authorNamePaper>
+			<foaf:givenName>Jie</foaf:givenName>
+			<foaf:familyName>Ren</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o22"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00448637</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>R. Rosero</cal:authorNamePaper>
+			<foaf:givenName>Richard</foaf:givenName>
+			<foaf:familyName>Rosero</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o3"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00448266</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>B. Roskovec</cal:authorNamePaper>
+			<foaf:givenName>Bedrich</foaf:givenName>
+			<foaf:familyName>Roskovec</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o28"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00448278</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>X.C. Ruan</cal:authorNamePaper>
+			<foaf:givenName>Xi Chao</foaf:givenName>
+			<foaf:familyName>Ruan</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o22"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00448284</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>H. Steiner</cal:authorNamePaper>
+			<foaf:givenName>Herbert M.</foaf:givenName>
+			<foaf:familyName>Steiner</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o26"/>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o16"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00128769</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>G.X. Sun</cal:authorNamePaper>
+			<foaf:givenName>Gong Xing</foaf:givenName>
+			<foaf:familyName>Sun</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o7"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00351625</cal:authorid>
+				<cal:authorid source="ORCID">0000-0003-4771-3000</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>J.L. Sun</cal:authorNamePaper>
+			<foaf:givenName>Ji Liang</foaf:givenName>
+			<foaf:familyName>Sun</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o39"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00448293</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>W. Tang</cal:authorNamePaper>
+			<foaf:givenName>Wei</foaf:givenName>
+			<foaf:familyName>Tang</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o3"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00457299</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>D. Taychenachev</cal:authorNamePaper>
+			<foaf:givenName>Dmitriy</foaf:givenName>
+			<foaf:familyName>Taychenachev</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o6"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00458140</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>K. Treskov</cal:authorNamePaper>
+			<foaf:givenName>Konstantin</foaf:givenName>
+			<foaf:familyName>Treskov</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o6"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE"></cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>K.V. Tsang</cal:authorNamePaper>
+			<foaf:givenName>Ka Vang</foaf:givenName>
+			<foaf:familyName>Tsang</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o16"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00028609</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>C.E. Tull</cal:authorNamePaper>
+			<foaf:givenName>Craig E.</foaf:givenName>
+			<foaf:familyName>Tull</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o16"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00448321</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>N. Viaux</cal:authorNamePaper>
+			<foaf:givenName>Nicolás</foaf:givenName>
+			<foaf:familyName>Viaux</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o36"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00384010</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>B. Viren</cal:authorNamePaper>
+			<foaf:givenName>Brett Michael</foaf:givenName>
+			<foaf:familyName>Viren</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o3"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00306750</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>V. Vorobel</cal:authorNamePaper>
+			<foaf:givenName>Vit</foaf:givenName>
+			<foaf:familyName>Vorobel</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o28"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00188264</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>C.H. Wang</cal:authorNamePaper>
+			<foaf:givenName>Chung Hsiang</foaf:givenName>
+			<foaf:familyName>Wang</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o5"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00134816</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>M. Wang</cal:authorNamePaper>
+			<foaf:givenName>Meng</foaf:givenName>
+			<foaf:familyName>Wang</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o10"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00338851</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>N.Y. Wang</cal:authorNamePaper>
+			<foaf:givenName>Nai Yan</foaf:givenName>
+			<foaf:familyName>Wang</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o19"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00448359</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>R.G. Wang</cal:authorNamePaper>
+			<foaf:givenName>Rui Guang</foaf:givenName>
+			<foaf:familyName>Wang</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o7"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00450215</cal:authorid>
+				<cal:authorid source="ORCID">0000-0002-0474-5275</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>W. Wang</cal:authorNamePaper>
+			<foaf:givenName>Wei</foaf:givenName>
+			<foaf:familyName>Wang</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o30"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00399173</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>X. Wang</cal:authorNamePaper>
+			<foaf:givenName>Xi</foaf:givenName>
+			<foaf:familyName>Wang</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o40"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00448910</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>Y.F. Wang</cal:authorNamePaper>
+			<foaf:givenName>Yi Fang</foaf:givenName>
+			<foaf:familyName>Wang</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o7"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00267690</cal:authorid>
+				<cal:authorid source="ORCID">0000-0001-8331-6980</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>Z. Wang</cal:authorNamePaper>
+			<foaf:givenName>Zhe</foaf:givenName>
+			<foaf:familyName>Wang</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o11"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00448361</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>Z. Wang</cal:authorNamePaper>
+			<foaf:givenName>Zheng</foaf:givenName>
+			<foaf:familyName>Wang</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o7"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00408362</cal:authorid>
+				<cal:authorid source="ORCID">0000-0001-5802-6949</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>Z.M. Wang</cal:authorNamePaper>
+			<foaf:givenName>Zhi Min</foaf:givenName>
+			<foaf:familyName>Wang</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o7"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00448371</cal:authorid>
+				<cal:authorid source="ORCID">0000-0002-8651-8999</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>H.Y. Wei</cal:authorNamePaper>
+			<foaf:givenName>Han Yu</foaf:givenName>
+			<foaf:familyName>Wei</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o11"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00448383</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>L.J. Wen</cal:authorNamePaper>
+			<foaf:givenName>Liang Jian</foaf:givenName>
+			<foaf:familyName>Wen</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o7"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00448409</cal:authorid>
+				<cal:authorid source="ORCID">0000-0003-4541-9422</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>K. Whisnant</cal:authorNamePaper>
+			<foaf:givenName>Kerry L.</foaf:givenName>
+			<foaf:familyName>Whisnant</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o41"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00160033</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>C.G. White</cal:authorNamePaper>
+			<foaf:givenName>Christopher Gerard</foaf:givenName>
+			<foaf:familyName>White</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o15"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00135716</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>L. Whitehead</cal:authorNamePaper>
+			<foaf:givenName>Lisa Angelika</foaf:givenName>
+			<foaf:familyName>Whitehead</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o20"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00022141</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>T. Wise</cal:authorNamePaper>
+			<foaf:givenName>Thomas S.</foaf:givenName>
+			<foaf:familyName>Wise</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o1"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00448411</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>H.L.H. Wong</cal:authorNamePaper>
+			<foaf:givenName>Hin-Lok Henoch</foaf:givenName>
+			<foaf:familyName>Wong</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o26"/>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o16"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00448423</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>S.C.F. Wong</cal:authorNamePaper>
+			<foaf:givenName>Chan Fai</foaf:givenName>
+			<foaf:familyName>Wong</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o8"/>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o30"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00450201</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>E. Worcester</cal:authorNamePaper>
+			<foaf:givenName>Elizabeth Turner</foaf:givenName>
+			<foaf:familyName>Worcester</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o3"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00034633</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>C.-H. Wu</cal:authorNamePaper>
+			<foaf:givenName>Chia-Hao</foaf:givenName>
+			<foaf:familyName>Wu</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o9"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00459679</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>Q. Wu</cal:authorNamePaper>
+			<foaf:givenName>Qun</foaf:givenName>
+			<foaf:familyName>Wu</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o10"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00304646</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>W.J. Wu</cal:authorNamePaper>
+			<foaf:givenName>Wenjie</foaf:givenName>
+			<foaf:familyName>Wu</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o9"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE"></cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>D.M. Xia</cal:authorNamePaper>
+			<foaf:givenName>Dong Mei</foaf:givenName>
+			<foaf:familyName>Xia</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o7"/>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o42"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00448437</cal:authorid>
+				<cal:authorid source="ORCID">0000-0001-6468-0752</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>J.K. Xia</cal:authorNamePaper>
+			<foaf:givenName>Jing Kai</foaf:givenName>
+			<foaf:familyName>Xia</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o7"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00448641</cal:authorid>
+				<cal:authorid source="ORCID">0000-0002-8014-3452</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>Z.Z. Xing</cal:authorNamePaper>
+			<foaf:givenName>Zhi Zhong</foaf:givenName>
+			<foaf:familyName>Xing</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o7"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00140848</cal:authorid>
+				<cal:authorid source="ORCID">0000-0002-9652-4989</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>J.Y. Xu</cal:authorNamePaper>
+			<foaf:givenName>Jian Yi</foaf:givenName>
+			<foaf:familyName>Xu</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o8"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00448675</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>J.L. Xu</cal:authorNamePaper>
+			<foaf:givenName>Ji Lei</foaf:givenName>
+			<foaf:familyName>Xu</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o7"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00448455</cal:authorid>
+				<cal:authorid source="ORCID">0000-0001-5743-6807</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>Y. Xu</cal:authorNamePaper>
+			<foaf:givenName>Ye</foaf:givenName>
+			<foaf:familyName>Xu</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o23"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00448463</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>T. Xue</cal:authorNamePaper>
+			<foaf:givenName>Tao</foaf:givenName>
+			<foaf:familyName>Xue</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o11"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00448478</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>C.G. Yang</cal:authorNamePaper>
+			<foaf:givenName>Chang Gen</foaf:givenName>
+			<foaf:familyName>Yang</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o7"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00448487</cal:authorid>
+				<cal:authorid source="ORCID">0000-0001-8177-7732 </cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>H. Yang</cal:authorNamePaper>
+			<foaf:givenName>Haibo</foaf:givenName>
+			<foaf:familyName>Yang</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o37"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE"></cal:authorid>
+				<cal:authorid source="ORCID"></cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>L. Yang</cal:authorNamePaper>
+			<foaf:givenName>Lei</foaf:givenName>
+			<foaf:familyName>Yang</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o25"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00448521</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>M.S. Yang</cal:authorNamePaper>
+			<foaf:givenName>Ma Sheng</foaf:givenName>
+			<foaf:familyName>Yang</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o7"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00448660</cal:authorid>
+				<cal:authorid source="ORCID">0000-0002-5674-7803</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>M.T. Yang</cal:authorNamePaper>
+			<foaf:givenName>Meng Ting</foaf:givenName>
+			<foaf:familyName>Yang</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o10"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00448825</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>M. Ye</cal:authorNamePaper>
+			<foaf:givenName>Mei</foaf:givenName>
+			<foaf:familyName>Ye</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o7"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00447706</cal:authorid>
+				<cal:authorid source="ORCID">0000-0002-9437-1405</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>M. Yeh</cal:authorNamePaper>
+			<foaf:givenName>Min Fang</foaf:givenName>
+			<foaf:familyName>Yeh</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o3"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00428450</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>Z. Ye</cal:authorNamePaper>
+			<foaf:givenName>Ziping</foaf:givenName>
+			<foaf:familyName>Ye</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o20"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE"></cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>B.L. Young</cal:authorNamePaper>
+			<foaf:givenName>Bing Lin</foaf:givenName>
+			<foaf:familyName>Young</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o41"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00403239</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>Z.Y. Yu</cal:authorNamePaper>
+			<foaf:givenName>Ze Yuan</foaf:givenName>
+			<foaf:familyName>Yu</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o7"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00448530</cal:authorid>
+				<cal:authorid source="ORCID">0000-0002-6462-8417</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>S. Zeng</cal:authorNamePaper>
+			<foaf:givenName>Shan</foaf:givenName>
+			<foaf:familyName>Zeng</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o7"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00453866</cal:authorid>
+				<cal:authorid source="ORCID">0000-0002-7628-9096</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>L. Zhan</cal:authorNamePaper>
+			<foaf:givenName>Liang</foaf:givenName>
+			<foaf:familyName>Zhan</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o7"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00358435</cal:authorid>
+				<cal:authorid source="ORCID">0000-0002-4266-0694</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>C. Zhang</cal:authorNamePaper>
+			<foaf:givenName>Chao</foaf:givenName>
+			<foaf:familyName>Zhang</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o3"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00428465</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>H.H. Zhang</cal:authorNamePaper>
+			<foaf:givenName>Hong Hao</foaf:givenName>
+			<foaf:familyName>Zhang</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o30"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00448897</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>J.W. Zhang</cal:authorNamePaper>
+			<foaf:givenName>Jia Wen</foaf:givenName>
+			<foaf:familyName>Zhang</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o7"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00410035</cal:authorid>
+				<cal:authorid source="ORCID">0000-0001-7794-7014</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>Q.M. Zhang</cal:authorNamePaper>
+			<foaf:givenName>Qing Min</foaf:givenName>
+			<foaf:familyName>Zhang</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o34"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00448550</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>X.T. Zhang</cal:authorNamePaper>
+			<foaf:givenName>Xuantong</foaf:givenName>
+			<foaf:familyName>Zhang</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o7"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00455377</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>Y.M. Zhang</cal:authorNamePaper>
+			<foaf:givenName>Yi Ming</foaf:givenName>
+			<foaf:familyName>Zhang</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o11"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00449037</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>Y.X. Zhang</cal:authorNamePaper>
+			<foaf:givenName>Yi Xin</foaf:givenName>
+			<foaf:familyName>Zhang</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o39"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00448575</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>Y.M. Zhang</cal:authorNamePaper>
+			<foaf:givenName>Yu Mei</foaf:givenName>
+			<foaf:familyName>Zhang</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o30"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00448937</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>Z.J. Zhang</cal:authorNamePaper>
+			<foaf:givenName>Zhi Jian</foaf:givenName>
+			<foaf:familyName>Zhang</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o25"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00448499</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>Z.Y. Zhang</cal:authorNamePaper>
+			<foaf:givenName>Zhi Yong</foaf:givenName>
+			<foaf:familyName>Zhang</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o7"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00448582</cal:authorid>
+				<cal:authorid source="ORCID">0000-0001-9753-0873</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>Z.P. Zhang</cal:authorNamePaper>
+			<foaf:givenName>Zi Ping</foaf:givenName>
+			<foaf:familyName>Zhang</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o29"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00149639</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>J. Zhao</cal:authorNamePaper>
+			<foaf:givenName>Jie</foaf:givenName>
+			<foaf:familyName>Zhao</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o7"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00448596</cal:authorid>
+				<cal:authorid source="ORCID">0000-0001-8995-7981</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>Q.W. Zhao</cal:authorNamePaper>
+			<foaf:givenName>Qing Wang</foaf:givenName>
+			<foaf:familyName>Zhao</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o7"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00447572</cal:authorid>
+				<cal:authorid source="ORCID">0000-0002-5459-2641</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>Y.B. Zhao</cal:authorNamePaper>
+			<foaf:givenName>Yu Bin</foaf:givenName>
+			<foaf:familyName>Zhao</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o7"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00409867</cal:authorid>
+				<cal:authorid source="ORCID">0000-0003-3954-3195</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>W.L. Zhong</cal:authorNamePaper>
+			<foaf:givenName>Wei Li</foaf:givenName>
+			<foaf:familyName>Zhong</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o7"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00430116</cal:authorid>
+				<cal:authorid source="ORCID">0000-0002-4566-5490</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>L. Zhou</cal:authorNamePaper>
+			<foaf:givenName>Li</foaf:givenName>
+			<foaf:familyName>Zhou</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o7"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00447675</cal:authorid>
+				<cal:authorid source="ORCID">0000-0003-0799-1233</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>N. Zhou</cal:authorNamePaper>
+			<foaf:givenName>Nan</foaf:givenName>
+			<foaf:familyName>Zhou</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o29"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00448880</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>H.L. Zhuang</cal:authorNamePaper>
+			<foaf:givenName>Hong Lin</foaf:givenName>
+			<foaf:familyName>Zhuang</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o7"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00448518</cal:authorid>
+				<cal:authorid source="ORCID">0000-0001-8280-0885</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+		<foaf:Person>
+			<cal:authorNamePaper>J.H. Zou</cal:authorNamePaper>
+			<foaf:givenName>Jia Heng</foaf:givenName>
+			<foaf:familyName>Zou</foaf:familyName>
+			<cal:authorCollaboration collaborationid="c1"/>
+			<cal:authorAffiliations>
+				<cal:authorAffiliation connection="Affiliated with" organizationid="o7"/>
+			</cal:authorAffiliations>
+			<cal:authorids>
+				<cal:authorid source="INSPIRE">INSPIRE-00447625</cal:authorid>
+				<cal:authorid source="ORCID">0000-0003-3581-2829</cal:authorid>
+			</cal:authorids>
+		</foaf:Person>
+	</cal:authors>
+</collaborationauthorlist>

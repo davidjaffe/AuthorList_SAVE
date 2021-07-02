@@ -1,0 +1,1 @@
+../svjour3.cls

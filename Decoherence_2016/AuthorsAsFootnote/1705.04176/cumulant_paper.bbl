@@ -1,0 +1,2426 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.8 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\sortlist[entry]{none/global/}
+  \entry{Poskanzer:1998yz}{article}{}
+    \name{author}{2}{}{%
+      {{hash=PAM}{%
+         family={Poskanzer},
+         familyi={P\bibinitperiod},
+         given={A.\bibnamedelima M.},
+         giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=VSA}{%
+         family={Voloshin},
+         familyi={V\bibinitperiod},
+         given={S.\bibnamedelima A.},
+         giveni={S\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{PAMVSA1}
+    \strng{fullhash}{PAMVSA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1103/PhysRevC.58.1671
+    \endverb
+    \verb{eprint}
+    \verb nucl-ex/9805001
+    \endverb
+    \field{pages}{1671}
+    \field{title}{{Methods for analyzing anisotropic flow in relativistic
+  nuclear collisions}}
+    \field{volume}{58}
+    \field{journaltitle}{Phys. Rev. C}
+    \field{eprinttype}{arXiv}
+    \field{year}{1998}
+  \endentry
+
+  \entry{flowReview}{article}{}
+    \name{author}{3}{}{%
+      {{hash=VSA}{%
+         family={Voloshin},
+         familyi={V\bibinitperiod},
+         given={S.\bibnamedelima A.},
+         giveni={S\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=PAM}{%
+         family={Poskanzer},
+         familyi={P\bibinitperiod},
+         given={A.\bibnamedelima M.},
+         giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=SR}{%
+         family={Snellings},
+         familyi={S\bibinitperiod},
+         given={R.},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{VSAPAMSR1}
+    \strng{fullhash}{VSAPAMSR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{eprint}
+    \verb 0809.2949
+    \endverb
+    \field{title}{{Collective phenomena in non-central nuclear collisions }}
+    \field{eprinttype}{arXiv}
+    \field{eprintclass}{nucl-ex}
+    \field{year}{2008}
+  \endentry
+
+  \entry{flowReview1}{article}{}
+    \name{author}{1}{}{%
+      {{hash=SP}{%
+         family={Sorensen},
+         familyi={S\bibinitperiod},
+         given={P.},
+         giveni={P\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SP1}
+    \strng{fullhash}{SP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{eprint}
+    \verb 0905.0174
+    \endverb
+    \field{title}{{Elliptic Flow: A Study of Space-Momentum Correlations In
+  Relativistic Nuclear Collisions }}
+    \field{eprinttype}{arXiv}
+    \field{eprintclass}{nucl-ex}
+    \field{year}{2009}
+  \endentry
+
+  \entry{brahms1}{article}{}
+    \name{author}{1}{}{%
+      {{hash=B}{%
+         family={{BRAHMS Collaboration, I. Arsene et al.}},
+         familyi={B\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{B1}
+    \strng{fullhash}{B1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1016/j.nuclphysa.2005.02.130
+    \endverb
+    \verb{eprint}
+    \verb nucl-ex/0410020
+    \endverb
+    \field{pages}{1}
+    \field{title}{{Quark gluon plasma and color glass condensate at RHIC? The
+  perspective from the BRAHMS experiment}}
+    \field{volume}{757}
+    \field{journaltitle}{Nucl. Phys. A}
+    \field{eprinttype}{arXiv}
+    \field{year}{2005}
+  \endentry
+
+  \entry{phobos1}{article}{}
+    \name{author}{1}{}{%
+      {{hash=P}{%
+         family={{PHOBOS Collaboration, B. B. Back et al.}},
+         familyi={P\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{P3}
+    \strng{fullhash}{P3}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1016/j.nuclphysa.2005.03.084
+    \endverb
+    \verb{eprint}
+    \verb nucl-ex/0410022
+    \endverb
+    \field{pages}{28}
+    \field{title}{{The PHOBOS perspective on discoveries at RHIC}}
+    \field{volume}{757}
+    \field{journaltitle}{Nucl. Phys. A}
+    \field{eprinttype}{arXiv}
+    \field{year}{2005}
+  \endentry
+
+  \entry{star1}{article}{}
+    \name{author}{1}{}{%
+      {{hash=S}{%
+         family={{STAR Collaboration, J. Adams et al.}},
+         familyi={S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{S1}
+    \strng{fullhash}{S1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1016/j.nuclphysa.2005.03.085
+    \endverb
+    \verb{eprint}
+    \verb nucl-ex/0501009
+    \endverb
+    \field{pages}{102}
+    \field{title}{{Experimental and theoretical challenges in the search for
+  the quark gluon plasma: The STAR collaboration's critical assessment of the
+  evidence from RHIC collisions}}
+    \field{volume}{757}
+    \field{journaltitle}{Nucl. Phys. A}
+    \field{eprinttype}{arXiv}
+    \field{year}{2005}
+  \endentry
+
+  \entry{phenix1}{article}{}
+    \name{author}{1}{}{%
+      {{hash=P}{%
+         family={{PHENIX Collaboration, K. Adcox et al.}},
+         familyi={P\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{P2}
+    \strng{fullhash}{P2}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1016/j.nuclphysa.2005.03.086
+    \endverb
+    \verb{eprint}
+    \verb nucl-ex/0410003
+    \endverb
+    \field{pages}{184}
+    \field{title}{{Formation of dense partonic matter in relativistic nucleus
+  nucleus collisions at RHIC: Experimental evaluation by the PHENIX
+  collaboration}}
+    \field{volume}{757}
+    \field{journaltitle}{Nucl. Phys. A}
+    \field{eprinttype}{arXiv}
+    \field{year}{2005}
+  \endentry
+
+  \entry{Alice1}{article}{}
+    \name{author}{1}{}{%
+      {{hash=A}{%
+         family={{ALICE Collaboration, K. Aamodt et al.}},
+         familyi={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{A7}
+    \strng{fullhash}{A7}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1103/PhysRevLett.105.252302
+    \endverb
+    \verb{eprint}
+    \verb 1011.3914
+    \endverb
+    \field{pages}{252302}
+    \field{title}{{Elliptic Flow of Charged Particles in Pb-Pb Collisions at
+  $\sqrt{s_{\mathrm{NN}}}=2.76$~\TeV\ }}
+    \field{volume}{105}
+    \field{journaltitle}{Phys. Rev. Lett.}
+    \field{eprinttype}{arXiv}
+    \field{eprintclass}{nucl-ex}
+    \field{year}{2010}
+  \endentry
+
+  \entry{Alice2}{article}{}
+    \name{author}{1}{}{%
+      {{hash=A}{%
+         family={{ALICE Collaboration, K. Aamodt et al.}},
+         familyi={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{A7}
+    \strng{fullhash}{A7}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1103/PhysRevLett.107.032301
+    \endverb
+    \verb{eprint}
+    \verb 1105.3865
+    \endverb
+    \field{pages}{032301}
+    \field{title}{{Higher Harmonic Anisotropic Flow Measurements of Charged
+  Particles in Pb-Pb Collisions at $\sqrt{s_{\mathrm{NN}}}=2.76$~\TeV\ }}
+    \field{volume}{107}
+    \field{journaltitle}{Phys. Rev. Lett.}
+    \field{eprinttype}{arXiv}
+    \field{eprintclass}{nucl-ex}
+    \field{year}{2011}
+  \endentry
+
+  \entry{Atlas1}{article}{}
+    \name{author}{1}{}{%
+      {{hash=A}{%
+         family={{ATLAS Collaboration}},
+         familyi={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{A8}
+    \strng{fullhash}{A8}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1016/j.physletb.2011.12.056
+    \endverb
+    \verb{eprint}
+    \verb 1108.6018
+    \endverb
+    \field{pages}{330}
+    \field{title}{{Measurement of the pseudorapidity and transverse momentum
+  dependence of the elliptic flow of charged particles in lead-lead collisions
+  at $\sqrt{s_{\mathrm{NN}}}=2.76$~\TeV\ with the ATLAS detector }}
+    \field{volume}{707}
+    \field{journaltitle}{Phys. Lett. B}
+    \field{eprinttype}{arXiv}
+    \field{eprintclass}{nucl-ex}
+    \field{year}{2012}
+  \endentry
+
+  \entry{Alice4}{article}{}
+    \name{author}{1}{}{%
+      {{hash=A}{%
+         family={{ALICE Collaboration, K. Aamodt et al.}},
+         familyi={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{A7}
+    \strng{fullhash}{A7}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1016/j.physletb.2012.01.060
+    \endverb
+    \verb{eprint}
+    \verb 1109.2501
+    \endverb
+    \field{pages}{249}
+    \field{title}{{Harmonic decomposition of two-particle angular correlations
+  in Pb-Pb collisions at $\sqrt{s_{\mathrm{NN}}}=2.76$~\TeV\ }}
+    \field{volume}{708}
+    \field{journaltitle}{Phys. Lett. B}
+    \field{eprinttype}{arXiv}
+    \field{eprintclass}{nucl-ex}
+    \field{year}{2012}
+  \endentry
+
+  \entry{Atlas2}{article}{}
+    \name{author}{1}{}{%
+      {{hash=A}{%
+         family={{ATLAS Collaboration}},
+         familyi={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{A8}
+    \strng{fullhash}{A8}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1103/PhysRevC.86.014907
+    \endverb
+    \verb{eprint}
+    \verb 1203.3087
+    \endverb
+    \field{pages}{014907}
+    \field{title}{{Measurement of the azimuthal anisotropy for charged particle
+  production in $\sqrt{s_{\mathrm{NN}}}=2.76$~\TeV\ lead-lead collisions with
+  the ATLAS detector}}
+    \field{volume}{86}
+    \field{journaltitle}{Phys. Rev. C}
+    \field{eprinttype}{arXiv}
+    \field{eprintclass}{hep-ex}
+    \field{year}{2012}
+  \endentry
+
+  \entry{Cms1}{article}{}
+    \name{author}{1}{}{%
+      {{hash=C}{%
+         family={{CMS Collaboration}},
+         familyi={C\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{C1}
+    \strng{fullhash}{C1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1103/PhysRevC.87.014902
+    \endverb
+    \verb{eprint}
+    \verb 1204.1409
+    \endverb
+    \field{pages}{014902}
+    \field{title}{{Measurement of the elliptic anisotropy of charged particles
+  produced in PbPb collisions at $\sqrt{s_{\mathrm{NN}}}=2.76$~\TeV\ }}
+    \field{volume}{87}
+    \field{journaltitle}{Phys. Rev. C}
+    \field{eprinttype}{arXiv}
+    \field{eprintclass}{nucl-ex}
+    \field{year}{2013}
+  \endentry
+
+  \entry{Cms2}{article}{}
+    \name{author}{1}{}{%
+      {{hash=C}{%
+         family={{CMS Collaboration}},
+         familyi={C\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{C1}
+    \strng{fullhash}{C1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1103/PhysRevLett.109.022301
+    \endverb
+    \verb{eprint}
+    \verb 1204.1850
+    \endverb
+    \field{pages}{022301}
+    \field{title}{{Azimuthal anisotropy of charged particles at high transverse
+  momenta in PbPb collisions at $\sqrt{s_{\mathrm{NN}}}=2.76$~\TeV\ }}
+    \field{volume}{109}
+    \field{journaltitle}{Phys. Rev. Lett.}
+    \field{eprinttype}{arXiv}
+    \field{eprintclass}{nucl-ex}
+    \field{year}{2012}
+  \endentry
+
+  \entry{Atlas3}{article}{}
+    \name{author}{1}{}{%
+      {{hash=A}{%
+         family={{ATLAS Collaboration}},
+         familyi={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{A8}
+    \strng{fullhash}{A8}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1007/JHEP11(2013)183
+    \endverb
+    \verb{eprint}
+    \verb 1305.2942
+    \endverb
+    \field{pages}{183}
+    \field{title}{{Measurement of the distributions of event-by-event flow
+  harmonics in lead-lead collisions at $\sqrt{s_{\mathrm{NN}}}=2.76$~\TeV\ with
+  the ATLAS detector at the LHC}}
+    \field{volume}{11}
+    \field{journaltitle}{JHEP}
+    \field{eprinttype}{arXiv}
+    \field{eprintclass}{hep-ex}
+    \field{year}{2013}
+  \endentry
+
+  \entry{Cms4}{article}{}
+    \name{author}{1}{}{%
+      {{hash=C}{%
+         family={{CMS Collaboration}},
+         familyi={C\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{C1}
+    \strng{fullhash}{C1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1103/PhysRevC.89.044906
+    \endverb
+    \verb{eprint}
+    \verb 1310.8651
+    \endverb
+    \field{pages}{044906}
+    \field{title}{{Measurement of higher-order harmonic azimuthal anisotropy in
+  PbPb collisions at $\sqrt{s_{\mathrm{NN}}}=2.76$~\TeV\ }}
+    \field{volume}{89}
+    \field{journaltitle}{Phys. Rev. C}
+    \field{eprinttype}{arXiv}
+    \field{eprintclass}{nucl-ex}
+    \field{year}{2014}
+  \endentry
+
+  \entry{Cms5}{article}{}
+    \name{author}{1}{}{%
+      {{hash=C}{%
+         family={{CMS Collaboration}},
+         familyi={C\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{C1}
+    \strng{fullhash}{C1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1007/JHEP02(2014)088
+    \endverb
+    \verb{eprint}
+    \verb 1312.1845
+    \endverb
+    \field{pages}{088}
+    \field{title}{{Studies of azimuthal dihadron correlations in ultra-central
+  PbPb collisions at $\sqrt{s_{\mathrm{NN}}}=2.76$~\TeV\ }}
+    \field{volume}{02}
+    \field{journaltitle}{JHEP}
+    \field{eprinttype}{arXiv}
+    \field{eprintclass}{nucl-ex}
+    \field{year}{2014}
+  \endentry
+
+  \entry{Alice9}{article}{}
+    \name{author}{1}{}{%
+      {{hash=A}{%
+         family={{ALICE Collaboration, B. Abelev et al.}},
+         familyi={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{A5}
+    \strng{fullhash}{A5}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1103/PhysRevC.90.054901
+    \endverb
+    \verb{eprint}
+    \verb 1406.2474
+    \endverb
+    \field{pages}{054901}
+    \field{title}{{Multiparticle azimuthal correlations in p-Pb and Pb-Pb
+  collisions at the CERN Large Hadron Collider }}
+    \field{volume}{90}
+    \field{journaltitle}{Phys. Rev. C}
+    \field{eprinttype}{arXiv}
+    \field{eprintclass}{nucl-ex}
+    \field{year}{2014}
+  \endentry
+
+  \entry{Atlas5}{article}{}
+    \name{author}{1}{}{%
+      {{hash=A}{%
+         family={{ATLAS Collaboration}},
+         familyi={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{A8}
+    \strng{fullhash}{A8}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1140/epjc/s10052-014-2982-4
+    \endverb
+    \verb{eprint}
+    \verb 1405.3936
+    \endverb
+    \field{pages}{2982}
+    \field{title}{{Measurement of the centrality and pseudorapidity dependence
+  of the integrated elliptic flow in lead-lead collisions at
+  $\sqrt{s_{\mathrm{NN}}}=2.76$~\TeV\ with the ATLAS detector }}
+    \field{volume}{74}
+    \field{journaltitle}{Eur. Phys. J. C}
+    \field{eprinttype}{arXiv}
+    \field{eprintclass}{hep-ex}
+    \field{year}{2014}
+  \endentry
+
+  \entry{Atlas6}{article}{}
+    \name{author}{1}{}{%
+      {{hash=A}{%
+         family={{ATLAS Collaboration}},
+         familyi={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{A8}
+    \strng{fullhash}{A8}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1140/epjc/s10052-014-3157-z
+    \endverb
+    \verb{eprint}
+    \verb 1408.4342
+    \endverb
+    \field{pages}{3157}
+    \field{title}{{Measurement of flow harmonics with multi-particle cumulants
+  in Pb+Pb collisions at $\sqrt{s_{\mathrm{NN}}}=2.76$~\TeV\ with the ATLAS
+  detector }}
+    \field{volume}{74}
+    \field{journaltitle}{Eur. Phys. J. C}
+    \field{eprinttype}{arXiv}
+    \field{eprintclass}{hep-ex}
+    \field{year}{2014}
+  \endentry
+
+  \entry{Alice10}{article}{}
+    \name{author}{1}{}{%
+      {{hash=A}{%
+         family={{ALICE Collaboration, J. Adam et al.}},
+         familyi={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{A6}
+    \strng{fullhash}{A6}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1103/PhysRevLett.116.132302
+    \endverb
+    \verb{eprint}
+    \verb 1602.01119
+    \endverb
+    \field{pages}{132302}
+    \field{title}{{Anisotropic flow of charged particles in Pb–Pb collisions
+  at $\sqrt{s_{\mathrm{NN}}}=5.02$~\TeV\ }}
+    \field{volume}{116}
+    \field{journaltitle}{Phys. Rev. Lett.}
+    \field{eprinttype}{arXiv}
+    \field{eprintclass}{nucl-ex}
+    \field{year}{2016}
+  \endentry
+
+  \entry{Alice11}{article}{}
+    \name{author}{1}{}{%
+      {{hash=A}{%
+         family={{ALICE Collaboration, J. Adam et al.}},
+         familyi={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{A6}
+    \strng{fullhash}{A6}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1016/j.physletb.2016.07.017
+    \endverb
+    \verb{eprint}
+    \verb 1605.02035
+    \endverb
+    \field{pages}{376}
+    \field{title}{{Pseudorapidity dependence of the anisotropic flow of charged
+  particles in Pb–Pb collisions at $\sqrt{s_{\mathrm{NN}}}=2.76$~\TeV\ }}
+    \field{volume}{762}
+    \field{journaltitle}{Phys. Lett. B}
+    \field{eprinttype}{arXiv}
+    \field{eprintclass}{nucl-ex}
+    \field{year}{2016}
+  \endentry
+
+  \entry{roland}{article}{}
+    \name{author}{2}{}{%
+      {{hash=AB}{%
+         family={Alver},
+         familyi={A\bibinitperiod},
+         given={B.},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=RG}{%
+         family={Roland},
+         familyi={R\bibinitperiod},
+         given={G.},
+         giveni={G\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{ABRG1}
+    \strng{fullhash}{ABRG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1103/PhysRevC.81.054905
+    \endverb
+    \verb{eprint}
+    \verb 1003.0194
+    \endverb
+    \field{note}{{[Erratum: Phys.~Rev.~C 82 (2010) 039903]}}
+    \field{pages}{054905}
+    \field{title}{{Collision geometry fluctuations and triangular flow in
+  heavy-ion collisions}}
+    \field{volume}{81}
+    \field{journaltitle}{Phys.~Rev.~C}
+    \field{eprinttype}{arXiv}
+    \field{eprintclass}{nucl-ex}
+    \field{year}{2010}
+  \endentry
+
+  \entry{fluctCGC}{article}{}
+    \name{author}{3}{}{%
+      {{hash=SB}{%
+         family={Schenke},
+         familyi={S\bibinitperiod},
+         given={B.},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=TP}{%
+         family={Tribedy},
+         familyi={T\bibinitperiod},
+         given={P.},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=VR}{%
+         family={Venugopalan},
+         familyi={V\bibinitperiod},
+         given={R.},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SBTPVR1}
+    \strng{fullhash}{SBTPVR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1103/PhysRevLett.108.252301
+    \endverb
+    \verb{eprint}
+    \verb 1202.6646
+    \endverb
+    \field{pages}{252301}
+    \field{title}{{Fluctuating Glasma initial conditions and flow in heavy ion
+  collisions }}
+    \field{volume}{108}
+    \field{journaltitle}{Phys.~Rev.~Lett.}
+    \field{eprinttype}{arXiv}
+    \field{eprintclass}{nucl-th}
+    \field{year}{2012}
+  \endentry
+
+  \entry{hydro1}{article}{}
+    \name{author}{1}{}{%
+      {{hash=OJY}{%
+         family={Ollitrault},
+         familyi={O\bibinitperiod},
+         given={J.-Y},
+         giveni={J\bibinitperiod-Y},
+      }}%
+    }
+    \strng{namehash}{OJY1}
+    \strng{fullhash}{OJY1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1103/PhysRevD.46.229
+    \endverb
+    \field{pages}{229}
+    \field{title}{{Anisotropy as a signature of transverse collective flow }}
+    \field{volume}{46}
+    \field{journaltitle}{Phys.~Rev.~D}
+    \field{year}{1992}
+  \endentry
+
+  \entry{hydro2}{article}{}
+    \name{author}{2}{}{%
+      {{hash=HU}{%
+         family={Heinz},
+         familyi={H\bibinitperiod},
+         given={U.},
+         giveni={U\bibinitperiod},
+      }}%
+      {{hash=SR}{%
+         family={Snellings},
+         familyi={S\bibinitperiod},
+         given={R.},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HUSR1}
+    \strng{fullhash}{HUSR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1146/annurev-nucl-102212-170540
+    \endverb
+    \verb{eprint}
+    \verb 1301.2826
+    \endverb
+    \field{pages}{123}
+    \field{title}{{Collective flow and viscosity in relativistic heavy-ion
+  collisions }}
+    \field{volume}{63}
+    \field{journaltitle}{Annu.~Rev.~Nucl.~Part.~Sci.}
+    \field{eprinttype}{arXiv}
+    \field{eprintclass}{nucl-th}
+    \field{year}{2013}
+  \endentry
+
+  \entry{hydro3}{article}{}
+    \name{author}{3}{}{%
+      {{hash=GC}{%
+         family={Gale},
+         familyi={G\bibinitperiod},
+         given={C.},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=JS}{%
+         family={Jeon},
+         familyi={J\bibinitperiod},
+         given={S.},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=SB}{%
+         family={Schenke},
+         familyi={S\bibinitperiod},
+         given={B.},
+         giveni={B\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{GCJSSB1}
+    \strng{fullhash}{GCJSSB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1142/S0217751X13400113
+    \endverb
+    \verb{eprint}
+    \verb 1301.5893
+    \endverb
+    \field{pages}{1340011}
+    \field{title}{{Hydrodynamic Modeling of Heavy-Ion Collisions }}
+    \field{volume}{28}
+    \field{journaltitle}{Int.~J.~Mod. Phys.~A}
+    \field{eprinttype}{arXiv}
+    \field{eprintclass}{nucl-th}
+    \field{year}{2013}
+  \endentry
+
+  \entry{Kovtun:2004de}{article}{}
+    \name{author}{3}{}{%
+      {{hash=KP}{%
+         family={Kovtun},
+         familyi={K\bibinitperiod},
+         given={P.},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=SDT}{%
+         family={Son},
+         familyi={S\bibinitperiod},
+         given={D.\bibnamedelima T.},
+         giveni={D\bibinitperiod\bibinitdelim T\bibinitperiod},
+      }}%
+      {{hash=SAO}{%
+         family={Starinets},
+         familyi={S\bibinitperiod},
+         given={A.\bibnamedelima O.},
+         giveni={A\bibinitperiod\bibinitdelim O\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{KPSDTSAO1}
+    \strng{fullhash}{KPSDTSAO1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1103/PhysRevLett.94.111601
+    \endverb
+    \verb{eprint}
+    \verb hep-th/0405231
+    \endverb
+    \field{pages}{111601}
+    \field{title}{{Viscosity in strongly interacting quantum field theories
+  from black hole physics}}
+    \field{volume}{94}
+    \field{journaltitle}{Phys.~Rev.~Lett.}
+    \field{eprinttype}{arXiv}
+    \field{year}{2005}
+  \endentry
+
+  \entry{pPbcms1}{article}{}
+    \name{author}{1}{}{%
+      {{hash=C}{%
+         family={{CMS Collaboration}},
+         familyi={C\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{C1}
+    \strng{fullhash}{C1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1016/j.physletb.2012.11.025
+    \endverb
+    \verb{eprint}
+    \verb 1210.5482
+    \endverb
+    \field{pages}{795}
+    \field{title}{{Observation of long-range near-side angular correlations in
+  proton-lead collisions at the LHC }}
+    \field{volume}{718}
+    \field{journaltitle}{Phys. Lett. B}
+    \field{eprinttype}{arXiv}
+    \field{eprintclass}{nucl-ex}
+    \field{year}{2013}
+  \endentry
+
+  \entry{pPbalice1}{article}{}
+    \name{author}{1}{}{%
+      {{hash=A}{%
+         family={{ALICE Collaboration, B. Abelev et al.}},
+         familyi={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{A5}
+    \strng{fullhash}{A5}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1016/j.physletb.2013.01.012
+    \endverb
+    \verb{eprint}
+    \verb 1212.2001
+    \endverb
+    \field{pages}{29}
+    \field{title}{{Long-range angular correlations on the near and away side in
+  pPb collisions at $\sqrt{s_{\mathrm{NN}}}=5.02$~\TeV\ }}
+    \field{volume}{719}
+    \field{journaltitle}{Phys. Lett. B}
+    \field{eprinttype}{arXiv}
+    \field{eprintclass}{nucl-ex}
+    \field{year}{2013}
+  \endentry
+
+  \entry{pPbatlas1}{article}{}
+    \name{author}{1}{}{%
+      {{hash=A}{%
+         family={{ATLAS Collaboration}},
+         familyi={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{A8}
+    \strng{fullhash}{A8}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1103/PhysRevLett.110.182302
+    \endverb
+    \verb{eprint}
+    \verb 1212.5198
+    \endverb
+    \field{pages}{182302}
+    \field{title}{{Observation of associated near-side and away-side long-range
+  correlations in in $\sqrt{s_{\mathrm{NN}}}=5.02$~\TeV\ proton-lead collisions
+  with the ATLAS detector }}
+    \field{volume}{110}
+    \field{journaltitle}{Phys. Rev. Lett.}
+    \field{eprinttype}{arXiv}
+    \field{eprintclass}{hep-ex}
+    \field{year}{2013}
+  \endentry
+
+  \entry{pPbatlas2}{article}{}
+    \name{author}{1}{}{%
+      {{hash=A}{%
+         family={{ATLAS Collaboration}},
+         familyi={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{A8}
+    \strng{fullhash}{A8}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1016/j.physletb.2013.06.057
+    \endverb
+    \verb{eprint}
+    \verb 1303.2084
+    \endverb
+    \field{pages}{60}
+    \field{title}{{Measurement with the ATLAS detector of multi-particle
+  azimuthal correlations in p+Pb collisions at
+  $\sqrt{s_{\mathrm{NN}}}=5.02$~\TeV\ }}
+    \field{volume}{725}
+    \field{journaltitle}{Phys. Lett. B}
+    \field{eprinttype}{arXiv}
+    \field{eprintclass}{hep-ex}
+    \field{year}{2013}
+  \endentry
+
+  \entry{pPbcms2}{article}{}
+    \name{author}{1}{}{%
+      {{hash=C}{%
+         family={{CMS Collaboration}},
+         familyi={C\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{C1}
+    \strng{fullhash}{C1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1016/j.physletb.2013.06.028
+    \endverb
+    \verb{eprint}
+    \verb 1305.0609
+    \endverb
+    \field{pages}{213}
+    \field{title}{{Multiplicity and transverse momentum dependence of two- and
+  four-particle correlations in pPb and PbPb collisions }}
+    \field{volume}{724}
+    \field{journaltitle}{Phys. Lett. B}
+    \field{eprinttype}{arXiv}
+    \field{eprintclass}{nucl-ex}
+    \field{year}{2013}
+  \endentry
+
+  \entry{pPbalice2}{article}{}
+    \name{author}{1}{}{%
+      {{hash=A}{%
+         family={{ALICE Collaboration, B. Abelev et al.}},
+         familyi={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{A5}
+    \strng{fullhash}{A5}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1016/j.physletb.2013.08.024
+    \endverb
+    \verb{eprint}
+    \verb 1307.3237
+    \endverb
+    \field{pages}{164}
+    \field{title}{{Long-range angular correlations of $\pi$, K and p in p-Pb
+  collisions at $\sqrt{s_{\mathrm{NN}}}=5.02$~\TeV\ }}
+    \field{volume}{726}
+    \field{journaltitle}{Phys. Lett. B}
+    \field{eprinttype}{arXiv}
+    \field{eprintclass}{nucl-ex}
+    \field{year}{2013}
+  \endentry
+
+  \entry{pPbatlas3}{article}{}
+    \name{author}{1}{}{%
+      {{hash=A}{%
+         family={{ATLAS Collaboration}},
+         familyi={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{A8}
+    \strng{fullhash}{A8}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1103/PhysRevC.90.044906
+    \endverb
+    \verb{eprint}
+    \verb 1409.1792
+    \endverb
+    \field{pages}{044906}
+    \field{title}{{Measurement of long-range pseudorapidity correlations and
+  azimuthal harmonics in $\sqrt{s_{\mathrm{NN}}}=5.02$~\TeV\ proton-lead
+  collisions with the ATLAS detector }}
+    \field{volume}{90}
+    \field{journaltitle}{Phys. Rev. C}
+    \field{eprinttype}{arXiv}
+    \field{eprintclass}{hep-ex}
+    \field{year}{2014}
+  \endentry
+
+  \entry{pPbcms3}{article}{}
+    \name{author}{1}{}{%
+      {{hash=C}{%
+         family={{CMS Collaboration}},
+         familyi={C\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{C1}
+    \strng{fullhash}{C1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1103/PhysRevLett.115.012301
+    \endverb
+    \verb{eprint}
+    \verb 1502.05382
+    \endverb
+    \field{pages}{012301}
+    \field{title}{{Evidence for collective mutli-particle correlations in pPb
+  collisions }}
+    \field{volume}{115}
+    \field{journaltitle}{Phys. Rev. Lett.}
+    \field{eprinttype}{arXiv}
+    \field{eprintclass}{nucl-ex}
+    \field{year}{2015}
+  \endentry
+
+  \entry{pPbLHCb1}{article}{}
+    \name{author}{1}{}{%
+      {{hash=L}{%
+         family={{LHCb Collaboration, R. Aaij et al.}},
+         familyi={L\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{L1}
+    \strng{fullhash}{L1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1016/j.physletb.2016.09.064
+    \endverb
+    \verb{eprint}
+    \verb 1512.00439
+    \endverb
+    \field{pages}{473}
+    \field{title}{{Measurements of long-range near-side angular correlations in
+  in $\sqrt{s_{\mathrm{NN}}}=5$~\TeV\ proton-lead collisions in the forward
+  region}}
+    \field{volume}{762}
+    \field{journaltitle}{Phys. Lett. B}
+    \field{eprinttype}{arXiv}
+    \field{eprintclass}{hep-ex}
+    \field{year}{2016}
+  \endentry
+
+  \entry{pPbcms4}{article}{}
+    \name{author}{1}{}{%
+      {{hash=C}{%
+         family={{CMS Collaboration}},
+         familyi={C\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{C1}
+    \strng{fullhash}{C1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{eprint}
+    \verb 1604.05347
+    \endverb
+    \field{title}{{Pseudorapidity dependence of long-range two-particle
+  correlations in pPb collisions at $\sqrt{s_{\mathrm{NN}}}=5.02$~TeV}}
+    \field{eprinttype}{arXiv}
+    \field{eprintclass}{hep-ex}
+    \field{year}{2016}
+  \endentry
+
+  \entry{rhicdAu1}{article}{}
+    \name{author}{1}{}{%
+      {{hash=P}{%
+         family={{PHENIX Collaboration, A. Adare et al.}},
+         familyi={P\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{P1}
+    \strng{fullhash}{P1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1103/PhysRevLett.114.192301
+    \endverb
+    \verb{eprint}
+    \verb 1404.7461
+    \endverb
+    \field{pages}{192301}
+    \field{title}{{Measurement of long-range angular correlation and quadrupole
+  anisotropy of pions and (anti)protons in central d+Au collisions at
+  $\sqrt{s_{\mathrm{NN}}}=200$~\GeV\ }}
+    \field{volume}{114}
+    \field{journaltitle}{Phys.~Rev.~Lett.}
+    \field{eprinttype}{arXiv}
+    \field{eprintclass}{nucl-ex}
+    \field{year}{2015}
+  \endentry
+
+  \entry{rhicdAu2}{article}{}
+    \name{author}{1}{}{%
+      {{hash=S}{%
+         family={{STAR Collaboration, L. Adamczyk et al.}},
+         familyi={S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{S2}
+    \strng{fullhash}{S2}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1016/j.physletb.2015.05.075
+    \endverb
+    \verb{eprint}
+    \verb 1502.07652
+    \endverb
+    \field{pages}{265}
+    \field{title}{{Long-range pseudorapidity dihadron correlations in d+Au
+  collisions at $\sqrt{s_{\mathrm{NN}}}=200$~\GeV\ }}
+    \field{volume}{747}
+    \field{journaltitle}{Phys.~Lett.~B}
+    \field{eprinttype}{arXiv}
+    \field{eprintclass}{nucl-ex}
+    \field{year}{2015}
+  \endentry
+
+  \entry{rhicHeAu}{article}{}
+    \name{author}{1}{}{%
+      {{hash=P}{%
+         family={{PHENIX Collaboration, A. Adare et al.}},
+         familyi={P\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{P1}
+    \strng{fullhash}{P1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1103/PhysRevLett.115.142301
+    \endverb
+    \verb{eprint}
+    \verb 1507.06273
+    \endverb
+    \field{pages}{142301}
+    \field{title}{{Measurements of elliptic and triangular flow in
+  high-multiplicity $^{3}$ He+Au collisions at
+  $\sqrt{s_{\mathrm{NN}}}=200$~\GeV\ }}
+    \field{volume}{115}
+    \field{journaltitle}{Phys.~Rev.~Lett.}
+    \field{eprinttype}{arXiv}
+    \field{eprintclass}{nucl-ex}
+    \field{year}{2015}
+  \endentry
+
+  \entry{ppcms1}{article}{}
+    \name{author}{1}{}{%
+      {{hash=C}{%
+         family={{CMS Collaboration}},
+         familyi={C\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{C1}
+    \strng{fullhash}{C1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1007/JHEP09(2010)091
+    \endverb
+    \verb{eprint}
+    \verb 1009.4122
+    \endverb
+    \field{pages}{091}
+    \field{title}{{Observation of Long-Range Near-Side Angular Correlations in
+  Proton-Proton Collisions at the LHC}}
+    \field{volume}{09}
+    \field{journaltitle}{JHEP}
+    \field{eprinttype}{arXiv}
+    \field{eprintclass}{hep-ex}
+    \field{year}{2010}
+  \endentry
+
+  \entry{ppatlas1}{article}{}
+    \name{author}{1}{}{%
+      {{hash=A}{%
+         family={{ATLAS Collaboration}},
+         familyi={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{A8}
+    \strng{fullhash}{A8}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1103/PhysRevLett.116.172301
+    \endverb
+    \verb{eprint}
+    \verb 1509.04776
+    \endverb
+    \field{pages}{172301}
+    \field{title}{{Observation of Long-Range Elliptic Azimuthal Anisotropies in
+  \sqs = 13 and 2.76 TeV pp Collisions with the ATLAS Detector }}
+    \field{volume}{116}
+    \field{journaltitle}{Phys. Rev. Lett.}
+    \field{eprinttype}{arXiv}
+    \field{eprintclass}{nucl-ex}
+    \field{year}{2016}
+  \endentry
+
+  \entry{ppcms2}{article}{}
+    \name{author}{1}{}{%
+      {{hash=C}{%
+         family={{CMS Collaboration}},
+         familyi={C\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{C1}
+    \strng{fullhash}{C1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1103/PhysRevLett.116.172302
+    \endverb
+    \verb{eprint}
+    \verb 1510.03068
+    \endverb
+    \field{pages}{172302}
+    \field{title}{{Measurement of long-range near-side two-particle angular
+  correlations in pp collisions at \sqs = 13 TeV }}
+    \field{volume}{116}
+    \field{journaltitle}{Phys. Rev. Lett.}
+    \field{eprinttype}{arXiv}
+    \field{eprintclass}{nucl-ex}
+    \field{year}{2016}
+  \endentry
+
+  \entry{ppcms3}{article}{}
+    \name{author}{1}{}{%
+      {{hash=C}{%
+         family={{CMS Collaboration}},
+         familyi={C\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{C1}
+    \strng{fullhash}{C1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1016/j.physletb.2016.12.009
+    \endverb
+    \verb{eprint}
+    \verb 1606.06198
+    \endverb
+    \field{pages}{193}
+    \field{title}{{Evidence for collectivity in pp collisions at the LHC }}
+    \field{volume}{765}
+    \field{journaltitle}{Phys. Lett. B}
+    \field{eprinttype}{arXiv}
+    \field{eprintclass}{nucl-ex}
+    \field{year}{2017}
+  \endentry
+
+  \entry{ppatlas2}{article}{}
+    \name{author}{1}{}{%
+      {{hash=A}{%
+         family={{ATLAS Collaboration}},
+         familyi={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{A8}
+    \strng{fullhash}{A8}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{eprint}
+    \verb 1609.06213
+    \endverb
+    \field{title}{{Measurements of long-range azimuthal anisotropies and
+  associated Fourier coefficients in pp collisions at \sqs=5.02 and 13~TeV and
+  p+Pb collisions at \sqn=5.02~TeV with the ATLAS detector }}
+    \field{eprinttype}{arXiv}
+    \field{eprintclass}{nucl-ex}
+    \field{year}{2016}
+  \endentry
+
+  \entry{werner}{article}{}
+    \name{author}{3}{}{%
+      {{hash=WK}{%
+         family={Werner},
+         familyi={W\bibinitperiod},
+         given={K.},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=KI}{%
+         family={Karpenko},
+         familyi={K\bibinitperiod},
+         given={I.},
+         giveni={I\bibinitperiod},
+      }}%
+      {{hash=PT}{%
+         family={Pierog},
+         familyi={P\bibinitperiod},
+         given={T.},
+         giveni={T\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{WKKIPT1}
+    \strng{fullhash}{WKKIPT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1103/PhysRevLett.106.122004
+    \endverb
+    \verb{eprint}
+    \verb 1011.0375
+    \endverb
+    \field{pages}{122004}
+    \field{title}{{The "Ridge" in Proton-Proton Scattering at 7 TeV }}
+    \field{volume}{106}
+    \field{journaltitle}{Phys. Rev. Lett.}
+    \field{eprinttype}{arXiv}
+    \field{eprintclass}{hep-ph}
+    \field{year}{2011}
+  \endentry
+
+  \entry{ryskin}{article}{}
+    \name{author}{3}{}{%
+      {{hash=RM}{%
+         family={Ryskin},
+         familyi={R\bibinitperiod},
+         given={M.},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=MA}{%
+         family={Martin},
+         familyi={M\bibinitperiod},
+         given={A.},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=KV}{%
+         family={Khoze},
+         familyi={K\bibinitperiod},
+         given={V.},
+         giveni={V\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{RMMAKV1}
+    \strng{fullhash}{RMMAKV1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1088/0954-3899/38/8/085006
+    \endverb
+    \verb{eprint}
+    \verb 1105.4987
+    \endverb
+    \field{pages}{085006}
+    \field{title}{{Probes of multiparticle production at the LHC }}
+    \field{volume}{38}
+    \field{journaltitle}{J. Phys. G}
+    \field{eprinttype}{arXiv}
+    \field{eprintclass}{hep-ph}
+    \field{year}{2011}
+  \endentry
+
+  \entry{wong}{article}{}
+    \name{author}{1}{}{%
+      {{hash=WCY}{%
+         family={Wong},
+         familyi={W\bibinitperiod},
+         given={C.\bibnamedelima Y.},
+         giveni={C\bibinitperiod\bibinitdelim Y\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{WCY1}
+    \strng{fullhash}{WCY1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1103/PhysRevC.84.024901
+    \endverb
+    \verb{eprint}
+    \verb 1105.5871
+    \endverb
+    \field{pages}{024901}
+    \field{title}{{Momentum Kick Model Description of the Ridge in
+  (Delta-phi)-(Delta-eta) Correlation in pp Collisions at 7 TeV }}
+    \field{volume}{84}
+    \field{journaltitle}{Phys.~Rev.~C}
+    \field{eprinttype}{arXiv}
+    \field{eprintclass}{hep-ph}
+    \field{year}{2011}
+  \endentry
+
+  \entry{avsar}{article}{}
+    \true{moreauthor}
+    \name{author}{1}{}{%
+      {{hash=AE}{%
+         family={Avsar},
+         familyi={A\bibinitperiod},
+         given={E.},
+         giveni={E\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{AE+1}
+    \strng{fullhash}{AE+1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1088/0954-3899/38/12/124053
+    \endverb
+    \verb{eprint}
+    \verb 1106.4356
+    \endverb
+    \field{pages}{124053}
+    \field{title}{{Eccentricity and elliptic flow in pp collisions at the LHC
+  }}
+    \field{volume}{38}
+    \field{journaltitle}{J. Phys. G}
+    \field{eprinttype}{arXiv}
+    \field{eprintclass}{hep-ph}
+    \field{year}{2011}
+  \endentry
+
+  \entry{deng}{article}{}
+    \name{author}{3}{}{%
+      {{hash=DTW}{%
+         family={Deng},
+         familyi={D\bibinitperiod},
+         given={T.\bibnamedelima W.},
+         giveni={T\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+      {{hash=XZ}{%
+         family={Xu},
+         familyi={X\bibinitperiod},
+         given={Z.},
+         giveni={Z\bibinitperiod},
+      }}%
+      {{hash=GC}{%
+         family={Greiner},
+         familyi={G\bibinitperiod},
+         given={C.},
+         giveni={C\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{DTWXZGC1}
+    \strng{fullhash}{DTWXZGC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1016/j.physletb.2012.04.010
+    \endverb
+    \verb{eprint}
+    \verb 1112.0470
+    \endverb
+    \field{pages}{301}
+    \field{title}{{Elliptic and Triangular Flow and their Correlation in
+  Ultrarelativistic High Multiplicity Proton Proton Collisions at 14 TeV }}
+    \field{volume}{711}
+    \field{journaltitle}{Phys. Lett. B}
+    \field{eprinttype}{arXiv}
+    \field{eprintclass}{hep-ph}
+    \field{year}{2012}
+  \endentry
+
+  \entry{bozek}{article}{}
+    \name{author}{1}{}{%
+      {{hash=BP}{%
+         family={Bozek},
+         familyi={B\bibinitperiod},
+         given={P.},
+         giveni={P\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BP1}
+    \strng{fullhash}{BP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1103/PhysRevC.85.014911
+    \endverb
+    \verb{eprint}
+    \verb 1112.0915
+    \endverb
+    \field{pages}{014911}
+    \field{title}{{Collective flow in p-Pb and d-Pb collisions at TeV energies
+  }}
+    \field{volume}{85}
+    \field{journaltitle}{Phys. Rev. C}
+    \field{eprinttype}{arXiv}
+    \field{eprintclass}{hep-ph}
+    \field{year}{2012}
+  \endentry
+
+  \entry{strikman}{article}{}
+    \name{author}{1}{}{%
+      {{hash=SM}{%
+         family={Strikman},
+         familyi={S\bibinitperiod},
+         given={M.},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SM1}
+    \strng{fullhash}{SM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.5506/APhysPolB.42.2607
+    \endverb
+    \verb{eprint}
+    \verb 1112.3834
+    \endverb
+    \field{pages}{2607}
+    \field{title}{{TRANSVERSE NUCLEON STRUCTURE AND MULTIPARTON INTERACTIONS }}
+    \field{volume}{42}
+    \field{journaltitle}{Acta Phys. Pol. B}
+    \field{eprinttype}{arXiv}
+    \field{eprintclass}{hep-ph}
+    \field{year}{2011}
+  \endentry
+
+  \entry{bozek1}{article}{}
+    \name{author}{2}{}{%
+      {{hash=BP}{%
+         family={Bozek},
+         familyi={B\bibinitperiod},
+         given={P.},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=BW}{%
+         family={Broniowski},
+         familyi={B\bibinitperiod},
+         given={W.},
+         giveni={W\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BPBW1}
+    \strng{fullhash}{BPBW1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1016/j.physletb.2012.12.051
+    \endverb
+    \verb{eprint}
+    \verb 1211.0845
+    \endverb
+    \field{pages}{1557}
+    \field{title}{{Correlations from hydrodynamic flow in p-Pb collisions }}
+    \field{volume}{718}
+    \field{journaltitle}{Phys. Lett. B}
+    \field{eprinttype}{arXiv}
+    \field{eprintclass}{hep-ph}
+    \field{year}{2013}
+  \endentry
+
+  \entry{dusling1}{article}{}
+    \name{author}{2}{}{%
+      {{hash=DK}{%
+         family={Dusling},
+         familyi={D\bibinitperiod},
+         given={K.},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=VR}{%
+         family={Venugopalan},
+         familyi={V\bibinitperiod},
+         given={R.},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{DKVR1}
+    \strng{fullhash}{DKVR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1103/PhysRevD.87.054014
+    \endverb
+    \verb{eprint}
+    \verb 1211.3701
+    \endverb
+    \field{pages}{054014}
+    \field{title}{{Explanation of systematics of CMS p+Pb high multiplicity
+  di-hadron data at $\sqrt{s_{\mathrm{NN}}}=5.02$~\TeV\ }}
+    \field{volume}{87}
+    \field{journaltitle}{Phys.~Rev.~D}
+    \field{eprinttype}{arXiv}
+    \field{eprintclass}{hep-ph}
+    \field{year}{2013}
+  \endentry
+
+  \entry{kovchegov}{article}{}
+    \name{author}{2}{}{%
+      {{hash=KYV}{%
+         family={Kovchegov},
+         familyi={K\bibinitperiod},
+         given={Y.\bibnamedelima V.},
+         giveni={Y\bibinitperiod\bibinitdelim V\bibinitperiod},
+      }}%
+      {{hash=WDE}{%
+         family={Wertepny},
+         familyi={W\bibinitperiod},
+         given={D.\bibnamedelima E.},
+         giveni={D\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{KYVWDE1}
+    \strng{fullhash}{KYVWDE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1016/j.nuclphysa.2013.03.006
+    \endverb
+    \verb{eprint}
+    \verb 1212.1195
+    \endverb
+    \field{pages}{50}
+    \field{title}{{Long-Range Rapidity Correlations in Heavy-Light Ion
+  Collisions }}
+    \field{volume}{906}
+    \field{journaltitle}{Nucl.~Phys.~A}
+    \field{eprinttype}{arXiv}
+    \field{eprintclass}{hep-ph}
+    \field{year}{2013}
+  \endentry
+
+  \entry{dusling}{article}{}
+    \name{author}{2}{}{%
+      {{hash=DK}{%
+         family={Dusling},
+         familyi={D\bibinitperiod},
+         given={K.},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=VR}{%
+         family={Venugopalan},
+         familyi={V\bibinitperiod},
+         given={R.},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{DKVR1}
+    \strng{fullhash}{DKVR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1103/PhysRevD.87.094034
+    \endverb
+    \verb{eprint}
+    \verb 1302.7018
+    \endverb
+    \field{pages}{094034}
+    \field{title}{{Comparison of the Color Glass Condensate to di-hadron
+  correlations in proton-proton and proton-nucleus collisions }}
+    \field{volume}{87}
+    \field{journaltitle}{Phys.~Rev.~D}
+    \field{eprinttype}{arXiv}
+    \field{eprintclass}{hep-ph}
+    \field{year}{2013}
+  \endentry
+
+  \entry{BzdakSchenke}{article}{}
+    \name{author}{1}{}{%
+      {{hash=A}{%
+         family={{A. Bzdak, B. Schenke, P. Tribedy and R. Venugopalan}},
+         familyi={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{A2}
+    \strng{fullhash}{A2}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1103/PhysRevC.87.064906
+    \endverb
+    \verb{eprint}
+    \verb 1304.3403
+    \endverb
+    \field{pages}{064906}
+    \field{title}{{Initial state geometry and the role of hydrodynamics in
+  proton-proton, proton-nucleus and deuteron-nucleus collisions }}
+    \field{volume}{87}
+    \field{journaltitle}{Phys.~Rev.~C}
+    \field{eprinttype}{arXiv}
+    \field{eprintclass}{nucl-th}
+    \field{year}{2013}
+  \endentry
+
+  \entry{v468Ollitrault}{article}{}
+    \name{author}{2}{}{%
+      {{hash=YL}{%
+         family={Yan},
+         familyi={Y\bibinitperiod},
+         given={L.},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=OJY}{%
+         family={Ollitrault},
+         familyi={O\bibinitperiod},
+         given={J.-Y.},
+         giveni={J\bibinitperiod-Y\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{YLOJY1}
+    \strng{fullhash}{YLOJY1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1103/PhysRevLett.112.082301
+    \endverb
+    \verb{eprint}
+    \verb 1312.6555
+    \endverb
+    \field{pages}{082301}
+    \field{title}{{Universal fluctuation-driven eccentricities in
+  proton-proton, proton-nucleus and nucleus-nucleus collisions}}
+    \field{volume}{112}
+    \field{journaltitle}{Phys.~Rev.~Lett.}
+    \field{eprinttype}{arXiv}
+    \field{eprintclass}{nucl-th}
+    \field{year}{2014}
+  \endentry
+
+  \entry{MaBzdak}{article}{}
+    \name{author}{2}{}{%
+      {{hash=MGL}{%
+         family={Ma},
+         familyi={M\bibinitperiod},
+         given={G.\bibnamedelima L.},
+         giveni={G\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+      {{hash=BA}{%
+         family={Bzdak},
+         familyi={B\bibinitperiod},
+         given={A.},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MGLBA1}
+    \strng{fullhash}{MGLBA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1016/j.physletb.2014.10.066
+    \endverb
+    \verb{eprint}
+    \verb 1404.4129
+    \endverb
+    \field{pages}{209}
+    \field{title}{{Long-range azimuthal correlations in proton-proton and
+  proton-nucleus collisions from the incoherent scattering of partons }}
+    \field{volume}{739}
+    \field{journaltitle}{Phys.~Lett.~B}
+    \field{eprinttype}{arXiv}
+    \field{eprintclass}{hep-ph}
+    \field{year}{2014}
+  \endentry
+
+  \entry{schenke1}{article}{}
+    \name{author}{2}{}{%
+      {{hash=SB}{%
+         family={Schenke},
+         familyi={S\bibinitperiod},
+         given={B..},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=VR}{%
+         family={Venugopalan},
+         familyi={V\bibinitperiod},
+         given={R.},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SBVR1}
+    \strng{fullhash}{SBVR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1103/PhysRevLett.113.102301
+    \endverb
+    \verb{eprint}
+    \verb 1405.3605
+    \endverb
+    \field{pages}{102301}
+    \field{title}{{Eccentric protons? Sensitivity of flow to system size and
+  shape in p+p, p+Pb and Pb+Pb collisions }}
+    \field{volume}{113}
+    \field{journaltitle}{Phys.~Rev.~Lett.}
+    \field{eprinttype}{arXiv}
+    \field{eprintclass}{nucl-th}
+    \field{year}{2014}
+  \endentry
+
+  \entry{chesler1}{article}{}
+    \name{author}{1}{}{%
+      {{hash=CPM}{%
+         family={Chesler},
+         familyi={C\bibinitperiod},
+         given={P.\bibnamedelima M.},
+         giveni={P\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CPM1}
+    \strng{fullhash}{CPM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1103/PhysRevLett.115.241602
+    \endverb
+    \verb{eprint}
+    \verb 1506.02209
+    \endverb
+    \field{pages}{241602}
+    \field{title}{{Colliding shock waves and hydrodynamics in small systems }}
+    \field{volume}{115}
+    \field{journaltitle}{Phys.~Rev.~Lett.}
+    \field{eprinttype}{arXiv}
+    \field{eprintclass}{hep-th}
+    \field{year}{2015}
+  \endentry
+
+  \entry{chesler2}{article}{}
+    \name{author}{1}{}{%
+      {{hash=CPM}{%
+         family={Chesler},
+         familyi={C\bibinitperiod},
+         given={P.\bibnamedelima M.},
+         giveni={P\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CPM1}
+    \strng{fullhash}{CPM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1007/JHEP03(2016)146
+    \endverb
+    \verb{eprint}
+    \verb 1601.01583
+    \endverb
+    \field{pages}{146}
+    \field{title}{{How big are the smallest drops of quark-gluon plasma? }}
+    \field{volume}{03}
+    \field{journaltitle}{JHEP}
+    \field{eprinttype}{arXiv}
+    \field{eprintclass}{hep-th}
+    \field{year}{2016}
+  \endentry
+
+  \entry{phenix2p}{article}{}
+    \name{author}{1}{}{%
+      {{hash=P}{%
+         family={{PHENIX Collaboration, K. Adcox et al.}},
+         familyi={P\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{P2}
+    \strng{fullhash}{P2}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1103/PhysRevLett.89.212301
+    \endverb
+    \verb{eprint}
+    \verb nucl-ex/0204005
+    \endverb
+    \field{pages}{212301}
+    \field{title}{{Flow Measurements via Two-Particle Azimuthal Correlations in
+  Au+Au collisions at $\sqrt{s_{\mathrm{NN}}}$= 200 GeV}}
+    \field{volume}{89}
+    \field{journaltitle}{Phys. Rev. Lett.}
+    \field{eprinttype}{arXiv}
+    \field{year}{2002}
+  \endentry
+
+  \entry{Borghini:2000}{article}{}
+    \name{author}{3}{}{%
+      {{hash=BN}{%
+         family={Borghini},
+         familyi={B\bibinitperiod},
+         given={N.},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=DPM}{%
+         family={Dinh},
+         familyi={D\bibinitperiod},
+         given={P.\bibnamedelima M.},
+         giveni={P\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=OJY}{%
+         family={Ollitrault},
+         familyi={O\bibinitperiod},
+         given={J.\bibnamedelima Y.},
+         giveni={J\bibinitperiod\bibinitdelim Y\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BNDPMOJY1}
+    \strng{fullhash}{BNDPMOJY1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1103/PhysRevC.63.054906
+    \endverb
+    \verb{eprint}
+    \verb nucl-th/0007063
+    \endverb
+    \field{pages}{054906}
+    \field{title}{New method for measuring azimuthal distributions in
+  nucleus-nucleus collisions}
+    \field{volume}{63}
+    \field{journaltitle}{Phys. Rev. C}
+    \field{eprinttype}{arXiv}
+    \field{year}{2001}
+  \endentry
+
+  \entry{Borghini:2001}{article}{}
+    \name{author}{3}{}{%
+      {{hash=BN}{%
+         family={Borghini},
+         familyi={B\bibinitperiod},
+         given={N.},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=DPM}{%
+         family={Dinh},
+         familyi={D\bibinitperiod},
+         given={P.\bibnamedelima M.},
+         giveni={P\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=OJY}{%
+         family={Ollitrault},
+         familyi={O\bibinitperiod},
+         given={J.\bibnamedelima Y.},
+         giveni={J\bibinitperiod\bibinitdelim Y\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BNDPMOJY1}
+    \strng{fullhash}{BNDPMOJY1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1103/PhysRevC.64.054901
+    \endverb
+    \verb{eprint}
+    \verb nucl-th/0105040
+    \endverb
+    \field{pages}{054901}
+    \field{title}{{Flow analysis from multiparticle azimuthal correlations}}
+    \field{volume}{64}
+    \field{journaltitle}{Phys. Rev. C}
+    \field{eprinttype}{arXiv}
+    \field{year}{2001}
+  \endentry
+
+  \entry{Snellings}{article}{}
+    \name{author}{3}{}{%
+      {{hash=BA}{%
+         family={Bilandzic},
+         familyi={B\bibinitperiod},
+         given={A.},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=SR}{%
+         family={Snellings},
+         familyi={S\bibinitperiod},
+         given={R.},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=VS}{%
+         family={Voloshin},
+         familyi={V\bibinitperiod},
+         given={S.},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BASRVS1}
+    \strng{fullhash}{BASRVS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1103/PhysRevC.83.044913
+    \endverb
+    \verb{eprint}
+    \verb 1010.0233
+    \endverb
+    \field{pages}{044913}
+    \field{title}{{Flow analysis with cumulants: direct calculations}}
+    \field{volume}{83}
+    \field{journaltitle}{Phys. Rev. C}
+    \field{eprinttype}{arXiv}
+    \field{eprintclass}{nucl-ex}
+    \field{year}{2011}
+  \endentry
+
+  \entry{atlas-detector}{article}{}
+    \name{author}{1}{}{%
+      {{hash=A}{%
+         family={{ATLAS Collaboration}},
+         familyi={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{A8}
+    \strng{fullhash}{A8}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{pages}{S08003}
+    \field{title}{{The ATLAS Experiment at the CERN Large Hadron Collider}}
+    \field{volume}{3}
+    \field{journaltitle}{JINST}
+    \field{year}{2008}
+  \endentry
+
+  \entry{ATLAS-TDR-19}{booklet}{}
+    \name{author}{1}{}{%
+      {{hash=A}{%
+         family={{ATLAS Collaboration}},
+         familyi={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{A8}
+    \strng{fullhash}{A8}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{addendum}{{ ATLAS-TDR-19-ADD-1, 2012, {\scriptsize{URL}}:
+  \url{https://cds.cern.ch/record/1451888}}}
+    \field{howpublished}{ATLAS-TDR-19}
+    \field{title}{ATLAS Insertable B-Layer Technical Design Report}
+    \verb{url}
+    \verb https://cds.cern.ch/record/1291633
+    \endverb
+    \field{year}{2010}
+  \endentry
+
+  \entry{atlas-trigger-2010}{article}{}
+    \name{author}{1}{}{%
+      {{hash=A}{%
+         family={{ATLAS Collaboration}},
+         familyi={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{A8}
+    \strng{fullhash}{A8}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1140/epjc/s10052-011-1849-1
+    \endverb
+    \verb{eprint}
+    \verb 1110.1530
+    \endverb
+    \field{pages}{1849}
+    \field{title}{{Performance of the ATLAS Trigger System in 2010}}
+    \field{volume}{72}
+    \field{journaltitle}{Eur. Phys. J. C}
+    \field{eprinttype}{arXiv}
+    \field{eprintclass}{hep-ex}
+    \field{year}{2012}
+  \endentry
+
+  \entry{ATLAS-CONF-2013-104}{booklet}{}
+    \name{author}{1}{}{%
+      {{hash=A}{%
+         family={{ATLAS Collaboration}},
+         familyi={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{A8}
+    \strng{fullhash}{A8}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{howpublished}{{ATLAS-CONF-2013-104}}
+    \field{title}{{Performance of the ATLAS Minimum Bias and Forward Detector
+  Triggers in $p$+Pb collisions}}
+    \verb{url}
+    \verb https://cdsweb.cern.ch/record/1624013
+    \endverb
+    \field{year}{2013}
+  \endentry
+
+  \entry{pythia8}{article}{}
+    \name{author}{3}{}{%
+      {{hash=ST}{%
+         family={Sj{\"{o}}strand},
+         familyi={S\bibinitperiod},
+         given={T.},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=MS}{%
+         family={Mrenna},
+         familyi={M\bibinitperiod},
+         given={S.},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=SP}{%
+         family={Skands},
+         familyi={S\bibinitperiod},
+         given={P.},
+         giveni={P\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{STMSSP1}
+    \strng{fullhash}{STMSSP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1016/j.cpc.2008.01.036
+    \endverb
+    \verb{eprint}
+    \verb 0710.3820
+    \endverb
+    \field{pages}{852}
+    \field{title}{{A Brief Introduction to PYTHIA 8.1 }}
+    \field{volume}{178}
+    \field{journaltitle}{Comp. Phys. Comm.}
+    \field{eprinttype}{arXiv}
+    \field{eprintclass}{hep-ph}
+    \field{year}{2008}
+  \endentry
+
+  \entry{ATL-PHYS-PUB-2011-009}{booklet}{}
+    \name{author}{1}{}{%
+      {{hash=A}{%
+         family={{ATLAS Collaboration}},
+         familyi={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{A8}
+    \strng{fullhash}{A8}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{howpublished}{{ATL-PHYS-PUB-2011-009}}
+    \field{title}{{ATLAS tunes of \textsc{Pythia} 6 and Pythia 8 for MC11}}
+    \verb{url}
+    \verb https://cds.cern.ch/record/1363300
+    \endverb
+    \field{year}{2011}
+  \endentry
+
+  \entry{MSTW2008}{article}{}
+    \name{author}{1}{}{%
+      {{hash=A}{%
+         family={{A.D. Martin, W.J. Stirling, R.S.Thorne and G. Watt}},
+         familyi={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{A4}
+    \strng{fullhash}{A4}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1140/epjc/s10052-009-1072-5
+    \endverb
+    \verb{eprint}
+    \verb 0901.0002
+    \endverb
+    \field{pages}{189}
+    \field{title}{{Parton distributions for the LHC}}
+    \field{volume}{63}
+    \field{journaltitle}{Eur. Phys. J. C}
+    \field{eprinttype}{arXiv}
+    \field{eprintclass}{hep-ph}
+    \field{year}{2009}
+  \endentry
+
+  \entry{hijing}{article}{}
+    \name{author}{2}{}{%
+      {{hash=WXN}{%
+         family={Wang},
+         familyi={W\bibinitperiod},
+         given={X.\bibnamedelima N.},
+         giveni={X\bibinitperiod\bibinitdelim N\bibinitperiod},
+      }}%
+      {{hash=GM}{%
+         family={Gyulassy},
+         familyi={G\bibinitperiod},
+         given={M.},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{WXNGM1}
+    \strng{fullhash}{WXNGM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1016/0010-4655(94)90057-4
+    \endverb
+    \verb{eprint}
+    \verb nucl-th/9502021
+    \endverb
+    \field{pages}{307}
+    \field{title}{{HIJING 1.0: A Monte Carlo Program for Parton and Particle
+  Production in High Energy Hadronic and Nuclear Collisions }}
+    \field{volume}{83}
+    \field{journaltitle}{Comp. Phys. Comm.}
+    \field{eprinttype}{arXiv}
+    \field{year}{1995}
+  \endentry
+
+  \entry{AtlasInfra}{article}{}
+    \name{author}{1}{}{%
+      {{hash=A}{%
+         family={{ATLAS Collaboration}},
+         familyi={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{A8}
+    \strng{fullhash}{A8}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1140/epjc/s10052-010-1429-9
+    \endverb
+    \verb{eprint}
+    \verb 1005.4568
+    \endverb
+    \field{pages}{823}
+    \field{title}{{The ATLAS Simulation Infrastructure}}
+    \field{volume}{70}
+    \field{journaltitle}{Eur. Phys. J. C}
+    \field{eprinttype}{arXiv}
+    \field{eprintclass}{hep-ex}
+    \field{year}{2010}
+  \endentry
+
+  \entry{geant}{article}{}
+    \true{moreauthor}
+    \name{author}{1}{}{%
+      {{hash=AS}{%
+         family={Agostinelli},
+         familyi={A\bibinitperiod},
+         given={S.},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{AS+1}
+    \strng{fullhash}{AS+1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1016/S0168-9002(03)01368-8
+    \endverb
+    \field{pages}{250}
+    \field{title}{{GEANT4—a simulation toolkit }}
+    \field{volume}{506}
+    \field{journaltitle}{Nucl. Instrum. Meth. A}
+    \field{year}{2003}
+  \endentry
+
+  \entry{ATL-PHYS-PUB-2015-006}{booklet}{}
+    \name{author}{1}{}{%
+      {{hash=A}{%
+         family={{ATLAS Collaboration}},
+         familyi={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{A8}
+    \strng{fullhash}{A8}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{howpublished}{{ATL-PHYS-PUB-2015-006}}
+    \field{title}{{The Optimization of ATLAS Track Reconstruction in Dense
+  Environments }}
+    \verb{url}
+    \verb https://cds.cern.ch/record/2002609
+    \endverb
+    \field{year}{2015}
+  \endentry
+
+  \entry{jia}{article}{}
+    \name{author}{1}{}{%
+      {{hash=J}{%
+         family={{J. Jia, M. Zhou and A. Trzupek}},
+         familyi={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{J1}
+    \strng{fullhash}{J1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{eprint}
+    \verb 1701.03830
+    \endverb
+    \field{title}{{Revealing long-range multi-particle collectivity in small
+  collision systems via subevent cumulants }}
+    \field{eprinttype}{arXiv}
+    \field{eprintclass}{nucl-th}
+    \field{year}{2017}
+  \endentry
+
+  \entry{STDM-2015-02}{article}{}
+    \name{author}{1}{}{%
+      {{hash=A}{%
+         family={{ATLAS Collaboration}},
+         familyi={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{A8}
+    \strng{fullhash}{A8}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1016/j.physletb.2016.04.050
+    \endverb
+    \verb{eprint}
+    \verb 1602.01633
+    \endverb
+    \field{pages}{67}
+    \field{title}{{Charged-particle distributions in $\sqrt{s} =
+  13\;\mbox{TeV}$ $pp$ interactions measured with the ATLAS detector at the
+  LHC}}
+    \field{volume}{758}
+    \field{journaltitle}{Phys. Lett. B}
+    \field{eprinttype}{arXiv}
+    \field{eprintclass}{hep-ex}
+    \field{year}{2016}
+  \endentry
+
+  \entry{bzdak1}{article}{}
+    \name{author}{1}{}{%
+      {{hash=A}{%
+         family={{A. Bzdak, P. Bozek and L. McLerran}},
+         familyi={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{A3}
+    \strng{fullhash}{A3}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1016/j.nuclphysa.2014.03.007
+    \endverb
+    \verb{eprint}
+    \verb 1311.7325
+    \endverb
+    \field{pages}{15}
+    \field{title}{{Fluctuation induced equality of multi-particle
+  eccentricities for four or more particles }}
+    \field{volume}{927}
+    \field{journaltitle}{Nucl. Phys. A}
+    \field{eprinttype}{arXiv}
+    \field{eprintclass}{hep-ph}
+    \field{year}{2014}
+  \endentry
+
+  \entry{bzdak2}{article}{}
+    \name{author}{1}{}{%
+      {{hash=A}{%
+         family={{A. Bzdak and V. Skokov}},
+         familyi={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{A1}
+    \strng{fullhash}{A1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1016/j.nuclphysa.2015.08.001
+    \endverb
+    \verb{eprint}
+    \verb 1312.7349
+    \endverb
+    \field{pages}{1}
+    \field{title}{{Multi-particle eccentricities in collisions dominated by
+  fluctuations}}
+    \field{volume}{943}
+    \field{journaltitle}{Nucl. Phys. A}
+    \field{eprinttype}{arXiv}
+    \field{eprintclass}{hep-ph}
+    \field{year}{2015}
+  \endentry
+
+  \entry{ATL-GEN-PUB-2016-002}{booklet}{}
+    \name{author}{1}{}{%
+      {{hash=A}{%
+         family={{ATLAS Collaboration}},
+         familyi={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{A8}
+    \strng{fullhash}{A8}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{howpublished}{{ATL-GEN-PUB-2016-002}}
+    \field{title}{{ATLAS Computing Acknowledgements 2016-2017 }}
+    \verb{url}
+    \verb https://cds.cern.ch/record/2202407
+    \endverb
+    \field{year}{2016}
+  \endentry
+\endsortlist
+\endinput

@@ -1,0 +1,24 @@
+% test CPC authorlist based on r24845 groups/reactor_8AD_cpc/Reactor_8AD_CPC.tex
+\documentclass[a4paper,10pt,twoside]{cpc-hepnp}
+
+
+\usepackage{multirow,color,multicol,graphicx,booktabs}
+\usepackage{amssymb,bm,mathrsfs,bbm,amscd}
+\usepackage[tbtags]{amsmath}
+\usepackage{lastpage}
+
+\begin{document}
+
+ \title{The Chinese Physics C Title}
+
+\input CPC.tex
+
+  \begin{abstract}
+The Chinese Physics C abstract.
+  \end{abstract}
+
+
+The Chinese Physics C text.
+
+\end{document}
+

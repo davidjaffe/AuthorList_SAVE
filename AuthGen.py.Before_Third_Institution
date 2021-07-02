@@ -1,0 +1,629 @@
+#!/usr/bin/env python
+'''
+No arguments or "help" or "-help" or "--help" to get usage and a more detailed message.
+
+Called as:
+
+AuthGen <CollaboratorListFileName> [<StartDate as "YYYYMMDD">]
+The file is an Excel file. <StartDate> defaults to todays date.
+
+Generate TeX files for use as author lists in these formats (more may be added as needed):
+1) PhysRev
+2) Elsevier
+3) CPC (add 20150611)
+
+Authors with "StartDate" after the specified <StartDate> will be excluded.
+Authors with no "StartDate" are always included.
+
+Expects an Excel file with columns as listed in __init__ .
+If PublishName is blank, it tries to construct one, i.e. "William Steven James" becomes "W.S.~James".
+  (In that case, a new excel file is produced, with "new_" prepended. It can be renamed to the old file and used in the
+   future, but it will require the "StartDate" column to be manually formated for dates. It is also prefered to format
+   the top row in bold, and to freeze the frame for the benefit of scrolling while keeping the column labels in view.)
+If PublishName is not blank, it is used as-is.
+This permits TeX special characters or a "non-derivable" name to be specified directly in the Excel file.
+
+R. Hackenburg   24 Feb 2014.
+
+ADDITIONAL IMPORTANT NOTES 20150501 D.JAFFE
+1. Create dyb_collabotion_list.xls with twiki
+2. open with excel
+3. specify formats for dates columns as YMD : Use `Number` with Custom date
+4. save as excel 95 .xls
+5. then run AuthGen
+This procedure is necessary to produce a file that can be processed by xlrd.
+
+SPECIAL NOTES FOR GENERATION OF AUTHORLIST OF DETECTOR PAPER 20150501 D.JAFFE
+1.  Copy extra_authors_and_affiliations.txt from last used authorlist (../Osc8AD2014Paper/)
+   Get latest used file
+2.  mv extra_authors_and_affiliations.txt byhand_extra_authors_and_affiliations.txt
+   Rename file for concatenation
+3.  python PreGen.py
+   Produce  legacy_authors_affiliations_pubNames.txt from  DYB_rate_prl.tex (first major publication)
+4.  cat byhand_extra_authors_and_affiliations.txt legacy_authors_affiliations_pubNames.txt >extra_authors_and_affiliations.txt
+   Concatenate to produce extra_authors_and_affiliations.txt needed by AuthGen
+5.  python ../AuthGen.py dyb_collaboration_list_timestamp_20140601.xls 20140601
+   Makes the author list. Note that only Elsevier.tex was carefully checked.
+'''
+import sys
+import os
+import time
+import string
+import xlrd
+import datetime
+
+
+class Main():
+    def __init__( self, FileName, DateString, debug=0 ):
+
+        self.debug = debug # higher numbers, more debuggin
+        
+        self.InstitutionCol  = 0
+        self.FamilyNameCol =   1
+        self.GivenNameCol =    2
+        self.EmailCol =        3
+        self.DateStartCol =    4
+        self.DateEndCol =      5
+        self.StatusCol =       6
+
+        self.FamilyNameCol_ref  =  2
+        self.GivenNameCol_ref   =  3
+        self.PublishNameCol_ref =  4 # only valid for refSheet
+
+        self.prefix = ''
+        cwd = os.getcwd()
+        lastsubdir = cwd.split('/')[-1]
+        self.prefix = ''
+        if lastsubdir!='Authorlist': self.prefix = '../'
+
+        # the spreadsheet that has the correspondance between the family and given
+        # names and the names to be used in the authorlist
+        self.PubNameFileName = self.prefix + 'list_with_pubnames.xls'
+
+        # file with address of each institution
+        self.AddressListFileName = self.prefix + 'addresslist_for_Elsevier.tex'
+
+        # establish range of allowed dates
+
+        if len(DateString)==8:
+            year  = int(DateString[0:4])
+            month = int(DateString[4:6])
+            day   = int(DateString[6:8])
+            dateSafe = (year, month, day, 0, 0, 0)
+            print "Generating author lists for authors with start dates before", year,month,day,'dateSafe',dateSafe
+        else:
+            print "\n ERROR Date format not recognized [" + DateString + "], must be [YYYYMMDD] \n"
+            return
+
+        Success = True
+
+        # open the spreadsheet produced by IB adminstrators webpage
+        wb =  xlrd.open_workbook(FileName)
+
+        # open the spreadsheet that has the correspondance between the family and given
+        # names and the names to be used in the authorlist
+        self.PubNameBook = xlrd.open_workbook(self.PubNameFileName)
+        self.PubNameSheet = self.PubNameBook.sheet_by_index(0)
+
+        Authors = {} # map of authornames and institution(s)
+        AuthorList = [] # list of index names
+        Rejects = {} # map of rejected index names
+
+        sheet = wb.sheet_by_index(0)
+        row = sheet.row(0)
+        for Irow in range( 1,sheet.nrows ):
+            Institution =  sheet.cell_value(Irow,self.InstitutionCol).replace(' ','') # remove blanks from institution names
+            Institution2=  ''
+            FamilyName =   sheet.cell_value(Irow,self.FamilyNameCol )
+            GivenName =    sheet.cell_value(Irow,self.GivenNameCol  )
+            Email =        sheet.cell_value(Irow,self.EmailCol      )
+            Status =       sheet.cell_value(Irow,self.StatusCol     )
+            Days =         sheet.cell_value(Irow,self.DateStartCol  )
+            PublishName = None
+            OK = self.acceptableDate(dateSafe, Irow, sheet)
+            if self.debug>1: print FamilyName,GivenName,Status,dateSafe, xlrd.xldate_as_tuple(Days,1), OK
+            if OK :
+                PublishName = self.GetPubName(FamilyName,GivenName)
+                if PublishName is None:
+                    print 'NO PUBLICATION NAME FOR FamilyName',FamilyName,'GivenName',GivenName,'of',Institution,\
+                          '. Edit',self.PubNameFileName,'to add this name'
+                    Success = False
+            else:
+                if self.debug>1: print FamilyName,GivenName,Status,'dateSafe',dateSafe, 'REJECTED by status and/or date'
+                IndexName = str(FamilyName + ' ' + GivenName)
+                Rejects[IndexName] = [ PublishName, str(Institution), str(Institution2) ]
+                
+
+
+
+            # create key = IndexName for map to authorname and institutions
+            # also store all keys in list for alphabetic sorting
+            if OK: 
+                IndexName = str(FamilyName + ' ' + GivenName)
+                if IndexName in Authors:
+                    if Institution!=Authors[IndexName][1] and Authors[IndexName][2]=='':
+                        Authors[IndexName][2] = Institution
+                    else:
+                        print IndexName,'is already in authorlist as',IndexName,Authors[IndexName],', so do not add it again'
+                else:
+                    Authors[IndexName] = [ str(PublishName), str(Institution), str(Institution2)]
+                    AuthorList.append( IndexName )
+
+
+        # optionally add extra authors and affiliations. This is also an opportunity to fix mistakes
+        # in the input excel file
+        self.addAuthorsAndAffiliations(Authors, AuthorList)
+
+        # see how many rejects were actually accepted because of duplicate entries
+        RejectList = []
+        once = False
+        for IndexName in Rejects:
+            if IndexName in Authors:
+                print 'Rejection of',IndexName,'of',Authors[IndexName][1],'with Publication Name',Authors[IndexName][0],'over-turned due to accepted duplicate'
+                once = True
+            else:
+                RejectList.append(IndexName)
+        if once : print ' '
+        if self.debug>0: 
+            for IndexName in RejectList:
+                print IndexName,'of',Rejects[IndexName][1],'REJECTED'
+
+        # remove authors with no affiliation
+        Removals = []
+        for IndexName in Authors:
+            if len(Authors[IndexName][1])==0 and len(Authors[IndexName][2])==0 :
+                Removals.append(IndexName)
+        for IndexName in Removals:
+            print 'Remove',IndexName,'with Publication Name',Authors[IndexName][0],'because s/he has no affiliation'
+            AuthorList.remove(IndexName)
+            del Authors[IndexName]
+
+        # alphabetize authorlist
+        AuthorList.sort(key=lambda v: v.lower())
+
+        
+        if self.debug>1:
+            print '{0:30} {1:20} {2:20} {3:20}'.format('IndexName','PublicationName','Institution1','Institution2')
+            for IndexName in AuthorList:
+                a = Authors[IndexName]
+                print '{0:30} {1:20} {2:20} {3:20}'.format(IndexName,a[0],a[1],a[2])
+
+        # finished processing input. Now make the author lists
+        # physrev list is easy since institutions are automatically alphabetized
+        # elsevier requires some extra processing to produce \def{XX}N and
+        defList = []
+        for IndexName in AuthorList:
+            for i in [1, 2]:
+                Institution = str( Authors[IndexName][i] )
+                if Institution!='' and Institution not in defList:
+                    #print 'IndexName',IndexName,'i',i,'Institution',Institution
+                    defList.append(Institution)
+        if self.debug>1:
+            print '\nInstitutions:',
+            for Inst in defList: print Inst,
+            print "\n"
+            
+
+        # open the files that will contain the author lists
+        fp = open("PhysRev.tex","wb")
+        fe = open("Elsevier.tex","wb")
+        fc = open("CPC.tex","wb")
+        journalNames = [ fp.name.replace('.tex',''), fe.name.replace('.tex',''), fc.name.replace('.tex','') ]
+
+        # pre-pend generator information for each output file
+        los = self.getGenInfo()
+        for a in los:
+            a = '%%% ' + a + '\n'
+            fp.write(a)
+            fe.write(a)
+            fc.write(a)
+
+        # for elsevier, must preface authorlist with list of institutions and reference numbers
+        self.writeDefList(fe, defList)
+        # for CPC, preface author list with newcommands for each institution with reference number
+        self.writeCPCInstList(fc, defList)
+        # for physrev, use address list to generate newcommands for each institution
+        self.writeNewCommand(fp, defList)
+
+        # now generate the author listings in the file
+        NoneDead = True
+        for IndexName in AuthorList:
+            P,I,I2 = Authors[IndexName]
+            if I2=='DEAD': NoneDead = False
+        if not NoneDead: fe.write('\\fntext[DEAD]{Deceased.}\n')
+        for k,IndexName in enumerate(AuthorList):
+            PublishName, Institution, Institution2 = Authors[IndexName]
+            #########print 'PublishName, Institution, Institution2 ',PublishName, Institution, Institution2
+            if (Institution is None) or (PublishName is None):
+                ii = AuthorList.index(IndexName)
+                print 'AuthGen: ERROR IndexName',IndexName,'ii',ii,'AuthorList[ii]',AuthorList[ii],\
+                      'Institution',Institution,'PublishName',PublishName
+            feLine = "\\author[\\"+Institution
+            fpLine = "\\author{" + PublishName + "}\\"+Institution
+            fcLine = ''
+            if k==0: fcLine = "\\author{\n " # prefix for CPC
+            fcLine += PublishName + "$^{\\" + Institution
+            if len(Institution2)>0:
+                if Institution2!='DEAD':
+                    feLine += ",\\"+Institution2
+                    fpLine += "\\"+Institution2
+                    fcLine += ",\\"+Institution2
+            feLine += "]{"+PublishName
+            if Institution2=='DEAD':  feLine += "\\fnref{DEAD}"
+            feLine += "}"
+            if IndexName!=AuthorList[-1] : feLine +=","
+            fcLine += "}$ \\and"
+            feLine += "\n"
+            fpLine += "\n"
+            fcLine += "\n"
+            fe.write(feLine)
+            fp.write(fpLine)
+            fc.write(fcLine)
+
+        fc.write("}\n") # termnination for \author prefix for CPC
+        
+        ## now add addresses of institutions to elsevier list
+        self.writeElsevierAddresses(fe, defList)
+
+        ## now add address and other stuff to CPC file
+        self.writeCPCAddresses(fc, defList)
+        
+        fp.close()
+        fe.close()
+        fc.close()
+
+        if Success:
+            words = '\nSuccessfully generated authorlists'
+            for name in journalNames:
+                words += ' ' + name
+            words += '\n'
+            print words
+
+            ### test the authorlists
+            self.testAuthorList( journalNames)
+        else:
+            print '\n*** FAILURE: Check text above for instructions and messages ****\n'
+        return
+    def getGenInfo(self):
+        '''
+        return list of strings with the date and time, current working directory
+        and commands used for running AuthGen.py
+        '''
+        hdr = 'Generation information for this file'
+        now = '20140529 09:01:16'
+        now = datetime.date.today().ctime()
+        cwd = os.getcwd()
+        args= ''
+        for a in sys.argv:
+            args += a + ' '
+        los = [hdr, now, cwd, args]
+        #for a in los: print a
+        return los
+    def addAuthorsAndAffiliations(self, Authors, AuthorList):
+        '''
+        read a local text file that has authors and affiliations.
+        this file can  be used to add an author or add an affiliation to a current author
+        20150501 Local file can also hold PublicationName (i.e. "H.~P.~Fonebone" for Fonebone, Henry); however,
+                 if PublicationName is already available in GetPubName, then that value will be used
+        '''
+        filename = 'extra_authors_and_affiliations.txt'
+        if os.path.isfile(filename):
+            print '\nUsing ' + filename + ' to add authors and/or affiliations\n'
+            f = open(filename,'r')
+            for line in f:
+                # if line is not a comment, then parse it
+                KeepGoing = True
+                if line[0]!='#': #
+                    splitline = line.split()
+                    PubName = None
+                    if len(splitline)==4:
+                        Action, FamilyName, GivenName, Inst = splitline
+                    elif len(splitline)==5:
+                        Action, FamilyName, GivenName, Inst, PubName = splitline
+                        if self.DuplicatePubName( PubName ):
+                            for iN in Authors:
+                                if Authors[iN][0]==PubName: KeepGoing = False
+                            if self.debug>0: print 'addAuthorsAndAffiliations: PubName',PubName,'already specified for',FamilyName,GivenName,'KeepGoing',KeepGoing
+                            if KeepGoing: print 'addAuthorsAndAffiliations: Adding PubName',PubName, Inst
+                    else:
+                        print 'addAuthorsAndAffiliation: length',len(splitline),'INVALID for line=',line
+                        sys.exit('addAuthorsAndAffiliation: Invalid line')
+
+                    if KeepGoing:
+                        FamilyName = FamilyName.replace('_',' ') # handle multiple, unhyphenated family names
+                        GivenName = GivenName.replace('_',' ')   # handle initials
+
+                        IndexName = FamilyName + ' ' + GivenName
+                        if self.debug>0: print 'addAuthorsAndAffiliations: Action',Action,'IndexName',IndexName
+                        if Action.upper()=='ADD':
+                            # add author if necessary
+                            if IndexName not in Authors:
+                                if PubName is not None:
+                                    Authors[IndexName] = [PubName, Inst, '']
+                                else:
+                                    Authors[IndexName] = [self.GetPubName(FamilyName, GivenName), Inst, '']
+                                AuthorList.append(IndexName)
+                            # add institution name if it is new
+                            if Inst not in Authors[IndexName]:
+                                Done = False
+                                if Authors[IndexName][1]==''   :
+                                    Authors[IndexName][1] = Inst
+                                    Done = True
+                                if Authors[IndexName][2]=='' :
+                                    Authors[IndexName][2] = Inst
+                                    Done = True
+                                if not Done:
+                                    words = 'addAuthorsAndAffiliations: ERROR could not add Institution ' + Inst \
+                                            + 'for FamilyName ' + FamilyName + ' GivenName ' + GivenName \
+                                            + ' because author already has two institutions ' + Authors[IndexName][1] \
+                                            + ' ' + Authors[IndexName][2]
+                                    sys.exit(words)
+
+                        elif Action.upper()=='REMOVE':
+                            if IndexName in Authors:
+                                if Inst in Authors[IndexName]:
+                                    print 'addAuthorsAndAffiliations: Remove',IndexName,'Inst',Inst
+                                    i = Authors[IndexName].index(Inst)
+                                    if i==1:
+                                        Authors[IndexName][1]=Authors[IndexName][2]
+                                        Authors[IndexName][2]=''
+                                    else:
+                                        Authors[IndexName][i] = ''
+                        else:
+                            print 'addAuthorsAndAffiliations: Unknown Action',Action,'. No action taken for line',line[:-1]
+
+            f.close()
+        return
+
+    def testAuthorList(self, names):
+        '''
+        test the generated authorlists.
+        first make sure the necessary ancillary files for latex (*.sty, *.cls, *.rtx) are available,
+        then run pdflatex 3 times to make sure all references get resolved
+        '''
+        print '\n Press enter to run pdflatex to test generated authorlists'
+        raw_input()
+
+        if self.prefix!='':
+            os.system('ln -s  ../*.sty .')
+            os.system('ln -s  ../*.cls .')
+            os.system('ln -s  ../*.rtx .')
+        for name in names:
+            cmd = 'pdflatex '+self.prefix+'test_'+name+'_authorlist.tex'
+            print '\n\n ' + cmd + ' \n\n'
+            os.system(cmd)
+            os.system(cmd)
+            os.system(cmd)
+        return
+
+    def writeCPCAddresses(self, filename, defList):
+        '''
+        write address for each institution to file name
+        preface appropriately
+        '''
+        filename.write( '\\maketitle %%%%%%%% NOTE THAT maketitle COMMAND APPEARS IN THE AUTHOR LIST %%%%%%%   \n' )
+        filename.write( '\\address{\n' )
+        filename.write( '\\vspace{0.3cm}\n' )
+        filename.write( '{\\normalsize (Daya Bay Collaboration)} \\\\ \n' )
+        filename.write( '\\vspace{0.3cm}\n' )
+        ## preface complete
+        eadd = open(self.AddressListFileName,'r')
+        d = {}
+        for line in eadd:
+            if line[0]!='%':
+                s = line.replace('\\address[','').split(']')[0].replace('\\','')  # Inst
+                name = line.split('{')[1].split('}')[0]
+                newline = '$^{\\' + s + '}$(' + name + ') \\\\ \n'
+                d[s] = newline
+        eadd.close()
+        #for s in d: print 'writeCPCAddresses:s,d=',s,d[s]
+
+        for Inst in defList:
+            if Inst!='DEAD':
+                address = d[Inst]
+                filename.write(address)
+        # add suffix
+        filename.write( '} \n')
+        #print 'writeCPCAddresses: Done'
+        return
+    def writeElsevierAddresses(self, filename, defList):
+        '''
+        Write the addresses associated with each institution to filename.
+        The original addresslist comes from a file prepared by Bob Hackenburg
+        for the muon system paper in spring 2014
+        '''
+        eadd = open(self.AddressListFileName,'r')
+        d = {}
+        for line in eadd:
+            if line[0]!='%':
+                s = line.replace('\\address[','').split(']')[0].replace('\\','')
+                d[s]=line
+                #print 's',s,'d[s]',d[s][:-1]
+        for Inst in defList:
+            #print 'Inst',Inst
+            if Inst!='DEAD':
+                address = d[Inst]
+                filename.write(address)
+        eadd.close()
+        return
+    def acceptableDate(self, dateSafe, Irow, sheet):
+        '''
+        Determine if date and status credentials are satisfactory
+        
+        compare Days from Irow in sheet with tuple of dateSafe.
+        if Days is later than dateSafe, then Days is NOT acceptable
+        HOWEVER, check if the name for the input row is given elsewhere,
+        if so, check that start date
+
+        For all cases make sure duration on experiment is >1 year.
+        '''
+
+        Days = sheet.cell_value(Irow, self.DateStartCol)
+        
+        startTuple = xlrd.xldate_as_tuple(Days,1)
+        EndDate = sheet.cell_value(Irow, self.DateEndCol)
+        endTuple = None
+        if EndDate!='0000-00-00':
+            endTuple = xlrd.xldate_as_tuple(EndDate, 1)
+            endm1 = (endTuple[0]-1, endTuple[1], endTuple[2], 0,0,0)
+            if endm1<startTuple: return False # duration too short
+
+        status = sheet.cell_value(Irow, self.StatusCol).lower()
+        if self.debug>1: print 'start:',Days,startTuple,'safe:',dateSafe, 'end:',EndDate,endTuple,'status',status
+        if status=='former':
+            if startTuple<=dateSafe and endTuple is not None:
+                if dateSafe<=endTuple : return True
+        else:
+            if xlrd.xldate_as_tuple(Days,1) < dateSafe : return True
+        FamilyName =   sheet.cell_value(Irow, self.FamilyNameCol )
+        GivenName =    sheet.cell_value(Irow, self.GivenNameCol  )
+        
+        for irow in range( 1,sheet.nrows ):
+            if FamilyName==sheet.cell_value(irow, self.FamilyNameCol) and GivenName==sheet.cell_value(irow, self.GivenNameCol):
+                Days = sheet.cell_value(irow, self.DateStartCol)
+                EndDate = sheet.cell_value(irow, self.DateEndCol)
+                status = sheet.cell_value(irow, self.StatusCol).lower()
+                startTuple = xlrd.xldate_as_tuple(Days, 1)
+                endTuple = None
+                if EndDate!='0000-00-00': endTuple = xlrd.xldate_as_tuple(EndDate, 1)
+                if status=='former':
+                    if endTuple is not None:
+                        if startTuple<=dateSafe and dateSafe<=endTuple: return True
+                else:
+                    if startTuple<=dateSafe : return True
+                    
+        return False
+    def writeNewCommand(self, fp, defList):
+        '''
+        write \newcommand for each institution in authorlist based on list of institutions
+        in defList and the address in self.AddressListFileName
+        '''
+        eadd = open(self.AddressListFileName,'r')
+        for line in eadd:
+            if self.debug>1: print line
+            if line[0]!='%':
+                Inst = line.split('[')[1].split(']')[0].replace('\\','')
+                if Inst in defList:
+                    newline = line.replace('}','}}').replace(']{','}{\\affiliation{').replace('\\address[','\\newcommand{')
+                    fp.write(newline)
+
+        eadd.close()
+        return
+
+    def writeDefList(self, filename, defList):
+        '''
+        for Elsevier author list, write out list of institutions in order of citation
+        '''
+        for i,Inst in enumerate(defList):
+            j = i+1
+            line = '\\def\\'+Inst+'{'+str(j)+'}\n'
+            filename.write(line)
+        return True
+    def writeCPCInstList(self, filename, defList):
+        '''
+        for CPC author list, write out list of institutions in order of citation with new command
+        '''
+        for i,Inst in enumerate(defList):
+            j = i + 1
+            line = '\\newcommand{\\' + Inst + '}{' + str(j) + '}\n'
+            filename.write(line)
+        return True
+    def DuplicatePubName(self, iPubName):
+        '''
+        20150501 
+        Return true if input PublicationName is already present in refSheet (spreadsheet with publications names).
+        
+        '''
+        refSheet = self.PubNameSheet
+        for irow in range(1, refSheet.nrows):
+            if iPubName==refSheet.cell_value(irow, self.PublishNameCol_ref): return True
+        return False
+    def GetPubName(self, FamilyName, GivenName):
+        '''
+        From the input family name and given name, generate the "publication name"
+        which is the name that will appear in the authorlist for the paper.
+        The "publication names" are taken from a spreadsheet prepared by Bob Hackenburg. 
+        '''
+        debug = False
+        refSheet = self.PubNameSheet
+        matchingRows = []
+        if (debug): print 'GetPubName: Inputs FamilyName',FamilyName,'GivenName',GivenName
+        for irow in range(1, refSheet.nrows): 
+            FName =  refSheet.cell_value(irow,self.FamilyNameCol_ref )
+            GName =  refSheet.cell_value(irow,self.GivenNameCol_ref )
+            if FName==FamilyName or GName==GivenName :
+                words = 'GetPubName: partial match FamilyName "'+str(FamilyName)+'" FName "' +str(FName)+ '" GivenName "' + str(GivenName) + '" GName "' + str(GName) + '"'
+                if (debug): print words
+            if FName==FamilyName and GName==GivenName  :
+                matchingRows.append( irow )
+
+        if (debug): print 'GetPubName:',len(matchingRows),'PubName(s) that match input. Rows matching PubName are',matchingRows
+        if len(matchingRows)==1 : # good. unique match
+            irow = matchingRows[0]
+            PubName = refSheet.cell_value(irow,self.PublishNameCol_ref)
+
+        elif len(matchingRows)==0 : # no publication name
+            words = 'REFERENCE CONTAINS NO PUBLICATION NAME FOR FamilyName '+FamilyName+' GivenName '+GivenName \
+                    + ' You need to add a publication name to ' + self.PubNameFileName
+            return None
+            
+        else: # multiple names??
+            PubName = refSheet.cell_value(matchingRows[0], self.PublishNameCol_ref)
+            for irow in matchingRows:
+                irow = matchingRows[0]
+                if PubName!=refSheet.cell_value(irow, self.PublishNameCol_ref):
+                    words = 'REFERENCE CONTAINS MULTIPLE MATCHES FOR FamilyName '+FamilyName+' GivenName '+GivenName,\
+                            ' WITH DIFFERENT PUBLICATION NAMES. You need to edit '+self.PubNameFileName \
+                            +' to have a unique publication name ONLY FIRST TWO MATCHES WILL BE USED'
+                    sys.exit(words)
+        return PubName
+
+        
+if __name__ == '__main__':
+
+    if len(sys.argv)<2 or sys.argv[1] in ["help","-help","--help","-u"]:
+        print "Usage:  AuthGen.py <FileName> [ <StartDate> ] [ <debug level> ]" 
+#        print ""
+        print "where:"
+        print "  <FileName> is the name of the Excel file, including the .xls extension, containing the authors, etc. The Excel file is generated by giving a timestamp on Collaboration Database Administration page http://dayabay.ihep.ac.cn/admin/ "
+#        print " " 
+        print "  <StartDate> is a date which will cause any author with its 'StartDate' cell after <StartDate> to be excluded. The only format for <StartDate> is YYYYMMDD . If omitted, <StartDate> defaults to today "
+        print " <debug level> = 0 by default, higher integers mean more debug output"
+        print "  "
+        print "RECOMMENDED WORKFLOW: "
+        print "Starting in $SITEROOT/dybgaudi/Documentation/AuthorList : create a subdirectory with an evocative name such as ReactorFluxPaper"
+        print " $ mkdir ReactorFluxPaper "
+        print " $ mv <FileName> ReactorFluxPaper/."
+        print " $ cd ReactorFluxPaper/"
+        print " $ python ../AuthGen.py <FileName> <StartDate> [<debug level>] "
+        print "Upon successful completion , two tex files are created:"
+        print "  PhysRev.tex for Phys. Rev. journals"
+        print "  Elsevier.tex for Elsevier journals."
+        print "In addition, sample articles are generated to confirm that the two tex files are correct."
+        print "UPON COMPLETION, YOUR SHOULD ADD AND COMMIT YOUR SUBDIRECTORY TO SVN"
+        print "  "
+        print " Ancillary files used by AuthGen.py: "
+        print "  AuthorList/list_with_pubnames.xls is an Excel file that has the correspondance between the family and given names "
+        print "                         and the author name in the publications "
+        print "  AuthorList/addresslist_for_Elsevier.tex is an Excel file that provides the address for all institutions"
+        print "  AuthorList/TestDir/extra_authors_and_affiliations.txt is an optional file that allows authors and/or affiliations"
+        print "                         to be added or removed. You can copy this file from TestDir and modify it as required."
+        
+        print ""
+        print "AuthGen.py with no arguments, or with 'help', '-help', or '--help', or '-u' produces this message."
+        print ""
+        print "AuthGen.py    version 25-Feb-2014      R. Hackenburg hack@bnl.gov"
+        print "              heavily revised 20140528 djaffe@bnl.gov "
+        print ""
+        os._exit(0)
+
+    FileName = sys.argv[1]
+    DateString = datetime.date.today().strftime("%Y%m%d")
+    debug = 0
+    if len(sys.argv)>2:
+        DateString = sys.argv[2]
+    if len(sys.argv)>3:
+        debug = int(sys.argv[3])
+
+    Main(FileName,DateString,debug=debug)
+    os._exit(0)

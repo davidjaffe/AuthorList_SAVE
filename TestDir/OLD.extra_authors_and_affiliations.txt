@@ -1,0 +1,29 @@
+# comment line
+# version1
+# format of a valid line:   Action FamilyName GivenName Institution
+#   valid Actions are 'ADD' or 'REMOVE' (case-insensitive)
+#   For multiple, unhyphenated names in FamilyName or GivenName use an underscore
+#
+# Fixes to excel file:
+# 1. Heeger appears with/without middle initial and has invalid dates due to change of institution
+# 2. Ling has invalid dates due to change of institution
+# 3. Olshevski only appears with reversed FamilyName and GivenName
+# 
+ADD Heeger Karsten_M.   Yale
+ADD Ling     Jiajie            BNL
+ADD Ling     Jiajie            UIUC
+ADD Olshevski Alexandr Dubna
+#
+# Remove  false or outdated affiliations
+REMOVE Cherwinka Jeff   BNL 
+REMOVE Napolitano Jim  RPI 
+#
+# remove duplicates
+REMOVE Heeger Karsten  Wisconsin
+#
+# fix collaborators with family and given names reversed in collaboration list
+REMOVE Alexandr Olshevski Dubna 
+REMOVE Soeren Jetter IHEP 
+#
+REMOVE Wong Steven,_Chan-Fai CUHK
+REMOVE Wong Steven, Chan-Fai CUHK

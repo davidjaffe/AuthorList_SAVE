@@ -1,0 +1,43 @@
+o0 Institute of Modern Physics, East China University of Science and Technology, Shanghai
+o1 University of Wisconsin, Madison, Wisconsin 53706, USA
+o2 Department of Physics, Yale University, New Haven, Connecticut 06520, USA
+o3 Brookhaven National Laboratory, Upton, New York 11973, USA
+o4 Department of Physics, National Taiwan University, Taipei
+o5 National United University, Miao-Li
+o6 Joint Institute for Nuclear Research, Dubna, Moscow Region
+o7 Institute of High Energy Physics, Beijing
+o8 Chinese University of Hong Kong, Hong Kong
+o9 Institute of Physics, National Chiao-Tung University, Hsinchu
+o10 Shandong University, Jinan
+o11 Department of Engineering Physics, Tsinghua University, Beijing
+o12 North China Electric Power University, Beijing
+o13 Shenzhen University, Shenzhen
+o14 Siena College, Loudonville, New York 12211, USA
+o15 Department of Physics, Illinois Institute of Technology, Chicago, Illinois 60616, USA
+o16 Lawrence Berkeley National Laboratory, Berkeley, California 94720, USA
+o17 Department of Physics, University of Illinois at Urbana-Champaign, Urbana, Illinois 61801, USA
+o18 Shanghai Jiao Tong University, Shanghai
+o19 Beijing Normal University, Beijing
+o20 Department of Physics, University of Houston, Houston, Texas 77204, USA
+o21 Center for Neutrino Physics, Virginia Tech, Blacksburg, Virginia 24061, USA
+o22 China Institute of Atomic Energy, Beijing
+o23 School of Physics, Nankai University, Tianjin
+o24 Department of Physics, University of Cincinnati, Cincinnati, Ohio 45221, USA
+o25 Dongguan University of Technology, Dongguan
+o26 Department of Physics, University of California, Berkeley, California 94720, USA
+o27 Department of Physics, The University of Hong Kong, Pokfulam, Hong Kong
+o28 Charles University, Faculty of Mathematics and Physics, Prague
+o29 University of Science and Technology of China, Hefei
+o30 Sun Yat-Sen (Zhongshan) University, Guangzhou
+o31 Joseph Henry Laboratories, Princeton University, Princeton, New Jersey 08544, USA
+o32 California Institute of Technology, Pasadena, California 91125, USA
+o33 College of William and Mary, Williamsburg, Virginia 23187, USA
+o34 Xi'an Jiaotong University, Xi'an
+o35 Department of Physics, College of Science and Technology, Temple University, Philadelphia, Pennsylvania 19122, USA
+o36 Instituto de Física, Pontificia Universidad Católica de Chile, Santiago, Chile
+o37 Nanjing University, Nanjing
+o38 Department of Physics, Applied Physics, and Astronomy, Rensselaer Polytechnic Institute, Troy, New York 12180, USA
+o39 China General Nuclear Power Group
+o40 College of Electronic Science and Engineering, National University of Defense Technology, Changsha
+o41 Iowa State University, Ames, Iowa 50011, USA
+o42 Chongqing University, Chongqing

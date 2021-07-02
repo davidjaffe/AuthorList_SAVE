@@ -1,0 +1,17 @@
+@article{Ahmad:2001an,
+	      author         = "Ahmad, Q. R. and others",
+	      title          = "{Measurement of the rate of $\nu_e+d \to p+p+e^-$
+	                        interactions produced by $^8B$ solar neutrinos at the
+	                        Sudbury Neutrino Observatory}",
+	      collaboration  = "SNO Collaboration",
+	      journal        = "Phys. Rev. Lett.",
+	      volume         = "87",
+	      year           = "2001",
+	      pages          = "071301",
+	      doi            = "10.1103/PhysRevLett.87.071301",
+	      IgnoreEprint   = "nucl-ex/0106015",
+	      archivePrefix  = "arXiv",
+	      primaryClass   = "nucl-ex",
+	      reportNumber   = "UPR-0240E",
+	      SLACcitation   = "%%CITATION = NUCL-EX/0106015;%%"
+	}

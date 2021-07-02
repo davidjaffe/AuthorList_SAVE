@@ -1,0 +1,287 @@
+%%% Generation information for this file
+%%% Fri May  3 08:15:47 2019
+%%% /Users/djaffe/Documents/Reactor/work/trunk/NuWa-trunk/dybgaudi/Documentation/AuthorList/2019_ParkesTemperTantrum
+%%% ../AuthGen.py dyb_collabotion_20180505.xls 20180505 
+\def\IHEP{a}
+\def\ECUST{b}
+\def\Wisconsin{c}
+\def\Yale{d}
+\def\BNL{e}
+\def\NTU{f}
+\def\NJU{g}
+\def\NUU{h}
+\def\TsingHua{i}
+\def\SZU{j}
+\def\ZSU{k}
+\def\NCEPU{l}
+\def\CUHK{m}
+\def\Dubna{n}
+\def\Siena{o}
+\def\USTC{p}
+\def\Charles{q}
+\def\UIUC{r}
+\def\LBNL{s}
+\def\BNU{t}
+\def\XJTU{u}
+\def\BCC{1}
+\def\BCCnote{\note{Now at: Department of Chemistry and Chemical Technology, Bronx Community College, Bronx, New York  10453}}
+\def\UH{w}
+\def\CIAE{x}
+\def\SDU{y}
+\def\VirginiaTech{z}
+\def\NCTU{aa}
+\def\UC{ab}
+\def\TempleUniversity{ac}
+\def\DGUT{ad}
+\def\UCB{ae}
+\def\HKU{af}
+\def\NanKai{ag}
+\def\IIT{ah}
+\def\SJTU{ai}
+\def\Princeton{aj}
+\def\CalTech{ak}
+\def\WM{al}
+\def\CUC{am}
+\def\UCI{an}
+\def\CGNPG{ao}
+\def\NUDT{ap}
+\def\IowaState{aq}
+\def\CQU{ar}
+\author[\IHEP]{D.~Adey}
+\author[\ECUST]{F.~P.~An}
+\author[\Wisconsin]{A.~B.~Balantekin}
+\author[\Yale]{H.~R.~Band}
+\author[\BNL]{M.~Bishai}
+\author[\NTU]{S.~Blyth}
+\author[\NJU]{D.~Cao}
+\author[\IHEP]{G.~F.~Cao}
+\author[\IHEP]{J.~Cao}
+\author[\IHEP]{J.~F.~Chang}
+\author[\NUU]{Y.~Chang}
+\author[\IHEP]{H.~S.~Chen}
+\author[\TsingHua]{S.~M.~Chen}
+\author[\SZU,\ZSU]{Y.~Chen}
+\author[\NCEPU]{Y.~X.~Chen}
+\author[\IHEP]{J.~Cheng}
+\author[\ZSU]{Z.~K.~Cheng}
+\author[\Wisconsin]{J.~J.~Cherwinka}
+\author[\CUHK]{M.~C.~Chu}
+\author[\Dubna]{A.~Chukanov}
+\author[\Siena]{J.~P.~Cummings}
+\author[\IHEP]{N.~Dash}
+\author[\USTC]{F.~S.~Deng}
+\author[\IHEP]{Y.~Y.~Ding}
+\author[\BNL]{M.~V.~Diwan}
+\author[\Charles]{T.~Dohnal}
+\author[\UIUC]{J.~Dove}
+\author[\Charles]{M.~Dvo\v{r}\'{a}k}
+\author[\LBNL]{D.~A.~Dwyer}
+\author[\Dubna]{M.~Gonchar}
+\author[\TsingHua]{G.~H.~Gong}
+\author[\TsingHua]{H.~Gong}
+\author[\BNL]{W.~Q.~Gu}
+\author[\ZSU]{J.~Y.~Guo}
+\author[\TsingHua]{L.~Guo}
+\author[\BNU]{X.~H.~Guo}
+\author[\XJTU]{Y.~H.~Guo}
+\author[\TsingHua]{Z.~Guo}
+\author[\BNL]{R.~W.~Hackenburg}
+\author[\BNL,\BCC]{S.~Hans\BCCnote}
+\author[\IHEP]{M.~He}
+\author[\Yale]{K.~M.~Heeger}
+\author[\IHEP]{Y.~K.~Heng}
+\author[\UH]{A.~Higuera}
+\author[\ZSU]{Y.~K.~Hor}
+\author[\NTU]{Y.~B.~Hsiung}
+\author[\NTU]{B.~Z.~Hu}
+\author[\IHEP]{J.~R.~Hu}
+\author[\IHEP]{T.~Hu}
+\author[\ZSU]{Z.~J.~Hu}
+\author[\CIAE]{H.~X.~Huang}
+\author[\SDU]{X.~T.~Huang}
+\author[\IHEP]{Y.~B.~Huang}
+\author[\VirginiaTech]{P.~Huber}
+\author[\BNL]{D.~E.~Jaffe}
+\author[\NCTU]{K.~L.~Jen}
+\author[\IHEP]{X.~L.~Ji}
+\author[\BNL]{X.~P.~Ji}
+\author[\UC]{R.~A.~Johnson}
+\author[\TempleUniversity]{D.~Jones}
+\author[\DGUT]{L.~Kang}
+\author[\BNL]{S.~H.~Kettell}
+\author[\UH]{L.~W.~Koerner}
+\author[\UCB]{S.~Kohn}
+\author[\LBNL,\UCB]{M.~Kramer}
+\author[\Yale]{T.~J.~Langford}
+\author[\LBNL]{J.~Lee}
+\author[\HKU]{J.~H.~C.~Lee}
+\author[\DGUT]{R.~T.~Lei}
+\author[\Charles]{R.~Leitner}
+\author[\HKU]{J.~K.~C.~Leung}
+\author[\SDU]{C.~Li}
+\author[\IHEP]{F.~Li}
+\author[\IHEP]{H.~L.~Li}
+\author[\IHEP]{Q.~J.~Li}
+\author[\DGUT]{S.~Li}
+\author[\VirginiaTech]{S.~C.~Li}
+\author[\ZSU]{S.~J.~Li}
+\author[\IHEP]{W.~D.~Li}
+\author[\IHEP]{X.~N.~Li}
+\author[\NanKai]{X.~Q.~Li}
+\author[\IHEP]{Y.~F.~Li}
+\author[\ZSU]{Z.~B.~Li}
+\author[\USTC]{H.~Liang}
+\author[\LBNL]{C.~J.~Lin}
+\author[\NCTU]{G.~L.~Lin}
+\author[\DGUT]{S.~Lin}
+\author[\ZSU]{J.~J.~Ling}
+\author[\VirginiaTech]{J.~M.~Link}
+\author[\BNL]{L.~Littenberg}
+\author[\IIT]{B.~R.~Littlejohn}
+\author[\IHEP]{J.~C.~Liu}
+\author[\SJTU]{J.~L.~Liu}
+\author[\SDU]{Y.~Liu}
+\author[\NJU]{Y.~H.~Liu}
+\author[\Princeton]{C.~Lu}
+\author[\IHEP]{H.~Q.~Lu}
+\author[\IHEP]{J.~S.~Lu}
+\author[\UCB,\LBNL]{K.~B.~Luk}
+\author[\NCEPU]{X.~B.~Ma}
+\author[\IHEP]{X.~Y.~Ma}
+\author[\IHEP]{Y.~Q.~Ma}
+\author[\LBNL]{C.~Marshall}
+\author[\IIT]{D.~A.~Martinez Caicedo}
+\author[\Princeton]{K.~T.~McDonald}
+\author[\CalTech,\WM]{R.~D.~McKeown}
+\author[\UH]{I.~Mitchell}
+\author[\CUC]{L.~Mora Lepin}
+\author[\TempleUniversity]{J.~Napolitano}
+\author[\Dubna]{D.~Naumov}
+\author[\Dubna]{E.~Naumova}
+\author[\CUC,\UCI]{J.~P.~Ochoa-Ricoux}
+\author[\Dubna]{A.~Olshevskiy}
+\author[\NTU]{H.-R.~Pan}
+\author[\VirginiaTech]{J.~Park}
+\author[\LBNL]{S.~Patton}
+\author[\Charles]{V.~Pec}
+\author[\UIUC]{J.~C.~Peng}
+\author[\UH]{L.~Pinsky}
+\author[\HKU]{C.~S.~J.~Pun}
+\author[\IHEP]{F.~Z.~Qi}
+\author[\NJU]{M.~Qi}
+\author[\BNL]{X.~Qian}
+\author[\ZSU]{N.~Raper}
+\author[\CIAE]{J.~Ren}
+\author[\BNL]{R.~Rosero}
+\author[\UCI]{B.~Roskovec}
+\author[\CIAE]{X.~C.~Ruan}
+\author[\UCB,\LBNL]{H.~Steiner}
+\author[\CGNPG]{J.~L.~Sun}
+\author[\Dubna]{K.~Treskov}
+\author[\CUHK]{W.-H.~Tse}
+\author[\LBNL]{C.~E.~Tull}
+\author[\BNL]{B.~Viren}
+\author[\Charles]{V.~Vorobel}
+\author[\NUU]{C.~H.~Wang}
+\author[\ZSU]{J.~Wang}
+\author[\SDU]{M.~Wang}
+\author[\BNU]{N.~Y.~Wang}
+\author[\IHEP]{R.~G.~Wang}
+\author[\ZSU,\WM]{W.~Wang}
+\author[\NJU]{W.~Wang}
+\author[\NUDT]{X.~Wang}
+\author[\NJU]{Y.~Wang}
+\author[\IHEP]{Y.~F.~Wang}
+\author[\IHEP]{Z.~Wang}
+\author[\TsingHua]{Z.~Wang}
+\author[\IHEP]{Z.~M.~Wang}
+\author[\BNL]{H.~Y.~Wei}
+\author[\IHEP]{L.~H.~Wei}
+\author[\IHEP]{L.~J.~Wen}
+\author[\IowaState]{K.~Whisnant}
+\author[\IIT]{C.~G.~White}
+\author[\UCB,\LBNL]{H.~L.~H.~Wong}
+\author[\ZSU]{S.~C.~F.~Wong}
+\author[\BNL]{E.~Worcester}
+\author[\SDU]{Q.~Wu}
+\author[\IHEP]{W.~J.~Wu}
+\author[\CQU]{D.~M.~Xia}
+\author[\IHEP]{Z.~Z.~Xing}
+\author[\IHEP]{J.~L.~Xu}
+\author[\TsingHua]{T.~Xue}
+\author[\IHEP]{C.~G.~Yang}
+\author[\DGUT]{L.~Yang}
+\author[\IHEP]{M.~S.~Yang}
+\author[\TsingHua]{Y.~Z.~Yang}
+\author[\IHEP]{M.~Ye}
+\author[\BNL]{M.~Yeh}
+\author[\IowaState]{B.~L.~Young}
+\author[\ZSU]{H.~Z.~Yu}
+\author[\IHEP]{Z.~Y.~Yu}
+\author[\ZSU]{B.~B.~Yue}
+\author[\IHEP]{S.~Zeng}
+\author[\ZSU]{Y.~Zeng}
+\author[\IHEP]{L.~Zhan}
+\author[\BNL]{C.~Zhang}
+\author[\IHEP]{C.~C.~Zhang}
+\author[\SJTU]{F.~Y.~Zhang}
+\author[\ZSU]{H.~H.~Zhang}
+\author[\IHEP]{J.~W.~Zhang}
+\author[\XJTU]{Q.~M.~Zhang}
+\author[\NJU]{R.~Zhang}
+\author[\IHEP]{X.~F.~Zhang}
+\author[\IHEP]{X.~T.~Zhang}
+\author[\ZSU]{Y.~M.~Zhang}
+\author[\TsingHua]{Y.~M.~Zhang}
+\author[\CGNPG]{Y.~X.~Zhang}
+\author[\SJTU]{Y.~Y.~Zhang}
+\author[\DGUT]{Z.~J.~Zhang}
+\author[\USTC]{Z.~P.~Zhang}
+\author[\IHEP]{Z.~Y.~Zhang}
+\author[\IHEP]{J.~Zhao}
+\author[\IHEP]{L.~Zhou}
+\author[\IHEP]{H.~L.~Zhuang}
+\author[\IHEP]{J.~H.~Zou}
+\affiliation[\IHEP]{Institute~of~High~Energy~Physics, Beijing}
+\affiliation[\ECUST]{Institute of Modern Physics, East China University of Science and Technology, Shanghai}
+\affiliation[\Wisconsin]{University~of~Wisconsin, Madison, Wisconsin 53706}
+\affiliation[\Yale]{Wright~Laboratory and Department~of~Physics, Yale~University, New~Haven, Connecticut 06520} %%%% 20170227 add Wright Lab
+\affiliation[\BNL]{Brookhaven~National~Laboratory, Upton, New York 11973}
+\affiliation[\NTU]{Department of Physics, National~Taiwan~University, Taipei}
+\affiliation[\NJU]{Nanjing~University, Nanjing}
+\affiliation[\NUU]{National~United~University, Miao-Li}
+\affiliation[\TsingHua]{Department~of~Engineering~Physics, Tsinghua~University, Beijing}
+\affiliation[\SZU]{Shenzhen~University, Shenzhen}
+\affiliation[\ZSU]{Sun Yat-Sen (Zhongshan) University, Guangzhou}
+\affiliation[\NCEPU]{North~China~Electric~Power~University, Beijing}
+\affiliation[\CUHK]{Chinese~University~of~Hong~Kong, Hong~Kong}
+\affiliation[\Dubna]{Joint~Institute~for~Nuclear~Research, Dubna, Moscow~Region}
+\affiliation[\Siena]{Siena~College, Loudonville, New York  12211}
+\affiliation[\USTC]{University~of~Science~and~Technology~of~China, Hefei}
+\affiliation[\Charles]{Charles~University, Faculty~of~Mathematics~and~Physics, Prague} %updated20140819
+\affiliation[\UIUC]{Department of Physics, University~of~Illinois~at~Urbana-Champaign, Urbana, Illinois 61801}
+\affiliation[\LBNL]{Lawrence~Berkeley~National~Laboratory, Berkeley, California 94720}
+\affiliation[\BNU]{Beijing~Normal~University, Beijing}
+\affiliation[\XJTU]{Department of Nuclear Science and Technology, School of Energy and Power Engineering, Xi'an Jiaotong University, Xi'an}%%updated 20161215 {Xi'an Jiaotong University, Xi'an}
+\affiliation[\UH]{Department of Physics, University~of~Houston, Houston, Texas  77204}
+\affiliation[\CIAE]{China~Institute~of~Atomic~Energy, Beijing}
+\affiliation[\SDU]{Shandong~University, Jinan}
+\affiliation[\VirginiaTech]{Center for Neutrino Physics, Virginia~Tech, Blacksburg, Virginia  24061}
+\affiliation[\NCTU]{Institute~of~Physics, National~Chiao-Tung~University, Hsinchu}
+\affiliation[\UC]{Department of Physics, University~of~Cincinnati, Cincinnati, Ohio 45221}
+\affiliation[\TempleUniversity]{Department~of~Physics, College~of~Science~and~Technology, Temple~University, Philadelphia, Pennsylvania  19122}
+\affiliation[\DGUT]{Dongguan~University~of~Technology, Dongguan}
+\affiliation[\UCB]{Department of Physics, University~of~California, Berkeley, California  94720}
+\affiliation[\HKU]{Department of Physics, The~University~of~Hong~Kong, Pokfulam, Hong~Kong}
+\affiliation[\NanKai]{School of Physics, Nankai~University, Tianjin}
+\affiliation[\IIT]{Department of Physics, Illinois~Institute~of~Technology, Chicago, Illinois  60616}
+\affiliation[\SJTU]{Department of Physics and Astronomy, Shanghai Jiao Tong University, Shanghai Laboratory for Particle Physics and Cosmology, Shanghai}
+\affiliation[\Princeton]{Joseph Henry Laboratories, Princeton~University, Princeton, New~Jersey 08544}
+\affiliation[\CalTech]{California~Institute~of~Technology, Pasadena, California 91125}
+\affiliation[\WM]{College~of~William~and~Mary, Williamsburg, Virginia  23187}
+\affiliation[\CUC]{Instituto de F\'isica, Pontificia Universidad Cat\'olica de Chile, Santiago} % update 20140911 use r23215 for Spanish
+\affiliation[\UCI]{Department of Physics and Astronomy, University of California, Irvine, California 92697} %20190209 for Pedro's new digs
+\affiliation[\CGNPG]{China General Nuclear Power Group, Shenzhen}% update 20170729 add city. updated 20140724 China~Guangdong~Nuclear~Power~Group, Shenzhen}
+\affiliation[\NUDT]{College of Electronic Science and Engineering, National University of Defense Technology, Changsha} % added 20140111
+\affiliation[\IowaState]{Iowa~State~University, Ames, Iowa  50011}
+\affiliation[\CQU]{Chongqing University, Chongqing} % add 20150417

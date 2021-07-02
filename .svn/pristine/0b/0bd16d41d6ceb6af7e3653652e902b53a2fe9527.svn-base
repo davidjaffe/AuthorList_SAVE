@@ -1,0 +1,9 @@
+\relax 
+\newlabel{FirstPage}{{}{1}{}{}{}}
+\@writefile{toc}{\contentsline {title}{The PhysRev Title}{1}{}}
+\bibdata{test_PhysRev_authorlistNotes}
+\bibstyle{apsrev4-1}
+\citation{REVTEX41Control}
+\citation{apsrev41Control}
+\@writefile{toc}{\contentsline {abstract}{Abstract}{2}{}}
+\newlabel{LastPage}{{}{2}{}{}{}}

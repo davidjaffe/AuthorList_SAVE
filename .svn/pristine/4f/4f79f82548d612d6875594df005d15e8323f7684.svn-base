@@ -1,0 +1,247 @@
+%%% Generation information for this file
+%%% Fri May  3 08:15:47 2019
+%%% /Users/djaffe/Documents/Reactor/work/trunk/NuWa-trunk/dybgaudi/Documentation/AuthorList/2019_ParkesTemperTantrum
+%%% ../AuthGen.py dyb_collabotion_20180505.xls 20180505 
+\author{
+D.~Adey\thanksref{IHEP}\and
+F.~P.~An\thanksref{ECUST}\and
+A.~B.~Balantekin\thanksref{Wisconsin}\and
+H.~R.~Band\thanksref{Yale}\and
+M.~Bishai\thanksref{BNL}\and
+S.~Blyth\thanksref{NTU}\and
+D.~Cao\thanksref{NJU}\and
+G.~F.~Cao\thanksref{IHEP}\and
+J.~Cao\thanksref{IHEP}\and
+J.~F.~Chang\thanksref{IHEP}\and
+Y.~Chang\thanksref{NUU}\and
+H.~S.~Chen\thanksref{IHEP}\and
+S.~M.~Chen\thanksref{TsingHua}\and
+Y.~Chen\thanksref{SZU,ZSU}\and
+Y.~X.~Chen\thanksref{NCEPU}\and
+J.~Cheng\thanksref{IHEP}\and
+Z.~K.~Cheng\thanksref{ZSU}\and
+J.~J.~Cherwinka\thanksref{Wisconsin}\and
+M.~C.~Chu\thanksref{CUHK}\and
+A.~Chukanov\thanksref{Dubna}\and
+J.~P.~Cummings\thanksref{Siena}\and
+N.~Dash\thanksref{IHEP}\and
+F.~S.~Deng\thanksref{USTC}\and
+Y.~Y.~Ding\thanksref{IHEP}\and
+M.~V.~Diwan\thanksref{BNL}\and
+T.~Dohnal\thanksref{Charles}\and
+J.~Dove\thanksref{UIUC}\and
+M.~Dvo\v{r}\'{a}k\thanksref{Charles}\and
+D.~A.~Dwyer\thanksref{LBNL}\and
+M.~Gonchar\thanksref{Dubna}\and
+G.~H.~Gong\thanksref{TsingHua}\and
+H.~Gong\thanksref{TsingHua}\and
+W.~Q.~Gu\thanksref{BNL}\and
+J.~Y.~Guo\thanksref{ZSU}\and
+L.~Guo\thanksref{TsingHua}\and
+X.~H.~Guo\thanksref{BNU}\and
+Y.~H.~Guo\thanksref{XJTU}\and
+Z.~Guo\thanksref{TsingHua}\and
+R.~W.~Hackenburg\thanksref{BNL}\and
+S.~Hans\thanksref{BNL,BCC}\and
+M.~He\thanksref{IHEP}\and
+K.~M.~Heeger\thanksref{Yale}\and
+Y.~K.~Heng\thanksref{IHEP}\and
+A.~Higuera\thanksref{UH}\and
+Y.~K.~Hor\thanksref{ZSU}\and
+Y.~B.~Hsiung\thanksref{NTU}\and
+B.~Z.~Hu\thanksref{NTU}\and
+J.~R.~Hu\thanksref{IHEP}\and
+T.~Hu\thanksref{IHEP}\and
+Z.~J.~Hu\thanksref{ZSU}\and
+H.~X.~Huang\thanksref{CIAE}\and
+X.~T.~Huang\thanksref{SDU}\and
+Y.~B.~Huang\thanksref{IHEP}\and
+P.~Huber\thanksref{VirginiaTech}\and
+D.~E.~Jaffe\thanksref{BNL}\and
+K.~L.~Jen\thanksref{NCTU}\and
+X.~L.~Ji\thanksref{IHEP}\and
+X.~P.~Ji\thanksref{BNL}\and
+R.~A.~Johnson\thanksref{UC}\and
+D.~Jones\thanksref{TempleUniversity}\and
+L.~Kang\thanksref{DGUT}\and
+S.~H.~Kettell\thanksref{BNL}\and
+L.~W.~Koerner\thanksref{UH}\and
+S.~Kohn\thanksref{UCB}\and
+M.~Kramer\thanksref{LBNL,UCB}\and
+T.~J.~Langford\thanksref{Yale}\and
+J.~Lee\thanksref{LBNL}\and
+J.~H.~C.~Lee\thanksref{HKU}\and
+R.~T.~Lei\thanksref{DGUT}\and
+R.~Leitner\thanksref{Charles}\and
+J.~K.~C.~Leung\thanksref{HKU}\and
+C.~Li\thanksref{SDU}\and
+F.~Li\thanksref{IHEP}\and
+H.~L.~Li\thanksref{IHEP}\and
+Q.~J.~Li\thanksref{IHEP}\and
+S.~Li\thanksref{DGUT}\and
+S.~C.~Li\thanksref{VirginiaTech}\and
+S.~J.~Li\thanksref{ZSU}\and
+W.~D.~Li\thanksref{IHEP}\and
+X.~N.~Li\thanksref{IHEP}\and
+X.~Q.~Li\thanksref{NanKai}\and
+Y.~F.~Li\thanksref{IHEP}\and
+Z.~B.~Li\thanksref{ZSU}\and
+H.~Liang\thanksref{USTC}\and
+C.~J.~Lin\thanksref{LBNL}\and
+G.~L.~Lin\thanksref{NCTU}\and
+S.~Lin\thanksref{DGUT}\and
+J.~J.~Ling\thanksref{ZSU}\and
+J.~M.~Link\thanksref{VirginiaTech}\and
+L.~Littenberg\thanksref{BNL}\and
+B.~R.~Littlejohn\thanksref{IIT}\and
+J.~C.~Liu\thanksref{IHEP}\and
+J.~L.~Liu\thanksref{SJTU}\and
+Y.~Liu\thanksref{SDU}\and
+Y.~H.~Liu\thanksref{NJU}\and
+C.~Lu\thanksref{Princeton}\and
+H.~Q.~Lu\thanksref{IHEP}\and
+J.~S.~Lu\thanksref{IHEP}\and
+K.~B.~Luk\thanksref{UCB,LBNL}\and
+X.~B.~Ma\thanksref{NCEPU}\and
+X.~Y.~Ma\thanksref{IHEP}\and
+Y.~Q.~Ma\thanksref{IHEP}\and
+C.~Marshall\thanksref{LBNL}\and
+D.~A.~Martinez Caicedo\thanksref{IIT}\and
+K.~T.~McDonald\thanksref{Princeton}\and
+R.~D.~McKeown\thanksref{CalTech,WM}\and
+I.~Mitchell\thanksref{UH}\and
+L.~Mora Lepin\thanksref{CUC}\and
+J.~Napolitano\thanksref{TempleUniversity}\and
+D.~Naumov\thanksref{Dubna}\and
+E.~Naumova\thanksref{Dubna}\and
+J.~P.~Ochoa-Ricoux\thanksref{CUC,UCI}\and
+A.~Olshevskiy\thanksref{Dubna}\and
+H.-R.~Pan\thanksref{NTU}\and
+J.~Park\thanksref{VirginiaTech}\and
+S.~Patton\thanksref{LBNL}\and
+V.~Pec\thanksref{Charles}\and
+J.~C.~Peng\thanksref{UIUC}\and
+L.~Pinsky\thanksref{UH}\and
+C.~S.~J.~Pun\thanksref{HKU}\and
+F.~Z.~Qi\thanksref{IHEP}\and
+M.~Qi\thanksref{NJU}\and
+X.~Qian\thanksref{BNL}\and
+N.~Raper\thanksref{ZSU}\and
+J.~Ren\thanksref{CIAE}\and
+R.~Rosero\thanksref{BNL}\and
+B.~Roskovec\thanksref{UCI}\and
+X.~C.~Ruan\thanksref{CIAE}\and
+H.~Steiner\thanksref{UCB,LBNL}\and
+J.~L.~Sun\thanksref{CGNPG}\and
+K.~Treskov\thanksref{Dubna}\and
+W.-H.~Tse\thanksref{CUHK}\and
+C.~E.~Tull\thanksref{LBNL}\and
+B.~Viren\thanksref{BNL}\and
+V.~Vorobel\thanksref{Charles}\and
+C.~H.~Wang\thanksref{NUU}\and
+J.~Wang\thanksref{ZSU}\and
+M.~Wang\thanksref{SDU}\and
+N.~Y.~Wang\thanksref{BNU}\and
+R.~G.~Wang\thanksref{IHEP}\and
+W.~Wang\thanksref{ZSU,WM}\and
+W.~Wang\thanksref{NJU}\and
+X.~Wang\thanksref{NUDT}\and
+Y.~Wang\thanksref{NJU}\and
+Y.~F.~Wang\thanksref{IHEP}\and
+Z.~Wang\thanksref{IHEP}\and
+Z.~Wang\thanksref{TsingHua}\and
+Z.~M.~Wang\thanksref{IHEP}\and
+H.~Y.~Wei\thanksref{BNL}\and
+L.~H.~Wei\thanksref{IHEP}\and
+L.~J.~Wen\thanksref{IHEP}\and
+K.~Whisnant\thanksref{IowaState}\and
+C.~G.~White\thanksref{IIT}\and
+H.~L.~H.~Wong\thanksref{UCB,LBNL}\and
+S.~C.~F.~Wong\thanksref{ZSU}\and
+E.~Worcester\thanksref{BNL}\and
+Q.~Wu\thanksref{SDU}\and
+W.~J.~Wu\thanksref{IHEP}\and
+D.~M.~Xia\thanksref{CQU}\and
+Z.~Z.~Xing\thanksref{IHEP}\and
+J.~L.~Xu\thanksref{IHEP}\and
+T.~Xue\thanksref{TsingHua}\and
+C.~G.~Yang\thanksref{IHEP}\and
+L.~Yang\thanksref{DGUT}\and
+M.~S.~Yang\thanksref{IHEP}\and
+Y.~Z.~Yang\thanksref{TsingHua}\and
+M.~Ye\thanksref{IHEP}\and
+M.~Yeh\thanksref{BNL}\and
+B.~L.~Young\thanksref{IowaState}\and
+H.~Z.~Yu\thanksref{ZSU}\and
+Z.~Y.~Yu\thanksref{IHEP}\and
+B.~B.~Yue\thanksref{ZSU}\and
+S.~Zeng\thanksref{IHEP}\and
+Y.~Zeng\thanksref{ZSU}\and
+L.~Zhan\thanksref{IHEP}\and
+C.~Zhang\thanksref{BNL}\and
+C.~C.~Zhang\thanksref{IHEP}\and
+F.~Y.~Zhang\thanksref{SJTU}\and
+H.~H.~Zhang\thanksref{ZSU}\and
+J.~W.~Zhang\thanksref{IHEP}\and
+Q.~M.~Zhang\thanksref{XJTU}\and
+R.~Zhang\thanksref{NJU}\and
+X.~F.~Zhang\thanksref{IHEP}\and
+X.~T.~Zhang\thanksref{IHEP}\and
+Y.~M.~Zhang\thanksref{ZSU}\and
+Y.~M.~Zhang\thanksref{TsingHua}\and
+Y.~X.~Zhang\thanksref{CGNPG}\and
+Y.~Y.~Zhang\thanksref{SJTU}\and
+Z.~J.~Zhang\thanksref{DGUT}\and
+Z.~P.~Zhang\thanksref{USTC}\and
+Z.~Y.~Zhang\thanksref{IHEP}\and
+J.~Zhao\thanksref{IHEP}\and
+L.~Zhou\thanksref{IHEP}\and
+H.~L.~Zhuang\thanksref{IHEP}\and
+J.~H.~Zou\thanksref{IHEP}
+}
+\thankstext{BCC}{Now at: Department of Chemistry and Chemical Technology, Bronx Community College, Bronx, New York  10453}
+\institute{
+\label{IHEP}{Institute~of~High~Energy~Physics, Beijing}
+ \and \label{ECUST}{Institute of Modern Physics, East China University of Science and Technology, Shanghai}
+ \and \label{Wisconsin}{University~of~Wisconsin, Madison, Wisconsin 53706}
+ \and \label{Yale}{Wright~Laboratory and Department~of~Physics, Yale~University, New~Haven, Connecticut 06520} %%%% 20170227 add Wright Lab
+ \and \label{BNL}{Brookhaven~National~Laboratory, Upton, New York 11973}
+ \and \label{NTU}{Department of Physics, National~Taiwan~University, Taipei}
+ \and \label{NJU}{Nanjing~University, Nanjing}
+ \and \label{NUU}{National~United~University, Miao-Li}
+ \and \label{TsingHua}{Department~of~Engineering~Physics, Tsinghua~University, Beijing}
+ \and \label{SZU}{Shenzhen~University, Shenzhen}
+ \and \label{ZSU}{Sun Yat-Sen (Zhongshan) University, Guangzhou}
+ \and \label{NCEPU}{North~China~Electric~Power~University, Beijing}
+ \and \label{CUHK}{Chinese~University~of~Hong~Kong, Hong~Kong}
+ \and \label{Dubna}{Joint~Institute~for~Nuclear~Research, Dubna, Moscow~Region}
+ \and \label{Siena}{Siena~College, Loudonville, New York  12211}
+ \and \label{USTC}{University~of~Science~and~Technology~of~China, Hefei}
+ \and \label{Charles}{Charles~University, Faculty~of~Mathematics~and~Physics, Prague} %updated20140819
+ \and \label{UIUC}{Department of Physics, University~of~Illinois~at~Urbana-Champaign, Urbana, Illinois 61801}
+ \and \label{LBNL}{Lawrence~Berkeley~National~Laboratory, Berkeley, California 94720}
+ \and \label{BNU}{Beijing~Normal~University, Beijing}
+ \and \label{XJTU}{Department of Nuclear Science and Technology, School of Energy and Power Engineering, Xi'an Jiaotong University, Xi'an}%%updated 20161215 {Xi'an Jiaotong University, Xi'an}
+ \and \label{UH}{Department of Physics, University~of~Houston, Houston, Texas  77204}
+ \and \label{CIAE}{China~Institute~of~Atomic~Energy, Beijing}
+ \and \label{SDU}{Shandong~University, Jinan}
+ \and \label{VirginiaTech}{Center for Neutrino Physics, Virginia~Tech, Blacksburg, Virginia  24061}
+ \and \label{NCTU}{Institute~of~Physics, National~Chiao-Tung~University, Hsinchu}
+ \and \label{UC}{Department of Physics, University~of~Cincinnati, Cincinnati, Ohio 45221}
+ \and \label{TempleUniversity}{Department~of~Physics, College~of~Science~and~Technology, Temple~University, Philadelphia, Pennsylvania  19122}
+ \and \label{DGUT}{Dongguan~University~of~Technology, Dongguan}
+ \and \label{UCB}{Department of Physics, University~of~California, Berkeley, California  94720}
+ \and \label{HKU}{Department of Physics, The~University~of~Hong~Kong, Pokfulam, Hong~Kong}
+ \and \label{NanKai}{School of Physics, Nankai~University, Tianjin}
+ \and \label{IIT}{Department of Physics, Illinois~Institute~of~Technology, Chicago, Illinois  60616}
+ \and \label{SJTU}{Department of Physics and Astronomy, Shanghai Jiao Tong University, Shanghai Laboratory for Particle Physics and Cosmology, Shanghai}
+ \and \label{Princeton}{Joseph Henry Laboratories, Princeton~University, Princeton, New~Jersey 08544}
+ \and \label{CalTech}{California~Institute~of~Technology, Pasadena, California 91125}
+ \and \label{WM}{College~of~William~and~Mary, Williamsburg, Virginia  23187}
+ \and \label{CUC}{Instituto de F\'isica, Pontificia Universidad Cat\'olica de Chile, Santiago} % update 20140911 use r23215 for Spanish
+ \and \label{UCI}{Department of Physics and Astronomy, University of California, Irvine, California 92697} %20190209 for Pedro's new digs
+ \and \label{CGNPG}{China General Nuclear Power Group, Shenzhen}% update 20170729 add city. updated 20140724 China~Guangdong~Nuclear~Power~Group, Shenzhen}
+ \and \label{NUDT}{College of Electronic Science and Engineering, National University of Defense Technology, Changsha} % added 20140111
+ \and \label{IowaState}{Iowa~State~University, Ames, Iowa  50011}
+ \and \label{CQU}{Chongqing University, Chongqing} % add 20150417
+}

@@ -1,0 +1,437 @@
+%%% Generation information for this file
+%%% Fri Mar 11 13:57:27 2016
+%%% /Users/djaffe/Documents/Reactor/work/trunk/NuWa-trunk/dybgaudi/Documentation/AuthorList/DetectorPaper
+%%% ../AuthGen.py dyb_collaboration_list_timestamp_20140601.xls 20140601 
+\newcommand{\ECUST}{1}
+\newcommand{\IHEP}{2}
+\newcommand{\Wisconsin}{3}
+\newcommand{\Yale}{4}
+\newcommand{\BNL}{5}
+\newcommand{\NTU}{6}
+\newcommand{\NUU}{7}
+\newcommand{\DEAD}{8}
+\newcommand{\Dubna}{9}
+\newcommand{\NJU}{10}
+\newcommand{\CalTech}{11}
+\newcommand{\CUHK}{12}
+\newcommand{\NCTU}{13}
+\newcommand{\SDU}{14}
+\newcommand{\TsingHua}{15}
+\newcommand{\NCEPU}{16}
+\newcommand{\SZU}{17}
+\newcommand{\Princeton}{18}
+\newcommand{\LBNL}{19}
+\newcommand{\Siena}{20}
+\newcommand{\IIT}{21}
+\newcommand{\UIUC}{22}
+\newcommand{\CDUT}{23}
+\newcommand{\UCLA}{24}
+\newcommand{\RPI}{25}
+\newcommand{\SJTU}{26}
+\newcommand{\BNU}{27}
+\newcommand{\UH}{28}
+\newcommand{\VirginiaTech}{29}
+\newcommand{\CIAE}{30}
+\newcommand{\NanKai}{31}
+\newcommand{\UC}{32}
+\newcommand{\DGUT}{33}
+\newcommand{\UCB}{34}
+\newcommand{\HKU}{35}
+\newcommand{\Charles}{36}
+\newcommand{\USTC}{37}
+\newcommand{\ZSU}{38}
+\newcommand{\WM}{39}
+\newcommand{\XJTU}{40}
+\newcommand{\TempleUniversity}{41}
+\newcommand{\CUC}{42}
+\newcommand{\CGNPG}{43}
+\newcommand{\NUDT}{44}
+\newcommand{\IowaState}{45}
+\newcommand{\CQU}{46}
+\author{
+ F.~P.~An$^{\ECUST}$ \and
+J.~Z.~Bai$^{\IHEP}$ \and
+A.~B.~Balantekin$^{\Wisconsin}$ \and
+H.~R.~Band$^{\Yale}$ \and
+D.~Beavis$^{\BNL}$ \and
+W.~Beriguete$^{\BNL}$ \and
+M.~Bishai$^{\BNL}$ \and
+S.~Blyth$^{\NTU,\NUU}$ \and
+R.~L.~Brown$^{\BNL}$ \and
+I.~Butorov$^{\Dubna}$ \and
+D.~Cao$^{\NJU}$ \and
+G.~F.~Cao$^{\IHEP}$ \and
+J.~Cao$^{\IHEP}$ \and
+R.~Carr$^{\CalTech}$ \and
+W.~R.~Cen$^{\IHEP}$ \and
+W.~T.~Chan$^{\BNL}$ \and
+Y.~L.~Chan$^{\CUHK}$ \and
+J.~F.~Chang$^{\IHEP}$ \and
+L.~C.~Chang$^{\NCTU}$ \and
+Y.~Chang$^{\NUU}$ \and
+C.~Chasman$^{\BNL}$ \and
+H.~Y.~Chen$^{\NCTU}$ \and
+H.~S.~Chen$^{\IHEP}$ \and
+M.~J.~Chen$^{\IHEP}$ \and
+Q.~Y.~Chen$^{\SDU}$ \and
+S.~J.~Chen$^{\NJU}$ \and
+S.~M.~Chen$^{\TsingHua}$ \and
+X.~C.~Chen$^{\CUHK}$ \and
+X.~H.~Chen$^{\IHEP}$ \and
+X.~S.~Chen$^{\IHEP}$ \and
+Y.~X.~Chen$^{\NCEPU}$ \and
+Y.~Chen$^{\SZU}$ \and
+J.~H.~Cheng$^{\NCTU}$ \and
+J.~Cheng$^{\SDU}$ \and
+Y.~P.~Cheng$^{\IHEP}$ \and
+J.~J.~Cherwinka$^{\Wisconsin}$ \and
+S.~Chidzik$^{\Princeton}$ \and
+K.~Chow$^{\LBNL}$ \and
+M.~C.~Chu$^{\CUHK}$ \and
+J.~P.~Cummings$^{\Siena}$ \and
+J.~de Arcos$^{\IIT}$ \and
+Z.~Y.~Deng$^{\IHEP}$ \and
+X.~F.~Ding$^{\IHEP}$ \and
+Y.~Y.~Ding$^{\IHEP}$ \and
+M.~V.~Diwan$^{\BNL}$ \and
+L.~Dong$^{\IHEP}$ \and
+J.~Dove$^{\UIUC}$ \and
+E.~Draeger$^{\IIT}$ \and
+X.~F.~Du$^{\IHEP}$ \and
+D.~A.~Dwyer$^{\LBNL}$ \and
+W.~R.~Edwards$^{\LBNL}$ \and
+S.~R.~Ely$^{\UIUC}$ \and
+S.~D.~Fang$^{\NJU}$ \and
+J.~Y.~Fu$^{\IHEP}$ \and
+Z.~W.~Fu$^{\NJU}$ \and
+L.~Q.~Ge$^{\CDUT}$ \and
+V.~Ghazikhanian$^{\UCLA}$ \and
+R.~Gill$^{\BNL}$ \and
+J.~Goett$^{\RPI}$ \and
+M.~Gonchar$^{\Dubna}$ \and
+G.~H.~Gong$^{\TsingHua}$ \and
+H.~Gong$^{\TsingHua}$ \and
+Y.~A.~Gornushkin$^{\Dubna}$ \and
+M.~Grassi$^{\IHEP}$ \and
+L.~S.~Greenler$^{\Wisconsin}$ \and
+W.~Q.~Gu$^{\SJTU}$ \and
+M.~Y.~Guan$^{\IHEP}$ \and
+R.~P.~Guo$^{\IHEP}$ \and
+X.~H.~Guo$^{\BNU}$ \and
+R.~W.~Hackenburg$^{\BNL}$ \and
+R.~L.~Hahn$^{\BNL}$ \and
+R.~Han$^{\NCEPU}$ \and
+S.~Hans$^{\BNL\thanks{Now at:Department of Chemistry and Chemical Technology, Bronx Community College, Bronx, New York, USA}}$ \and
+M.~He$^{\IHEP}$ \and
+Q.~He$^{\Princeton}$ \and
+W.~S.~He$^{\NTU}$ \and
+K.~M.~Heeger$^{\Yale}$ \and
+Y.~K.~Heng$^{\IHEP}$ \and
+A.~Higuera$^{\UH}$ \and
+P.~Hinrichs$^{\Wisconsin}$ \and
+T.~H.~Ho$^{\NTU}$ \and
+M.~Hoff$^{\LBNL}$ \and
+Y.~K.~Hor$^{\VirginiaTech}$ \and
+Y.~B.~Hsiung$^{\NTU}$ \and
+B.~Z.~Hu$^{\NTU}$ \and
+L.~M.~Hu$^{\BNL}$ \and
+L.~J.~Hu$^{\BNU}$ \and
+T.~Hu$^{\IHEP}$ \and
+W.~Hu$^{\IHEP}$ \and
+E.~C.~Huang$^{\UIUC}$ \and
+H.~Z.~Huang$^{\UCLA}$ \and
+H.~X.~Huang$^{\CIAE}$ \and
+P.~W.~Huang$^{\NJU}$ \and
+X.~Huang$^{\UH}$ \and
+X.~T.~Huang$^{\SDU}$ \and
+P.~Huber$^{\VirginiaTech}$ \and
+G.~Hussain$^{\TsingHua}$ \and
+Z.~Isvan$^{\BNL}$ \and
+D.~E.~Jaffe$^{\BNL}$ \and
+P.~Jaffke$^{\VirginiaTech}$ \and
+K.~L.~Jen$^{\NCTU}$ \and
+S.~Jetter$^{\IHEP}$ \and
+X.~P.~Ji$^{\NanKai,\TsingHua}$ \and
+X.~L.~Ji$^{\IHEP}$ \and
+H.~J.~Jiang$^{\CDUT}$ \and
+W.~Q.~Jiang$^{\IHEP}$ \and
+J.~B.~Jiao$^{\SDU}$ \and
+R.~A.~Johnson$^{\UC}$ \and
+J.~Joseph$^{\LBNL}$ \and
+L.~Kang$^{\DGUT}$ \and
+S.~H.~Kettell$^{\BNL}$ \and
+S.~Kohn$^{\UCB}$ \and
+M.~Kramer$^{\LBNL,\UCB}$ \and
+K.~K.~Kwan$^{\CUHK}$ \and
+M.~W.~Kwok$^{\CUHK}$ \and
+T.~Kwok$^{\HKU}$ \and
+C.~Y.~Lai$^{\NTU}$ \and
+W.~C.~Lai$^{\CDUT}$ \and
+W.~H.~Lai$^{\NCTU}$ \and
+T.~J.~Langford$^{\Yale}$ \and
+K.~Lau$^{\UH}$ \and
+L.~Lebanowski$^{\TsingHua,\UH}$ \and
+J.~Lee$^{\LBNL}$ \and
+M.~K.~P.~Lee$^{\HKU}$ \and
+R.~T.~Lei$^{\DGUT}$ \and
+R.~Leitner$^{\Charles}$ \and
+J.~K.~C.~Leung$^{\HKU}$ \and
+C.~A.~Lewis$^{\Wisconsin}$ \and
+B.~Li$^{\IHEP}$ \and
+C.~Li$^{\SDU}$ \and
+D.~J.~Li$^{\USTC}$ \and
+F.~Li$^{\IHEP}$ \and
+G.~S.~Li$^{\SJTU}$ \and
+J.~Li$^{\IHEP}$ \and
+N.~Y.~Li$^{\LBNL}$ \and
+Q.~J.~Li$^{\IHEP}$ \and
+S.~F.~Li$^{\DGUT}$ \and
+S.~C.~Li$^{\HKU}$ \and
+W.~D.~Li$^{\IHEP}$ \and
+X.~B.~Li$^{\IHEP}$ \and
+X.~N.~Li$^{\IHEP}$ \and
+X.~Q.~Li$^{\NanKai}$ \and
+Y.~Li$^{\DGUT}$ \and
+Y.~F.~Li$^{\IHEP}$ \and
+Z.~B.~Li$^{\ZSU}$ \and
+H.~Liang$^{\USTC}$ \and
+J.~Liang$^{\IHEP}$ \and
+C.~J.~Lin$^{\LBNL}$ \and
+G.~L.~Lin$^{\NCTU}$ \and
+P.~Y.~Lin$^{\NCTU}$ \and
+S.~X.~Lin$^{\DGUT}$ \and
+S.~K.~Lin$^{\UH}$ \and
+Y.~C.~Lin$^{\CDUT}$ \and
+J.~J.~Ling$^{\BNL,\UIUC,\ZSU}$ \and
+J.~M.~Link$^{\VirginiaTech}$ \and
+L.~Littenberg$^{\BNL}$ \and
+B.~R.~Littlejohn$^{\UC,\IIT,\Wisconsin}$ \and
+B.~J.~Liu$^{\CUHK}$ \and
+C.~Liu$^{\IHEP}$ \and
+D.~W.~Liu$^{\UH,\LBNL,\UIUC}$ \and
+H.~Liu$^{\UH}$ \and
+J.~L.~Liu$^{\SJTU}$ \and
+J.~C.~Liu$^{\IHEP}$ \and
+S.~Liu$^{\LBNL}$ \and
+S.~S.~Liu$^{\HKU}$ \and
+X.~Liu$^{\IHEP}$ \and
+Y.~B.~Liu$^{\IHEP}$ \and
+C.~Lu$^{\Princeton}$ \and
+H.~Q.~Lu$^{\IHEP}$ \and
+J.~S.~Lu$^{\IHEP}$ \and
+A.~Luk$^{\CUHK}$ \and
+K.~B.~Luk$^{\UCB,\LBNL}$ \and
+T.~Luo$^{\IHEP}$ \and
+X.~L.~Luo$^{\IHEP}$ \and
+L.~H.~Ma$^{\IHEP}$ \and
+Q.~M.~Ma$^{\IHEP}$ \and
+X.~Y.~Ma$^{\IHEP}$ \and
+X.~B.~Ma$^{\NCEPU}$ \and
+Y.~Q.~Ma$^{\IHEP}$ \and
+B.~Mayes$^{\UH}$ \and
+K.~T.~McDonald$^{\Princeton}$ \and
+M.~C.~McFarlane$^{\Wisconsin}$ \and
+R.~D.~McKeown$^{\CalTech,\WM}$ \and
+Y.~Meng$^{\VirginiaTech}$ \and
+I.~Mitchell$^{\UH}$ \and
+D.~Mohapatra$^{\VirginiaTech}$ \and
+J.~Monari Kebwaro$^{\XJTU}$ \and
+J.~E.~Morgan$^{\VirginiaTech}$ \and
+Y.~Nakajima$^{\LBNL}$ \and
+J.~Napolitano$^{\TempleUniversity}$ \and
+D.~Naumov$^{\Dubna}$ \and
+E.~Naumova$^{\Dubna}$ \and
+C.~Newsom$^{\UH}$ \and
+H.~Y.~Ngai$^{\HKU}$ \and
+W.~K.~Ngai$^{\UIUC}$ \and
+Y.~B.~Nie$^{\CIAE}$ \and
+Z.~Ning$^{\IHEP}$ \and
+J.~P.~Ochoa-Ricoux$^{\CUC,\LBNL}$ \and
+A.~Olshevskiy$^{\Dubna}$ \and
+A.~Pagac$^{\Wisconsin}$ \and
+H.-R.~Pan$^{\NTU}$ \and
+S.~Patton$^{\LBNL}$ \and
+C.~Pearson$^{\BNL}$ \and
+V.~Pec$^{\Charles}$ \and
+J.~C.~Peng$^{\UIUC}$ \and
+L.~E.~Piilonen$^{\VirginiaTech}$ \and
+L.~Pinsky$^{\UH}$ \and
+C.~S.~J.~Pun$^{\HKU}$ \and
+F.~Z.~Qi$^{\IHEP}$ \and
+M.~Qi$^{\NJU}$ \and
+X.~Qian$^{\BNL}$ \and
+N.~Raper$^{\RPI}$ \and
+B.~Ren$^{\DGUT}$ \and
+J.~Ren$^{\CIAE}$ \and
+R.~Rosero$^{\BNL}$ \and
+B.~Roskovec$^{\Charles}$ \and
+X.~C.~Ruan$^{\CIAE}$ \and
+W.~R.~Sands~III$^{\Princeton}$ \and
+B.~Seilhan$^{\IIT}$ \and
+B.~B.~Shao$^{\TsingHua}$ \and
+K.~Shih$^{\CUHK}$ \and
+W.~Y.~Song$^{\IHEP}$ \and
+H.~Steiner$^{\UCB,\LBNL}$ \and
+P.~Stoler$^{\RPI}$ \and
+M.~Stuart$^{\LBNL}$ \and
+G.~X.~Sun$^{\IHEP}$ \and
+J.~L.~Sun$^{\CGNPG}$ \and
+N.~Tagg$^{\BNL}$ \and
+Y.~H.~Tam$^{\CUHK}$ \and
+H.~K.~Tanaka$^{\BNL}$ \and
+W.~Tang$^{\BNL}$ \and
+X.~Tang$^{\IHEP}$ \and
+D.~Taychenachev$^{\Dubna}$ \and
+H.~Themann$^{\BNL}$ \and
+Y.~Torun$^{\IIT}$ \and
+S.~Trentalange$^{\UCLA}$ \and
+O.~Tsai$^{\UCLA}$ \and
+K.~V.~Tsang$^{\LBNL}$ \and
+R.~H.~M.~Tsang$^{\CalTech}$ \and
+C.~E.~Tull$^{\LBNL}$ \and
+Y.~C.~Tung$^{\NTU}$ \and
+N.~Viaux$^{\CUC}$ \and
+B.~Viren$^{\BNL}$ \and
+S.~Virostek$^{\LBNL}$ \and
+V.~Vorobel$^{\Charles}$ \and
+C.~H.~Wang$^{\NUU}$ \and
+L.~S.~Wang$^{\IHEP}$ \and
+L.~Y.~Wang$^{\IHEP}$ \and
+L.~Z.~Wang$^{\NCEPU}$ \and
+M.~Wang$^{\SDU}$ \and
+N.~Y.~Wang$^{\BNU}$ \and
+R.~G.~Wang$^{\IHEP}$ \and
+T.~Wang$^{\IHEP}$ \and
+W.~Wang$^{\ZSU,\WM}$ \and
+W.~W.~Wang$^{\NJU}$ \and
+X.~T.~Wang$^{\IHEP}$ \and
+X.~Wang$^{\NUDT}$ \and
+Y.~F.~Wang$^{\IHEP}$ \and
+Z.~Wang$^{\TsingHua}$ \and
+Z.~Wang$^{\IHEP}$ \and
+Z.~M.~Wang$^{\IHEP}$ \and
+D.~M.~Webber$^{\Wisconsin}$ \and
+H.~Y.~Wei$^{\TsingHua}$ \and
+Y.~D.~Wei$^{\DGUT}$ \and
+L.~J.~Wen$^{\IHEP}$ \and
+D.~L.~Wenman$^{\Wisconsin}$ \and
+K.~Whisnant$^{\IowaState}$ \and
+C.~G.~White$^{\IIT}$ \and
+L.~Whitehead$^{\UH}$ \and
+C.~A.~Whitten~Jr.$^{\UCLA}$ \and
+J.~Wilhelmi$^{\TempleUniversity}$ \and
+T.~Wise$^{\Wisconsin,\Yale}$ \and
+H.~C.~Wong$^{\HKU}$ \and
+H.~L.~H.~Wong$^{\UCB,\LBNL}$ \and
+J.~Wong$^{\CUHK}$ \and
+S.~C.~F.~Wong$^{\CUHK}$ \and
+E.~Worcester$^{\BNL}$ \and
+F.~F.~Wu$^{\CalTech}$ \and
+Q.~Wu$^{\SDU,\IIT}$ \and
+D.~M.~Xia$^{\IHEP,\CQU}$ \and
+J.~K.~Xia$^{\IHEP}$ \and
+S.~T.~Xiang$^{\USTC}$ \and
+Q.~Xiao$^{\Wisconsin}$ \and
+Z.~Z.~Xing$^{\IHEP}$ \and
+G.~Xu$^{\UH}$ \and
+J.~Y.~Xu$^{\CUHK}$ \and
+J.~L.~Xu$^{\IHEP}$ \and
+J.~Xu$^{\BNU}$ \and
+W.~Xu$^{\UCLA}$ \and
+Y.~Xu$^{\NanKai}$ \and
+T.~Xue$^{\TsingHua}$ \and
+J.~Yan$^{\XJTU}$ \and
+C.~G.~Yang$^{\IHEP}$ \and
+L.~Yang$^{\DGUT}$ \and
+M.~S.~Yang$^{\IHEP}$ \and
+M.~T.~Yang$^{\SDU}$ \and
+M.~Ye$^{\IHEP}$ \and
+M.~Yeh$^{\BNL}$ \and
+Y.~S.~Yeh$^{\NCTU}$ \and
+K.~Yip$^{\BNL}$ \and
+B.~L.~Young$^{\IowaState}$ \and
+G.~Y.~Yu$^{\NJU}$ \and
+Z.~Y.~Yu$^{\IHEP}$ \and
+S.~Zeng$^{\IHEP}$ \and
+L.~Zhan$^{\IHEP}$ \and
+C.~Zhang$^{\BNL}$ \and
+F.~H.~Zhang$^{\IHEP}$ \and
+H.~H.~Zhang$^{\ZSU}$ \and
+J.~W.~Zhang$^{\IHEP}$ \and
+K.~Zhang$^{\BNL}$ \and
+Q.~X.~Zhang$^{\CDUT}$ \and
+Q.~M.~Zhang$^{\XJTU}$ \and
+S.~H.~Zhang$^{\IHEP}$ \and
+X.~T.~Zhang$^{\IHEP}$ \and
+Y.~C.~Zhang$^{\USTC}$ \and
+Y.~H.~Zhang$^{\IHEP}$ \and
+Y.~M.~Zhang$^{\TsingHua}$ \and
+Y.~X.~Zhang$^{\CGNPG}$ \and
+Y.~M.~Zhang$^{\ZSU}$ \and
+Z.~J.~Zhang$^{\DGUT}$ \and
+Z.~Y.~Zhang$^{\IHEP}$ \and
+Z.~P.~Zhang$^{\USTC}$ \and
+J.~Zhao$^{\IHEP}$ \and
+Q.~W.~Zhao$^{\IHEP}$ \and
+Y.~F.~Zhao$^{\NCEPU}$ \and
+Y.~B.~Zhao$^{\IHEP}$ \and
+L.~Zheng$^{\USTC}$ \and
+W.~L.~Zhong$^{\IHEP,\LBNL}$ \and
+L.~Zhou$^{\IHEP}$ \and
+N.~Zhou$^{\USTC}$ \and
+Z.~Y.~Zhou$^{\CIAE}$ \and
+H.~L.~Zhuang$^{\IHEP}$ \and
+S.~Zimmerman$^{\LBNL}$ \and
+J.~H.~Zou$^{\IHEP}$ \and
+}
+\maketitle %%%%%%%% NOTE THAT maketitle COMMAND APPEARS IN THE AUTHOR LIST %%%%%%%   
+\address{
+\vspace{0.3cm}
+{\normalsize (Daya Bay Collaboration)} \\ 
+\vspace{0.3cm}
+$^{\ECUST}$Institute of Modern Physics, East China University of Science and Technology, Shanghai \\ 
+$^{\IHEP}$Institute~of~High~Energy~Physics, Beijing \\ 
+$^{\Wisconsin}$University~of~Wisconsin, Madison, Wisconsin, USA \\ 
+$^{\Yale}$Department~of~Physics, Yale~University, New~Haven, Connecticut, USA \\ 
+$^{\BNL}$Brookhaven~National~Laboratory, Upton, New York, USA \\ 
+$^{\NTU}$Department of Physics, National~Taiwan~University, Taipei \\ 
+$^{\NUU}$National~United~University, Miao-Li \\ 
+$^{\Dubna}$Joint~Institute~for~Nuclear~Research, Dubna, Moscow~Region \\ 
+$^{\NJU}$Nanjing~University, Nanjing \\ 
+$^{\CalTech}$California~Institute~of~Technology, Pasadena, California, USA \\ 
+$^{\CUHK}$Chinese~University~of~Hong~Kong, Hong~Kong \\ 
+$^{\NCTU}$Institute~of~Physics, National~Chiao-Tung~University, Hsinchu \\ 
+$^{\SDU}$Shandong~University, Jinan \\ 
+$^{\TsingHua}$Department~of~Engineering~Physics, Tsinghua~University, Beijing \\ 
+$^{\NCEPU}$North~China~Electric~Power~University, Beijing \\ 
+$^{\SZU}$Shenzhen~University, Shenzhen \\ 
+$^{\Princeton}$Joseph Henry Laboratories, Princeton~University, Princeton, New~Jersey, USA \\ 
+$^{\LBNL}$Lawrence~Berkeley~National~Laboratory, Berkeley, California, USA \\ 
+$^{\Siena}$Siena~College, Loudonville, New York, USA \\ 
+$^{\IIT}$Department of Physics, Illinois~Institute~of~Technology, Chicago, Illinois, USA \\ 
+$^{\UIUC}$Department of Physics, University~of~Illinois~at~Urbana-Champaign, Urbana, Illinois, USA \\ 
+$^{\CDUT}$Chengdu~University~of~Technology, Chengdu \\ 
+$^{\UCLA}$University~of~California, Los~Angeles, California, USA \\ 
+$^{\RPI}$Department~of~Physics, Applied~Physics, and~Astronomy, Rensselaer~Polytechnic~Institute, Troy, New~York, USA \\ 
+$^{\SJTU}$Department of Physics and Astronomy, Shanghai Jiao Tong University, Shanghai Laboratory for Particle Physics and Cosmology, Shanghai \\ 
+$^{\BNU}$Beijing~Normal~University, Beijing \\ 
+$^{\UH}$Department of Physics, University~of~Houston, Houston, Texas, USA \\ 
+$^{\VirginiaTech}$Center for Neutrino Physics, Virginia~Tech, Blacksburg, Virginia, USA \\ 
+$^{\CIAE}$China~Institute~of~Atomic~Energy, Beijing \\ 
+$^{\NanKai}$School of Physics, Nankai~University, Tianjin \\ 
+$^{\UC}$Department of Physics, University~of~Cincinnati, Cincinnati, Ohio, USA \\ 
+$^{\DGUT}$Dongguan~University~of~Technology, Dongguan \\ 
+$^{\UCB}$Department of Physics, University~of~California, Berkeley, California, USA \\ 
+$^{\HKU}$Department of Physics, The~University~of~Hong~Kong, Pokfulam, Hong~Kong \\ 
+$^{\Charles}$Charles~University, Faculty~of~Mathematics~and~Physics, Prague, Czech~Republic \\ 
+$^{\USTC}$University~of~Science~and~Technology~of~China, Hefei \\ 
+$^{\ZSU}$Sun Yat-Sen (Zhongshan) University, Guangzhou \\ 
+$^{\WM}$College~of~William~and~Mary, Williamsburg, Virginia, USA \\ 
+$^{\XJTU}$Xi'an Jiaotong University, Xi'an \\ 
+$^{\TempleUniversity}$Department~of~Physics, College~of~Science~and~Technology, Temple~University, Philadelphia, Pennsylvania, USA \\ 
+$^{\CUC}$Instituto de F\'isica, Pontificia Universidad Cat\'olica de Chile, Santiago, Chile \\ 
+$^{\CGNPG}$China General Nuclear Power Group \\ 
+$^{\NUDT}$College of Electronic Science and Engineering, National University of Defense Technology, Changsha \\ 
+$^{\IowaState}$Iowa~State~University, Ames, Iowa, USA \\ 
+$^{\CQU}$Chongqing University, Chongqing \\ 
+} 

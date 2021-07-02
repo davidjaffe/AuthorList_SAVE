@@ -1,0 +1,27 @@
+% \listfiles %useful command to see the versions of all ancillary files
+\documentclass[aps,prl,showpacs,showkeys,amsmath,amssymb,twocolumn,floatfix,superscriptaddress]{revtex4-1}
+
+
+\begin{document}
+
+\title{The PhysRev Title}
+
+
+\input merged_minos_dyb_authors.tex
+%\collaboration{The Daya Bay Collaboration}\noaffiliation
+\date{\today}
+
+\begin{abstract}
+\noindent {The PhysRev abstract.}
+\end{abstract}
+
+\maketitle
+
+The PhysRev paper.
+
+A reference.~\cite{Ahmad:2001an} 
+
+\bibliographystyle{apsrev4-1} 
+% this  fake bibliography is needed to get \altaffiliation to work
+\bibliography{../fake_PhysRev_refs}
+\end{document}

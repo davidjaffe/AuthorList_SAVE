@@ -1,0 +1,15 @@
+# comment line
+# format is FamilyName GivenName Institution
+Heeger Karsten  Wisconsin
+Ling     Jiajie       BNL
+Ling     Jiajie       UIUC
+Olshevski Alexandr Dubna
+#
+# for removing affiliations
+# format is FamilyName GivenName Institution not
+Cherwinka Jeff   BNL not
+Napolitano Jim  RPI not
+#
+# collaborations with family and given names reversed in collaboration list
+Alexandr Olshevski Dubna not
+Soeren Jetter IHEP not

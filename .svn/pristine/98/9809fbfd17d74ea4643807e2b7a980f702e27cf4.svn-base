@@ -1,0 +1,20 @@
+% run pdflatex on this a few times to check that the JCAP authorlist is correct
+\documentclass[11pt,a4paper]{article}
+% next line from JCAP example
+\pdfoutput=1 % if your are submitting a pdflatex (i.e. if you have
+             % images in pdf, png or jpg format)
+\usepackage{jcappub}
+
+
+ \title{The JCAP Title}
+
+\input JCAP.tex
+
+\abstract{The JCAP abstract}
+\begin{document}
+\maketitle
+
+The JCAP text.
+
+\end{document}
+

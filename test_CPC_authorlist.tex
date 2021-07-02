@@ -1,0 +1,31 @@
+% test CPC authorlist based on r24845 groups/reactor_8AD_cpc/Reactor_8AD_CPC.tex
+% modified 20201215 to output Chinese names
+% !TEX program = XeLaTeX
+% !TEX encoding = UTF-8
+\documentclass[a4paper,10pt,twoside]{cpc-hepnp}
+\usepackage{ctex}
+\setCJKmainfont[BoldFont=STHeiti,ItalicFont=STKaiti]{STSong}
+\setCJKsansfont[BoldFont=STHeiti]{STXihei}
+\setCJKmonofont{STFangsong}
+
+
+\usepackage{multirow,color,multicol,graphicx,booktabs}
+\usepackage{amssymb,bm,mathrsfs,bbm,amscd}
+\usepackage[tbtags]{amsmath}
+\usepackage{lastpage}
+
+\begin{document}
+
+ \title{The Chinese Physics C Title}
+
+\input 2021_Anue_Unfold/CPC.tex
+
+  \begin{abstract}
+The Chinese Physics C abstract.
+  \end{abstract}
+
+
+The Chinese Physics C text.
+
+\end{document}
+

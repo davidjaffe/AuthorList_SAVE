@@ -1,0 +1,25 @@
+Generating author lists for authors with start dates before 2015 7 1 dateSafe (2015, 7, 1, 0, 0, 0)
+
+Using extra_authors_and_affiliations.txt to add authors and/or affiliations
+
+addAuthorsAndAffiliations: Remove Inst BNL from Cherwinka Jeff
+addAuthorsAndAffiliations: Remove Inst BNL from Chukanov Artem
+addAuthorsAndAffiliations: Remove Inst BNL from Ling Jiajie
+addAuthorsAndAffiliations: Remove Inst UIUC from Ling Jiajie
+addAuthorsAndAffiliations: Remove Inst NCTU from Cheng Chia-Hua
+addAuthorsAndAffiliations: Remove Inst Yale from Heeger Karsten
+Remove Heeger Karsten with Publication Name K.~Heeger because s/he has no affiliation
+Remove Cheng Chia-Hua with Publication Name J.~H.~Cheng because s/he has no affiliation
+
+Successfully generated authorlists PhysRev Elsevier CPC author-paper-name.txt
+
+
+ Press enter to run pdflatex to test generated authorlists
+Traceback (most recent call last):
+  File "../AuthGen.py", line 865, in <module>
+    Main(FileName,DateString,debug=debug)
+  File "../AuthGen.py", line 370, in __init__
+    self.testAuthorList( journalNames)
+  File "../AuthGen.py", line 575, in testAuthorList
+    raw_input()
+EOFError: EOF when reading a line

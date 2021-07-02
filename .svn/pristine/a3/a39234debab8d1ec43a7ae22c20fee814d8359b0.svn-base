@@ -1,0 +1,84 @@
+%\RequirePackage{fix-cm}
+
+%\documentclass[pdftex,twocolumn,epjc3]{svjour3}          % This is the original
+\documentclass[pdftex,epjc3]{svjour3}          % twocolumn removed
+
+\RequirePackage[T1]{fontenc}
+
+\smartqed  % flush right qed marks, e.g. at end of proof
+
+\RequirePackage{graphicx}
+\RequirePackage{mathptmx}      % use Times fonts if available on your TeX system
+\RequirePackage{flushend}
+\RequirePackage[numbers,sort&compress]{natbib}
+\RequirePackage[colorlinks,citecolor=blue,urlcolor=blue,linkcolor=blue]{hyperref}
+
+\journalname{Eur. Phys. J. C}
+
+\begin{document}
+
+\title{An extremely long, detailed, descriptive, elaborate, verbose and involved European Journal of Physics C fake title}
+
+%\subtitle{Do you have a subtitle?\\ If so, write it here}
+
+\input EJPC.tex
+%\author{
+%First Author\thanksref{addr1}         \and
+%Second Author\thanksref{addr2,addr3} \and
+%Henry P. Fonebone\thanksref{addr4,addr1,aa1} \and %etc.
+%}
+%
+%\thankstext{aa1}{Also at: Mara-Lago, Fort Lauderdale, FL}
+%
+%\institute{
+%First Address, Street, City, Country\label{addr1}           \and
+%Second Address, Street, City, Country\label{addr2}           \and
+%Present Address: Street, City, Country\label{addr3} \and
+%\label{addr4} Fourth address, Timbuktu, Mali
+%}
+
+\date{Received: date / Accepted: date}
+% The correct dates will be entered by the editor
+
+\maketitle
+
+\begin{abstract} This is the abstract.
+\end{abstract}
+
+Some text would be here. And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. 
+
+And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. 
+And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. 
+And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. 
+And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. 
+And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. 
+And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. 
+And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. 
+
+And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. 
+And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. 
+And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. 
+And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. 
+And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. 
+And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. 
+And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. 
+And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. 
+And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. 
+
+And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. 
+And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. 
+And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. 
+And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. 
+And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. 
+And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. 
+And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. 
+And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. 
+And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. And here. 
+
+
+
+\begin{thebibliography}{9}
+\bibitem{r1}
+S. Chekanov et al. (ZEUS Collaboration), Eur. Phys. J. C \textbf{42}, 1 (2005)
+\end{thebibliography}
+\end{document}

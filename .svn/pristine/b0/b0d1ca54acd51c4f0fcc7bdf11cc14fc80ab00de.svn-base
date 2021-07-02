@@ -1,0 +1,638 @@
+%%%% Generator info for file
+%%%% Fri Aug 23 08:22:34 2019
+%%%% /Users/djaffe/Documents/Reactor/work/trunk/NuWa-trunk/dybgaudi/Documentation/AuthorList/2019_MINOS_DYB_sterile
+%%%% merge.py 
+%
+\newcommand{\NUU}{{National~United~University, Miao-Li}}
+\newcommand{\Minnesota}{University of Minnesota, Minneapolis, Minnesota 55455, USA}
+\newcommand{\ECUST}{{Institute of Modern Physics, East China University of Science and Technology, Shanghai}}
+\newcommand{\SJTU}{{Department of Physics and Astronomy, Shanghai Jiao Tong University, Shanghai Laboratory for Particle Physics and Cosmology, Shanghai}}
+\newcommand{\SLAC}{Stanford Linear Accelerator Center, Stanford, California 94309, USA}
+\newcommand{\JMU}{Physics Department, James Madison University, Harrisonburg, Virginia 22807, USA}
+\newcommand{\Delhi}{Department of Physics \& Astrophysics, University of Delhi, Delhi 110007, India}
+\newcommand{\NJU}{{Nanjing~University, Nanjing}}
+\newcommand{\Cincinnati}{Department of Physics, University of Cincinnati, Cincinnati, Ohio 45221, USA}
+\newcommand{\Rochester}{Department of Physics and Astronomy, University of Rochester, New York 14627 USA}
+\newcommand{\Iowa}{Department of Physics and Astronomy, Iowa State University, Ames, Iowa 50011 USA}
+\newcommand{\Athens}{Department of Physics, University of Athens, GR-15771 Athens, Greece}
+\newcommand{\XJTU}{{Department of Nuclear Science and Technology, School of Energy and Power Engineering, Xi'an Jiaotong University, Xi'an}}%%updated 20161215 {Xi'an Jiaotong University, Xi'an}}
+\newcommand{\Charles}{{Charles~University, Faculty~of~Mathematics~and~Physics, Prague}} %updated20140819
+\newcommand{\Yale}{{Wright~Laboratory and Department~of~Physics, Yale~University, New~Haven, Connecticut 06520, USA}} %%%% 20170227 add Wright Lab
+\newcommand{\NTU}{{Department of Physics, National~Taiwan~University, Taipei}}
+\newcommand{\PennU}{Department of Physics and Astronomy, University of Pennsylvania, Philadelphia, Pennsylvania 19104, USA}
+\newcommand{\CdF}{APC -- Universit\'{e} Paris 7 Denis Diderot, 10, rue Alice Domon et L\'{e}onie Duquet, F-75205 Paris Cedex 13, France}
+\newcommand{\Oxford}{Subdepartment of Particle Physics, University of Oxford, Oxford OX1 3RH, United Kingdom}
+\newcommand{\LANL}{Los Alamos National Laboratory, Los Alamos, New Mexico 87545, USA}
+\newcommand{\Caltech}{Lauritsen Laboratory, California Institute of Technology, Pasadena, California 91125, USA}
+\newcommand{\Alabama}{Department of Physics and Astronomy, University of Alabama, Tuscaloosa, Alabama 35487, USA}
+\newcommand{\Houston}{Department of Physics, University of Houston, Houston, Texas 77204, USA}
+\newcommand{\SZU}{{Shenzhen~University, Shenzhen}}
+\newcommand{\LLL}{Lawrence Livermore National Laboratory, Livermore, California 94550, USA}
+\newcommand{\PennState}{Department of Physics, Pennsylvania State University, State College, Pennsylvania 16802, USA}
+\newcommand{\Washington}{Physics Department, Western Washington University, Bellingham, Washington 98225, USA}
+\newcommand{\HKU}{{Department of Physics, The~University~of~Hong~Kong, Pokfulam, Hong~Kong}}
+\newcommand{\TsingHua}{{Department~of~Engineering~Physics, Tsinghua~University, Beijing}}
+\newcommand{\UNICAMP}{Universidade Estadual de Campinas, IFGW, CP 6165, 13083-970, Campinas, SP, Brazil}
+\newcommand{\Indiana}{Indiana University, Bloomington, Indiana 47405, USA}
+\newcommand{\deceased}{Deceased.}
+\newcommand{\Otterbein}{Otterbein University, Westerville, Ohio 43081, USA}
+\newcommand{\Dallas}{Department of Physics, University of Dallas, Irving, Texas 75062, USA}
+\newcommand{\UIUC}{{Department of Physics, University~of~Illinois~at~Urbana-Champaign, Urbana, Illinois 61801, USA}}
+\newcommand{\RAL}{Rutherford Appleton Laboratory, Science and Technology Facilities Council, Didcot, OX11 0QX, United Kingdom}
+\newcommand{\ZSU}{{Sun Yat-Sen (Zhongshan) University, Guangzhou}}
+\newcommand{\BCC}{{Now at Department of Chemistry and Chemical Technology, Bronx Community College, Bronx, New York  10453, USA}} % add 20160311 for Sunej's 'now at'
+\newcommand{\Manchester}{School of Physics and Astronomy, University of Manchester, Manchester M13 9PL, United Kingdom}
+\newcommand{\GEHealth}{GE Healthcare, Florence South Carolina 29501, USA}
+\newcommand{\SDU}{{Shandong~University, Jinan}}
+\newcommand{\Crookston}{Math, Science and Technology Department, University of Minnesota -- Crookston, Crookston, Minnesota 56716, USA}
+\newcommand{\RoyalH}{Physics Department, Royal Holloway, University of London, Egham, Surrey, TW20 0EX, United Kingdom}
+\newcommand{\LosAlamos}{Los Alamos National Laboratory, Los Alamos, New Mexico 87545, USA}
+\newcommand{\CQU}{{Chongqing University, Chongqing}} % add 20150417
+\newcommand{\IIT}{Department of Physics, Illinois Institute of Technology, Chicago, Illinois 60616, USA}
+\newcommand{\Cleveland}{Cleveland Clinic, Cleveland, Ohio 44195, USA}
+\newcommand{\ITEP}{High Energy Experimental Physics Department, ITEP, B. Cheremushkinskaya, 25, 117218 Moscow, Russia}
+\newcommand{\TechX}{Tech-X Corporation, Boulder, Colorado 80303, USA}
+\newcommand{\Harvard}{Department of Physics, Harvard University, Cambridge, Massachusetts 02138, USA}
+\newcommand{\Sussex}{Department of Physics and Astronomy, University of Sussex, Falmer, Brighton BN1 9QH, United Kingdom}
+\newcommand{\Benedictine}{Physics Department, Benedictine University, Lisle, Illinois 60532, USA}
+\newcommand{\Lebedev}{Nuclear Physics Department, Lebedev Physical Institute, Leninsky Prospect 53, 119991 Moscow, Russia}
+\newcommand{\Wisconsin}{Physics Department, University of Wisconsin, Madison, Wisconsin 53706, USA}
+\newcommand{\Cambridge}{Cavendish Laboratory, University of Cambridge, Cambridge CB3 0HE, United Kingdom}
+\newcommand{\BNL}{Brookhaven National Laboratory, Upton, New York 11973, USA}
+\newcommand{\NUDT}{{College of Electronic Science and Engineering, National University of Defense Technology, Changsha}} % added 20140111
+\newcommand{\BNU}{{Beijing~Normal~University, Beijing}}
+\newcommand{\NanKai}{{School of Physics, Nankai~University, Tianjin}}
+\newcommand{\SDakota}{South Dakota School of Mines and Technology, Rapid City, South Dakota 57701, USA}
+\newcommand{\DGUT}{{Dongguan~University~of~Technology, Dongguan}}
+\newcommand{\UC}{{Department of Physics, University~of~Cincinnati, Cincinnati, Ohio 45221, USA}}
+\newcommand{\UFG}{Instituto de F\'{i}sica, Universidade Federal de Goi\'{a}s, 74690-900, Goi\^{a}nia, GO, Brazil}
+\newcommand{\IHEP}{Institute for High Energy Physics, Protvino, Moscow Region RU-140284, Russia}
+\newcommand{\Princeton}{{Joseph Henry Laboratories, Princeton~University, Princeton, New~Jersey 08544, USA}}
+\newcommand{\Carolina}{Department of Physics and Astronomy, University of South Carolina, Columbia, South Carolina 29208, USA}
+\newcommand{\Siena}{{Siena~College, Loudonville, New York  12211, USA}}
+\newcommand{\Tufts}{Physics Department, Tufts University, Medford, Massachusetts 02155, USA}
+\newcommand{\Warsaw}{Department of Physics, University of Warsaw, PL-02-093 Warsaw, Poland}
+\newcommand{\UCB}{{Department of Physics, University~of~California, Berkeley, California  94720, USA}}
+\newcommand{\UCL}{Department of Physics and Astronomy, University College London, London WC1E 6BT, United Kingdom}
+\newcommand{\TempleUniversity}{{Department~of~Physics, College~of~Science~and~Technology, Temple~University, Philadelphia, Pennsylvania  19122}}
+\newcommand{\UCI}{{Department of Physics and Astronomy, University of California, Irvine, California 92697, USA}} %20190209 for Pedro's new digs
+\newcommand{\VirginiaTech}{{Center for Neutrino Physics, Virginia~Tech, Blacksburg, Virginia  24061, USA}}
+\newcommand{\Texas}{Department of Physics, University of Texas at Austin, Austin, Texas 78712, USA}
+\newcommand{\USP}{Instituto de F\'{i}sica, Universidade de S\~{a}o Paulo,  CP 66318, 05315-970, S\~{a}o Paulo, SP, Brazil}
+\newcommand{\Pittsburgh}{Department of Physics and Astronomy, University of Pittsburgh, Pittsburgh, Pennsylvania 15260, USA}
+\newcommand{\NTUAthens}{Department of Physics, National Tech. University of Athens, GR-15780 Athens, Greece}
+\newcommand{\USTC}{{University~of~Science~and~Technology~of~China, Hefei}}
+\newcommand{\CIAE}{{China~Institute~of~Atomic~Energy, Beijing}}
+\newcommand{\NCEPU}{{North~China~Electric~Power~University, Beijing}}
+\newcommand{\FNAL}{Fermi National Accelerator Laboratory, Batavia, Illinois 60510, USA}
+\newcommand{\NCTU}{{Institute~of~Physics, National~Chiao-Tung~University, Hsinchu}}
+\newcommand{\Duluth}{Department of Physics, University of Minnesota Duluth, Duluth, Minnesota 55812, USA}
+\newcommand{\TexasAM}{Physics Department, Texas A\&M University, College Station, Texas 77843, USA}
+\newcommand{\Berkeley}{Lawrence Berkeley National Laboratory, Berkeley, California, 94720 USA}
+\newcommand{\HolyCross}{Holy Cross College, Notre Dame, Indiana 46556, USA}
+\newcommand{\MIT}{Lincoln Laboratory, Massachusetts Institute of Technology, Lexington, Massachusetts 02420, USA}
+\newcommand{\CGNPG}{{China General Nuclear Power Group, Shenzhen}}% update 20170729 add city. updated 20140724 China~Guangdong~Nuclear~Power~Group, Shenzhen}}
+\newcommand{\ANL}{Argonne National Laboratory, Argonne, Illinois 60439, USA}
+\newcommand{\Dubna}{{Joint~Institute~for~Nuclear~Research, Dubna, Moscow~Region}}
+\newcommand{\CUHK}{{Chinese~University~of~Hong~Kong, Hong~Kong}}
+\newcommand{\CNIHEP}{{Institute~of~High~Energy~Physics, Beijing}}
+\newcommand{\Stanford}{Department of Physics, Stanford University, Stanford, California 94305, USA}
+\newcommand{\Lancaster}{Lancaster University, Lancaster, LA1 4YB, UK}
+\newcommand{\Ohio}{Center for Cosmology and Astro Particle Physics, Ohio State University, Columbus, Ohio 43210 USA}
+\newcommand{\StJohnFisher}{Physics Department, St. John Fisher College, Rochester, New York 14618 USA}
+\newcommand{\CUC}{{Instituto de F\'isica, Pontificia Universidad Cat\'olica de Chile, Santiago}} % update 20140911 use r23215 for Spanish
+\newcommand{\WandM}{Department of Physics, College of William \& Mary, Williamsburg, Virginia 23187, USA}
+%
+\author{P.~Adamson\ensuremath{^{\mu}}}
+\affiliation{\FNAL} 
+\author{F.~P.~An\ensuremath{^{\delta}}}
+\affiliation{\ECUST} 
+\author{I.~Anghel\ensuremath{^{\mu}}}
+\affiliation{\Iowa} 
+\author{A.~Aurisano\ensuremath{^{\mu}}}
+\affiliation{\Cincinnati} 
+\author{A.~B.~Balantekin\ensuremath{^{\delta}}}
+\affiliation{\Wisconsin} 
+\author{H.~R.~Band\ensuremath{^{\delta}}}
+\affiliation{\Yale} 
+\author{G.~Barr\ensuremath{^{\mu}}}
+\affiliation{\Oxford} 
+\author{M.~Bishai\ensuremath{^{\delta}}}
+\affiliation{\BNL} 
+\author{A.~Blake\ensuremath{^{\mu}}}
+\affiliation{\Cambridge}\affiliation{\Lancaster} 
+\author{S.~Blyth\ensuremath{^{\delta}}}
+\affiliation{\NTU} 
+\author{G.~F.~Cao\ensuremath{^{\delta}}}
+\affiliation{\CNIHEP} 
+\author{J.~Cao\ensuremath{^{\delta}}}
+\affiliation{\CNIHEP} 
+\author{S.~V.~Cao\ensuremath{^{\mu}}}
+\affiliation{\Texas} 
+\author{T.~J.~Carroll\ensuremath{^{\mu}}}
+\affiliation{\Texas} 
+\author{C.~M.~Castromonte\ensuremath{^{\mu}}}
+\affiliation{\UFG} 
+\author{J.~F.~Chang\ensuremath{^{\delta}}}
+\affiliation{\CNIHEP} 
+\author{Y.~Chang\ensuremath{^{\delta}}}
+\affiliation{\NUU} 
+\author{H.~S.~Chen\ensuremath{^{\delta}}}
+\affiliation{\CNIHEP} 
+\author{R.~Chen\ensuremath{^{\mu}}}
+\affiliation{\Manchester} 
+\author{S.~M.~Chen\ensuremath{^{\delta}}}
+\affiliation{\TsingHua} 
+\author{Y.~Chen\ensuremath{^{\delta}}}
+\affiliation{\SZU}\affiliation{\ZSU} 
+\author{Y.~X.~Chen\ensuremath{^{\delta}}}
+\affiliation{\NCEPU} 
+\author{J.~Cheng\ensuremath{^{\delta}}}
+\affiliation{\CNIHEP} 
+\author{Z.~K.~Cheng\ensuremath{^{\delta}}}
+\affiliation{\ZSU} 
+\author{J.~J.~Cherwinka\ensuremath{^{\delta}}}
+\affiliation{\Wisconsin} 
+\author{S.~Childress\ensuremath{^{\mu}}}
+\affiliation{\FNAL} 
+\author{M.~C.~Chu\ensuremath{^{\delta}}}
+\affiliation{\CUHK} 
+\author{A.~Chukanov\ensuremath{^{\delta}}}
+\affiliation{\Dubna} 
+\author{J.~A.~B.~Coelho\ensuremath{^{\mu}}}
+\affiliation{\Tufts} 
+\author{J.~P.~Cummings\ensuremath{^{\delta}}}
+\affiliation{\Siena} 
+\author{N.~Dash\ensuremath{^{\delta}}}
+\affiliation{\CNIHEP} 
+\author{S.~De~Rijck\ensuremath{^{\mu}}}
+\affiliation{\Texas} 
+\author{F.~S.~Deng\ensuremath{^{\delta}}}
+\affiliation{\USTC} 
+\author{Y.~Y.~Ding\ensuremath{^{\delta}}}
+\affiliation{\CNIHEP} 
+\author{M.~V.~Diwan\ensuremath{^{\delta}}}
+\affiliation{\BNL} 
+\author{T.~Dohnal\ensuremath{^{\delta}}}
+\affiliation{\Charles} 
+\author{D.~Dolzhikov\ensuremath{^{\delta}}}
+\affiliation{\Dubna} 
+\author{J.~Dove\ensuremath{^{\delta}}}
+\affiliation{\UIUC} 
+\author{M.~Dvo\v{r}\'{a}k\ensuremath{^{\delta}}}
+\affiliation{\CNIHEP} 
+\author{D.~A.~Dwyer\ensuremath{^{\delta}}}
+\affiliation{\Berkeley} 
+\author{J.~J.~Evans\ensuremath{^{\mu}}}
+\affiliation{\Manchester} 
+\author{G.~J.~Feldman\ensuremath{^{\mu}}}
+\affiliation{\Harvard} 
+\author{W.~Flanagan\ensuremath{^{\mu}}}
+\affiliation{\Texas}\affiliation{\Dallas} 
+\author{G. Mills\ensuremath{^{\mu}}}
+\affiliation{\LANL} 
+\author{M.~Gabrielyan\ensuremath{^{\mu}}}
+\affiliation{\Minnesota} 
+\author{J.~P.~Gallo\ensuremath{^{\delta}}}
+\affiliation{\IIT} 
+\author{S.~Germani\ensuremath{^{\mu}}}
+\affiliation{\UCL} 
+\author{R.~A.~Gomes\ensuremath{^{\mu}}}
+\affiliation{\UFG} 
+\author{M.~Gonchar\ensuremath{^{\delta}}}
+\affiliation{\Dubna} 
+\author{G.~H.~Gong\ensuremath{^{\delta}}}
+\affiliation{\TsingHua} 
+\author{H.~Gong\ensuremath{^{\delta}}}
+\affiliation{\TsingHua} 
+\author{P.~Gouffon\ensuremath{^{\mu}}}
+\affiliation{\USP} 
+\author{N.~Graf\ensuremath{^{\mu}}}
+\affiliation{\Pittsburgh} 
+\author{K.~Grzelak\ensuremath{^{\mu}}}
+\affiliation{\Warsaw} 
+\author{W.~Q.~Gu\ensuremath{^{\delta}}}
+\affiliation{\BNL} 
+\author{J.~Y.~Guo\ensuremath{^{\delta}}}
+\affiliation{\ZSU} 
+\author{L.~Guo\ensuremath{^{\delta}}}
+\affiliation{\TsingHua} 
+\author{X.~H.~Guo\ensuremath{^{\delta}}}
+\affiliation{\BNU} 
+\author{Y.~H.~Guo\ensuremath{^{\delta}}}
+\affiliation{\XJTU} 
+\author{Z.~Guo\ensuremath{^{\delta}}}
+\affiliation{\TsingHua} 
+\author{A.~Habig\ensuremath{^{\mu}}}
+\affiliation{\Duluth} 
+\author{R.~W.~Hackenburg\ensuremath{^{\delta}}}
+\affiliation{\BNL} 
+\author{S.~R.~Hahn\ensuremath{^{\mu}}}
+\affiliation{\FNAL} 
+\author{S.~Hans\ensuremath{^{\delta}}}
+\altaffiliation{\BCC}\affiliation{\BNL} 
+\author{J.~Hartnell\ensuremath{^{\mu}}}
+\affiliation{\Sussex} 
+\author{R.~Hatcher\ensuremath{^{\mu}}}
+\affiliation{\FNAL} 
+\author{M.~He\ensuremath{^{\delta}}}
+\affiliation{\CNIHEP} 
+\author{K.~M.~Heeger\ensuremath{^{\delta}}}
+\affiliation{\Yale} 
+\author{Y.~K.~Heng\ensuremath{^{\delta}}}
+\affiliation{\CNIHEP} 
+\author{A.~Higuera\ensuremath{^{\delta}}}
+\affiliation{\Houston} 
+\author{A.~Holin\ensuremath{^{\mu}}}
+\affiliation{\UCL} 
+\author{Y.~K.~Hor\ensuremath{^{\delta}}}
+\affiliation{\ZSU} 
+\author{Y.~B.~Hsiung\ensuremath{^{\delta}}}
+\affiliation{\NTU} 
+\author{B.~Z.~Hu\ensuremath{^{\delta}}}
+\affiliation{\NTU} 
+\author{J.~R.~Hu\ensuremath{^{\delta}}}
+\affiliation{\CNIHEP} 
+\author{T.~Hu\ensuremath{^{\delta}}}
+\affiliation{\CNIHEP} 
+\author{Z.~J.~Hu\ensuremath{^{\delta}}}
+\affiliation{\ZSU} 
+\author{H.~X.~Huang\ensuremath{^{\delta}}}
+\affiliation{\CIAE} 
+\author{J.~Huang\ensuremath{^{\mu}}}
+\affiliation{\Texas} 
+\author{X.~T.~Huang\ensuremath{^{\delta}}}
+\affiliation{\SDU} 
+\author{Y.~B.~Huang\ensuremath{^{\delta}}}
+\affiliation{\CNIHEP} 
+\author{P.~Huber\ensuremath{^{\delta}}}
+\affiliation{\VirginiaTech} 
+\author{D.~E.~Jaffe\ensuremath{^{\delta}}}
+\affiliation{\BNL} 
+\author{K.~L.~Jen\ensuremath{^{\delta}}}
+\affiliation{\NCTU} 
+\author{X.~L.~Ji\ensuremath{^{\delta}}}
+\affiliation{\CNIHEP} 
+\author{X.~P.~Ji\ensuremath{^{\delta}}}
+\affiliation{\BNL} 
+\author{R.~A.~Johnson\ensuremath{^{\delta}}}
+\affiliation{\UC} 
+\author{D.~Jones\ensuremath{^{\delta}}}
+\affiliation{\TempleUniversity} 
+\author{L.~Kang\ensuremath{^{\delta}}}
+\affiliation{\DGUT} 
+\author{S.~H.~Kettell\ensuremath{^{\delta}}}
+\affiliation{\BNL} 
+\author{L.~W.~Koerner\ensuremath{^{\mu}}}
+\affiliation{\Houston} 
+\author{S.~Kohn\ensuremath{^{\delta}}}
+\affiliation{\UCB} 
+\author{M.~Kordosky\ensuremath{^{\mu}}}
+\affiliation{\WandM} 
+\author{M.~Kramer\ensuremath{^{\delta}}}
+\affiliation{\Berkeley}\affiliation{\UCB} 
+\author{A.~Kreymer\ensuremath{^{\mu}}}
+\affiliation{\FNAL} 
+\author{K.~Lang\ensuremath{^{\mu}}}
+\affiliation{\Texas} 
+\author{T.~J.~Langford\ensuremath{^{\delta}}}
+\affiliation{\Yale} 
+\author{J.~Lee\ensuremath{^{\delta}}}
+\affiliation{\Berkeley} 
+\author{J.~H.~C.~Lee\ensuremath{^{\delta}}}
+\affiliation{\HKU} 
+\author{R.~T.~Lei\ensuremath{^{\delta}}}
+\affiliation{\DGUT} 
+\author{R.~Leitner\ensuremath{^{\delta}}}
+\affiliation{\Charles} 
+\author{J.~K.~C.~Leung\ensuremath{^{\delta}}}
+\affiliation{\HKU} 
+\author{F.~Li\ensuremath{^{\delta}}}
+\affiliation{\CNIHEP} 
+\author{H.~L.~Li\ensuremath{^{\delta}}}
+\affiliation{\CNIHEP} 
+\author{J.~J.~Li\ensuremath{^{\delta}}}
+\affiliation{\TsingHua} 
+\author{Q.~J.~Li\ensuremath{^{\delta}}}
+\affiliation{\CNIHEP} 
+\author{S.~Li\ensuremath{^{\delta}}}
+\affiliation{\DGUT} 
+\author{S.~C.~Li\ensuremath{^{\delta}}}
+\affiliation{\VirginiaTech} 
+\author{S.~J.~Li\ensuremath{^{\delta}}}
+\affiliation{\ZSU} 
+\author{W.~D.~Li\ensuremath{^{\delta}}}
+\affiliation{\CNIHEP} 
+\author{X.~N.~Li\ensuremath{^{\delta}}}
+\affiliation{\CNIHEP} 
+\author{X.~Q.~Li\ensuremath{^{\delta}}}
+\affiliation{\NanKai} 
+\author{Y.~F.~Li\ensuremath{^{\delta}}}
+\affiliation{\CNIHEP} 
+\author{Z.~B.~Li\ensuremath{^{\delta}}}
+\affiliation{\ZSU} 
+\author{H.~Liang\ensuremath{^{\delta}}}
+\affiliation{\USTC} 
+\author{C.~J.~Lin\ensuremath{^{\delta}}}
+\affiliation{\Berkeley} 
+\author{G.~L.~Lin\ensuremath{^{\delta}}}
+\affiliation{\NCTU} 
+\author{S.~Lin\ensuremath{^{\delta}}}
+\affiliation{\DGUT} 
+\author{J.~J.~Ling\ensuremath{^{\delta}}}
+\affiliation{\ZSU} 
+\author{J.~M.~Link\ensuremath{^{\delta}}}
+\affiliation{\VirginiaTech} 
+\author{L.~Littenberg\ensuremath{^{\delta}}}
+\affiliation{\BNL} 
+\author{B.~R.~Littlejohn\ensuremath{^{\delta}}}
+\affiliation{\IIT} 
+\author{J.~C.~Liu\ensuremath{^{\delta}}}
+\affiliation{\CNIHEP} 
+\author{J.~L.~Liu\ensuremath{^{\delta}}}
+\affiliation{\SJTU} 
+\author{Y.~Liu\ensuremath{^{\delta}}}
+\affiliation{\SDU} 
+\author{Y.~H.~Liu\ensuremath{^{\delta}}}
+\affiliation{\NJU} 
+\author{C.~Lu\ensuremath{^{\delta}}}
+\affiliation{\Princeton} 
+\author{H.~Q.~Lu\ensuremath{^{\delta}}}
+\affiliation{\CNIHEP} 
+\author{J.~S.~Lu\ensuremath{^{\delta}}}
+\affiliation{\CNIHEP} 
+\author{P.~Lucas\ensuremath{^{\mu}}}
+\affiliation{\FNAL} 
+\author{K.~B.~Luk\ensuremath{^{\delta}}}
+\affiliation{\UCB}\affiliation{\Berkeley} 
+\author{X.~B.~Ma\ensuremath{^{\delta}}}
+\affiliation{\NCEPU} 
+\author{X.~Y.~Ma\ensuremath{^{\delta}}}
+\affiliation{\CNIHEP} 
+\author{Y.~Q.~Ma\ensuremath{^{\delta}}}
+\affiliation{\CNIHEP} 
+\author{W.~A.~Mann\ensuremath{^{\mu}}}
+\affiliation{\Tufts} 
+\author{M.~L.~Marshak\ensuremath{^{\mu}}}
+\affiliation{\Minnesota} 
+\author{C.~Marshall\ensuremath{^{\delta}}}
+\affiliation{\Berkeley} 
+\author{D.~A.~Martinez Caicedo\ensuremath{^{\delta}}}
+\affiliation{\IIT} 
+\author{N.~Mayer\ensuremath{^{\mu}}}
+\affiliation{\Tufts} 
+\author{K.~T.~McDonald\ensuremath{^{\delta}}}
+\affiliation{\Princeton} 
+\author{R.~D.~McKeown\ensuremath{^{\delta}}}
+\affiliation{\Caltech}\affiliation{\WandM} 
+\author{R.~Mehdiyev\ensuremath{^{\mu}}}
+\affiliation{\Texas} 
+\author{J.~R.~Meier\ensuremath{^{\mu}}}
+\affiliation{\Minnesota} 
+\author{Y.~Meng\ensuremath{^{\delta}}}
+\affiliation{\SJTU} 
+\author{W.~H.~Miller\ensuremath{^{\mu}}}
+\affiliation{\Minnesota} 
+\author{L.~Mora Lepin\ensuremath{^{\delta}}}
+\affiliation{\CUC} 
+\author{D.~Naples\ensuremath{^{\mu}}}
+\affiliation{\Pittsburgh} 
+\author{J.~Napolitano\ensuremath{^{\delta}}}
+\affiliation{\TempleUniversity} 
+\author{D.~Naumov\ensuremath{^{\delta}}}
+\affiliation{\Dubna} 
+\author{E.~Naumova\ensuremath{^{\delta}}}
+\affiliation{\Dubna} 
+\author{J.~K.~Nelson\ensuremath{^{\mu}}}
+\affiliation{\WandM} 
+\author{R.~J.~Nichol\ensuremath{^{\mu}}}
+\affiliation{\UCL} 
+\author{J.~O'Connor\ensuremath{^{\mu}}}
+\affiliation{\UCL} 
+\author{J.~P.~Ochoa-Ricoux\ensuremath{^{\delta}}}
+\affiliation{\UCI} 
+\author{A.~Olshevskiy\ensuremath{^{\delta}}}
+\affiliation{\Dubna} 
+\author{R.~B.~Pahlka\ensuremath{^{\mu}}}
+\affiliation{\FNAL} 
+\author{H.-R.~Pan\ensuremath{^{\delta}}}
+\affiliation{\NTU} 
+\author{J.~Park\ensuremath{^{\delta}}}
+\affiliation{\VirginiaTech} 
+\author{S.~Patton\ensuremath{^{\delta}}}
+\affiliation{\Berkeley} 
+\author{\v{Z}.~Pavlovi\'{c}\ensuremath{^{\mu}}}
+\affiliation{\LANL} 
+\author{G.~Pawloski\ensuremath{^{\mu}}}
+\affiliation{\Minnesota} 
+\author{J.~C.~Peng\ensuremath{^{\delta}}}
+\affiliation{\UIUC} 
+\author{A.~Perch\ensuremath{^{\mu}}}
+\affiliation{\UCL} 
+\author{M.~M.~Pf\"{u}tzner\ensuremath{^{\mu}}}
+\affiliation{\UCL} 
+\author{D.~D.~Phan\ensuremath{^{\mu}}}
+\affiliation{\Texas} 
+\author{R.~K.~Plunkett\ensuremath{^{\mu}}}
+\affiliation{\FNAL} 
+\author{N.~Poonthottathil\ensuremath{^{\mu}}}
+\affiliation{\FNAL} 
+\author{C.~S.~J.~Pun\ensuremath{^{\delta}}}
+\affiliation{\HKU} 
+\author{F.~Z.~Qi\ensuremath{^{\delta}}}
+\affiliation{\CNIHEP} 
+\author{M.~Qi\ensuremath{^{\delta}}}
+\affiliation{\NJU} 
+\author{X.~Qian\ensuremath{^{\delta}}}
+\affiliation{\BNL} 
+\author{X.~Qiu\ensuremath{^{\mu}}}
+\affiliation{\Stanford} 
+\author{A.~Radovic\ensuremath{^{\mu}}}
+\affiliation{\WandM} 
+\author{N.~Raper\ensuremath{^{\delta}}}
+\affiliation{\ZSU} 
+\author{J.~Ren\ensuremath{^{\delta}}}
+\affiliation{\CIAE} 
+\author{C.~Morales~Reveco\ensuremath{^{\delta}}}
+\affiliation{\UCI} 
+\author{R.~Rosero\ensuremath{^{\delta}}}
+\affiliation{\BNL} 
+\author{B.~Roskovec\ensuremath{^{\delta}}}
+\affiliation{\UCI} 
+\author{X.~C.~Ruan\ensuremath{^{\delta}}}
+\affiliation{\CIAE} 
+\author{P.~Sail\ensuremath{^{\mu}}}
+\affiliation{\Texas} 
+\author{M.~C.~Sanchez\ensuremath{^{\mu}}}
+\affiliation{\Iowa} 
+\author{J.~Schneps\ensuremath{^{\mu}}}
+\affiliation{\Tufts} 
+\author{A.~Schreckenberger\ensuremath{^{\mu}}}
+\affiliation{\Texas} 
+\author{N.~Shaheed\ensuremath{^{\delta}}}
+\affiliation{\SDU} 
+\author{R.~Sharma\ensuremath{^{\mu}}}
+\affiliation{\FNAL} 
+\author{A.~Sousa\ensuremath{^{\mu}}}
+\affiliation{\Cincinnati} 
+\author{H.~Steiner\ensuremath{^{\delta}}}
+\affiliation{\UCB}\affiliation{\Berkeley} 
+\author{J.~L.~Sun\ensuremath{^{\delta}}}
+\affiliation{\CGNPG} 
+\author{N.~Tagg\ensuremath{^{\mu}}}
+\affiliation{\Otterbein} 
+\author{J.~Thomas\ensuremath{^{\mu}}}
+\affiliation{\UCL} 
+\author{M.~A.~Thomson\ensuremath{^{\mu}}}
+\affiliation{\Cambridge} 
+\author{A.~Timmons\ensuremath{^{\mu}}}
+\affiliation{\Manchester} 
+\author{T.~Tmej\ensuremath{^{\delta}}}
+\affiliation{\Charles} 
+\author{J.~Todd\ensuremath{^{\mu}}}
+\affiliation{\Cincinnati} 
+\author{S.~C.~Tognini\ensuremath{^{\mu}}}
+\affiliation{\UFG} 
+\author{R.~Toner\ensuremath{^{\mu}}}
+\affiliation{\Harvard} 
+\author{D.~Torretta\ensuremath{^{\mu}}}
+\affiliation{\FNAL} 
+\author{K.~Treskov\ensuremath{^{\delta}}}
+\affiliation{\Dubna} 
+\author{W.-H.~Tse\ensuremath{^{\delta}}}
+\affiliation{\CUHK} 
+\author{C.~E.~Tull\ensuremath{^{\delta}}}
+\affiliation{\Berkeley} 
+\author{P.~Vahle\ensuremath{^{\mu}}}
+\affiliation{\WandM} 
+\author{B.~Viren\ensuremath{^{\delta}}}
+\affiliation{\BNL} 
+\author{V.~Vorobel\ensuremath{^{\delta}}}
+\affiliation{\Charles} 
+\author{C.~H.~Wang\ensuremath{^{\delta}}}
+\affiliation{\NUU} 
+\author{J.~Wang\ensuremath{^{\delta}}}
+\affiliation{\ZSU} 
+\author{M.~Wang\ensuremath{^{\delta}}}
+\affiliation{\SDU} 
+\author{N.~Y.~Wang\ensuremath{^{\delta}}}
+\affiliation{\BNU} 
+\author{R.~G.~Wang\ensuremath{^{\delta}}}
+\affiliation{\CNIHEP} 
+\author{W.~Wang\ensuremath{^{\delta}}}
+\affiliation{\ZSU}\affiliation{\WandM} 
+\author{W.~Wang\ensuremath{^{\delta}}}
+\affiliation{\NJU} 
+\author{X.~Wang\ensuremath{^{\delta}}}
+\affiliation{\NUDT} 
+\author{Y.~Wang\ensuremath{^{\delta}}}
+\affiliation{\NJU} 
+\author{Y.~F.~Wang\ensuremath{^{\delta}}}
+\affiliation{\CNIHEP} 
+\author{Z.~Wang\ensuremath{^{\delta}}}
+\affiliation{\CNIHEP} 
+\author{Z.~Wang\ensuremath{^{\delta}}}
+\affiliation{\TsingHua} 
+\author{Z.~M.~Wang\ensuremath{^{\delta}}}
+\affiliation{\CNIHEP} 
+\author{A.~Weber\ensuremath{^{\mu}}}
+\affiliation{\Oxford}\affiliation{\RAL} 
+\author{H.~Y.~Wei\ensuremath{^{\delta}}}
+\affiliation{\BNL} 
+\author{L.~H.~Wei\ensuremath{^{\delta}}}
+\affiliation{\CNIHEP} 
+\author{L.~J.~Wen\ensuremath{^{\delta}}}
+\affiliation{\CNIHEP} 
+\author{K.~Whisnant\ensuremath{^{\delta}}}
+\affiliation{\Iowa} 
+\author{C.~White\ensuremath{^{\delta}}}
+\affiliation{\IIT} 
+\author{L.~H.~Whitehead\ensuremath{^{\mu}}}
+\affiliation{\UCL} 
+\author{S.~G.~Wojcicki\ensuremath{^{\mu}}}
+\affiliation{\Stanford} 
+\author{H.~L.~H.~Wong\ensuremath{^{\delta}}}
+\affiliation{\UCB}\affiliation{\Berkeley} 
+\author{S.~C.~F.~Wong\ensuremath{^{\delta}}}
+\affiliation{\ZSU} 
+\author{E.~Worcester\ensuremath{^{\delta}}}
+\affiliation{\BNL} 
+\author{D.~R.~Wu\ensuremath{^{\delta}}}
+\affiliation{\CNIHEP} 
+\author{F.~L.~Wu\ensuremath{^{\delta}}}
+\affiliation{\NJU} 
+\author{Q.~Wu\ensuremath{^{\delta}}}
+\affiliation{\SDU} 
+\author{W.~J.~Wu\ensuremath{^{\delta}}}
+\affiliation{\CNIHEP} 
+\author{D.~M.~Xia\ensuremath{^{\delta}}}
+\affiliation{\CQU} 
+\author{Z.~Q.~Xie\ensuremath{^{\delta}}}
+\affiliation{\CNIHEP} 
+\author{Z.~Z.~Xing\ensuremath{^{\delta}}}
+\affiliation{\CNIHEP} 
+\author{J.~L.~Xu\ensuremath{^{\delta}}}
+\affiliation{\CNIHEP} 
+\author{T.~Xu\ensuremath{^{\delta}}}
+\affiliation{\TsingHua} 
+\author{T.~Xue\ensuremath{^{\delta}}}
+\affiliation{\TsingHua} 
+\author{C.~G.~Yang\ensuremath{^{\delta}}}
+\affiliation{\CNIHEP} 
+\author{L.~Yang\ensuremath{^{\delta}}}
+\affiliation{\DGUT} 
+\author{Y.~Z.~Yang\ensuremath{^{\delta}}}
+\affiliation{\TsingHua} 
+\author{H.~F.~Yao\ensuremath{^{\delta}}}
+\affiliation{\CNIHEP} 
+\author{M.~Ye\ensuremath{^{\delta}}}
+\affiliation{\CNIHEP} 
+\author{M.~Yeh\ensuremath{^{\delta}}}
+\affiliation{\BNL} 
+\author{B.~L.~Young\ensuremath{^{\delta}}}
+\affiliation{\Iowa} 
+\author{H.~Z.~Yu\ensuremath{^{\delta}}}
+\affiliation{\ZSU} 
+\author{Z.~Y.~Yu\ensuremath{^{\delta}}}
+\affiliation{\CNIHEP} 
+\author{B.~B.~Yue\ensuremath{^{\delta}}}
+\affiliation{\ZSU} 
+\author{S.~Zeng\ensuremath{^{\delta}}}
+\affiliation{\CNIHEP} 
+\author{Y.~Zeng\ensuremath{^{\delta}}}
+\affiliation{\ZSU} 
+\author{L.~Zhan\ensuremath{^{\delta}}}
+\affiliation{\CNIHEP} 
+\author{C.~Zhang\ensuremath{^{\delta}}}
+\affiliation{\BNL} 
+\author{F.~Y.~Zhang\ensuremath{^{\delta}}}
+\affiliation{\SJTU} 
+\author{H.~H.~Zhang\ensuremath{^{\delta}}}
+\affiliation{\ZSU} 
+\author{J.~W.~Zhang\ensuremath{^{\delta}}}
+\affiliation{\CNIHEP} 
+\author{Q.~M.~Zhang\ensuremath{^{\delta}}}
+\affiliation{\XJTU} 
+\author{X.~T.~Zhang\ensuremath{^{\delta}}}
+\affiliation{\CNIHEP} 
+\author{Y.~M.~Zhang\ensuremath{^{\delta}}}
+\affiliation{\ZSU} 
+\author{Y.~X.~Zhang\ensuremath{^{\delta}}}
+\affiliation{\CGNPG} 
+\author{Y.~Y.~Zhang\ensuremath{^{\delta}}}
+\affiliation{\SJTU} 
+\author{Z.~J.~Zhang\ensuremath{^{\delta}}}
+\affiliation{\DGUT} 
+\author{Z.~P.~Zhang\ensuremath{^{\delta}}}
+\affiliation{\USTC} 
+\author{Z.~Y.~Zhang\ensuremath{^{\delta}}}
+\affiliation{\CNIHEP} 
+\author{J.~Zhao\ensuremath{^{\delta}}}
+\affiliation{\CNIHEP} 
+\author{L.~Zhou\ensuremath{^{\delta}}}
+\affiliation{\CNIHEP} 
+\author{H.~L.~Zhuang\ensuremath{^{\delta}}}
+\affiliation{\CNIHEP} 
+%
+\collaboration{\ensuremath{^{\delta}}Daya Bay Collaboration}\noaffiliation
+\collaboration{\ensuremath{^{\mu}}MINOS Collaboration}\noaffiliation

@@ -1,0 +1,1405 @@
+
+MINOS_NewCom
+\ANL {Argonne National Laboratory, Argonne, Illinois 60439, USA}
+\Alabama {Department of Physics and Astronomy, University of Alabama, Tuscaloosa, Alabama 35487, USA}
+\Athens {Department of Physics, University of Athens, GR-15771 Athens, Greece}
+\BNL {Brookhaven National Laboratory, Upton, New York 11973, USA}
+\Benedictine {Physics Department, Benedictine University, Lisle, Illinois 60532, USA}
+\Berkeley {Lawrence Berkeley National Laboratory, Berkeley, California, 94720 USA}
+\Caltech {Lauritsen Laboratory, California Institute of Technology, Pasadena, California 91125, USA}
+\Cambridge {Cavendish Laboratory, University of Cambridge, Cambridge CB3 0HE, United Kingdom}
+\Carolina {Department of Physics and Astronomy, University of South Carolina, Columbia, South Carolina 29208, USA}
+\CdF {APC -- Universit\'{e} Paris 7 Denis Diderot, 10, rue Alice Domon et L\'{e}onie Duquet, F-75205 Paris Cedex 13, France}
+\Cincinnati {Department of Physics, University of Cincinnati, Cincinnati, Ohio 45221, USA}
+\Cleveland {Cleveland Clinic, Cleveland, Ohio 44195, USA}
+\Crookston {Math, Science and Technology Department, University of Minnesota -- Crookston, Crookston, Minnesota 56716, USA}
+\Dallas {Department of Physics, University of Dallas, Irving, Texas 75062, USA}
+\Delhi {Department of Physics \& Astrophysics, University of Delhi, Delhi 110007, India}
+\Duluth {Department of Physics, University of Minnesota Duluth, Duluth, Minnesota 55812, USA}
+\FNAL {Fermi National Accelerator Laboratory, Batavia, Illinois 60510, USA}
+\GEHealth {GE Healthcare, Florence South Carolina 29501, USA}
+\Harvard {Department of Physics, Harvard University, Cambridge, Massachusetts 02138, USA}
+\HolyCross {Holy Cross College, Notre Dame, Indiana 46556, USA}
+\Houston {Department of Physics, University of Houston, Houston, Texas 77204, USA}
+\IHEP {Institute for High Energy Physics, Protvino, Moscow Region RU-140284, Russia}
+\IIT {Department of Physics, Illinois Institute of Technology, Chicago, Illinois 60616, USA}
+\ITEP {High Energy Experimental Physics Department, ITEP, B. Cheremushkinskaya, 25, 117218 Moscow, Russia}
+\Indiana {Indiana University, Bloomington, Indiana 47405, USA}
+\Iowa {Department of Physics and Astronomy, Iowa State University, Ames, Iowa 50011 USA}
+\JMU {Physics Department, James Madison University, Harrisonburg, Virginia 22807, USA}
+\LANL {Los Alamos National Laboratory, Los Alamos, New Mexico 87545, USA}
+\LLL {Lawrence Livermore National Laboratory, Livermore, California 94550, USA}
+\Lancaster {Lancaster University, Lancaster, LA1 4YB, UK}
+\Lebedev {Nuclear Physics Department, Lebedev Physical Institute, Leninsky Prospect 53, 119991 Moscow, Russia}
+\LosAlamos {Los Alamos National Laboratory, Los Alamos, New Mexico 87545, USA}
+\MIT {Lincoln Laboratory, Massachusetts Institute of Technology, Lexington, Massachusetts 02420, USA}
+\Manchester {School of Physics and Astronomy, University of Manchester, Manchester M13 9PL, United Kingdom}
+\Minnesota {University of Minnesota, Minneapolis, Minnesota 55455, USA}
+\NTUAthens {Department of Physics, National Tech. University of Athens, GR-15780 Athens, Greece}
+\Ohio {Center for Cosmology and Astro Particle Physics, Ohio State University, Columbus, Ohio 43210 USA}
+\Otterbein {Otterbein University, Westerville, Ohio 43081, USA}
+\Oxford {Subdepartment of Particle Physics, University of Oxford, Oxford OX1 3RH, United Kingdom}
+\PennState {Department of Physics, Pennsylvania State University, State College, Pennsylvania 16802, USA}
+\PennU {Department of Physics and Astronomy, University of Pennsylvania, Philadelphia, Pennsylvania 19104, USA}
+\Pittsburgh {Department of Physics and Astronomy, University of Pittsburgh, Pittsburgh, Pennsylvania 15260, USA}
+\RAL {Rutherford Appleton Laboratory, Science and Technology Facilities Council, Didcot, OX11 0QX, United Kingdom}
+\Rochester {Department of Physics and Astronomy, University of Rochester, New York 14627 USA}
+\RoyalH {Physics Department, Royal Holloway, University of London, Egham, Surrey, TW20 0EX, United Kingdom}
+\SDakota {South Dakota School of Mines and Technology, Rapid City, South Dakota 57701, USA}
+\SLAC {Stanford Linear Accelerator Center, Stanford, California 94309, USA}
+\StJohnFisher {Physics Department, St. John Fisher College, Rochester, New York 14618 USA}
+\Stanford {Department of Physics, Stanford University, Stanford, California 94305, USA}
+\Sussex {Department of Physics and Astronomy, University of Sussex, Falmer, Brighton BN1 9QH, United Kingdom}
+\TechX {Tech-X Corporation, Boulder, Colorado 80303, USA}
+\Texas {Department of Physics, University of Texas at Austin, Austin, Texas 78712, USA}
+\TexasAM {Physics Department, Texas A\&M University, College Station, Texas 77843, USA}
+\Tufts {Physics Department, Tufts University, Medford, Massachusetts 02155, USA}
+\UCL {Department of Physics and Astronomy, University College London, London WC1E 6BT, United Kingdom}
+\UFG {Instituto de F\'{i}sica, Universidade Federal de Goi\'{a}s, 74690-900, Goi\^{a}nia, GO, Brazil}
+\UNICAMP {Universidade Estadual de Campinas, IFGW, CP 6165, 13083-970, Campinas, SP, Brazil}
+\USP {Instituto de F\'{i}sica, Universidade de S\~{a}o Paulo,  CP 66318, 05315-970, S\~{a}o Paulo, SP, Brazil}
+\WandM {Department of Physics, College of William \& Mary, Williamsburg, Virginia 23187, USA}
+\Warsaw {Department of Physics, University of Warsaw, PL-02-093 Warsaw, Poland}
+\Washington {Physics Department, Western Washington University, Bellingham, Washington 98225, USA}
+\Wisconsin {Physics Department, University of Wisconsin, Madison, Wisconsin 53706, USA}
+\deceased {Deceased.}
+
+DYB_NewCom before IHEP fix
+\BCC {\altaffiliation[Now at ]{Department of Chemistry and Chemical Technology, Bronx Community College, Bronx, New York  10453}} % add 20160311 for Sunej's 'now at'
+\BNL {\affiliation{Brookhaven~National~Laboratory, Upton, New York 11973}}
+\BNU {\affiliation{Beijing~Normal~University, Beijing}}
+\Berkeley {\affiliation{Lawrence~Berkeley~National~Laboratory, Berkeley, California 94720}}
+\CGNPG {\affiliation{China General Nuclear Power Group, Shenzhen}}% update 20170729 add city. updated 20140724 China~Guangdong~Nuclear~Power~Group, Shenzhen}}
+\CIAE {\affiliation{China~Institute~of~Atomic~Energy, Beijing}}
+\CQU {\affiliation{Chongqing University, Chongqing}} % add 20150417
+\CUC {\affiliation{Instituto de F\'isica, Pontificia Universidad Cat\'olica de Chile, Santiago}} % update 20140911 use r23215 for Spanish
+\CUHK {\affiliation{Chinese~University~of~Hong~Kong, Hong~Kong}}
+\Caltech {\affiliation{California~Institute~of~Technology, Pasadena, California 91125}}
+\Charles {\affiliation{Charles~University, Faculty~of~Mathematics~and~Physics, Prague}} %updated20140819
+\DGUT {\affiliation{Dongguan~University~of~Technology, Dongguan}}
+\Dubna {\affiliation{Joint~Institute~for~Nuclear~Research, Dubna, Moscow~Region}}
+\ECUST {\affiliation{Institute of Modern Physics, East China University of Science and Technology, Shanghai}}
+\HKU {\affiliation{Department of Physics, The~University~of~Hong~Kong, Pokfulam, Hong~Kong}}
+\Houston {\affiliation{Department of Physics, University~of~Houston, Houston, Texas  77204}}
+\IHEP {\affiliation{Institute~of~High~Energy~Physics, Beijing}}
+\IIT {\affiliation{Department of Physics, Illinois~Institute~of~Technology, Chicago, Illinois  60616}}
+\Iowa {\affiliation{Iowa~State~University, Ames, Iowa  50011}}
+\NCEPU {\affiliation{North~China~Electric~Power~University, Beijing}}
+\NCTU {\affiliation{Institute~of~Physics, National~Chiao-Tung~University, Hsinchu}}
+\NJU {\affiliation{Nanjing~University, Nanjing}}
+\NTU {\affiliation{Department of Physics, National~Taiwan~University, Taipei}}
+\NUDT {\affiliation{College of Electronic Science and Engineering, National University of Defense Technology, Changsha}} % added 20140111
+\NUU {\affiliation{National~United~University, Miao-Li}}
+\NanKai {\affiliation{School of Physics, Nankai~University, Tianjin}}
+\Princeton {\affiliation{Joseph Henry Laboratories, Princeton~University, Princeton, New~Jersey 08544}}
+\SDU {\affiliation{Shandong~University, Jinan}}
+\SJTU {\affiliation{Department of Physics and Astronomy, Shanghai Jiao Tong University, Shanghai Laboratory for Particle Physics and Cosmology, Shanghai}}
+\SZU {\affiliation{Shenzhen~University, Shenzhen}}
+\Siena {\affiliation{Siena~College, Loudonville, New York  12211}}
+\TempleUniversity {\affiliation{Department~of~Physics, College~of~Science~and~Technology, Temple~University, Philadelphia, Pennsylvania  19122}}
+\TsingHua {\affiliation{Department~of~Engineering~Physics, Tsinghua~University, Beijing}}
+\UC {\affiliation{Department of Physics, University~of~Cincinnati, Cincinnati, Ohio 45221}}
+\UCB {\affiliation{Department of Physics, University~of~California, Berkeley, California  94720}}
+\UCI {\affiliation{Department of Physics and Astronomy, University of California, Irvine, California 92697}} %20190209 for Pedro's new digs
+\UIUC {\affiliation{Department of Physics, University~of~Illinois~at~Urbana-Champaign, Urbana, Illinois 61801}}
+\USTC {\affiliation{University~of~Science~and~Technology~of~China, Hefei}}
+\VirginiaTech {\affiliation{Center for Neutrino Physics, Virginia~Tech, Blacksburg, Virginia  24061}}
+\WandM {\affiliation{College~of~William~and~Mary, Williamsburg, Virginia  23187}}
+\Wisconsin {\affiliation{University~of~Wisconsin, Madison, Wisconsin 53706}}
+\XJTU {\affiliation{Department of Nuclear Science and Technology, School of Energy and Power Engineering, Xi'an Jiaotong University, Xi'an}}%%updated 20161215 {Xi'an Jiaotong University, Xi'an}}
+\Yale {\affiliation{Wright~Laboratory and Department~of~Physics, Yale~University, New~Haven, Connecticut 06520}} %%%% 20170227 add Wright Lab
+\ZSU {\affiliation{Sun Yat-Sen (Zhongshan) University, Guangzhou}}
+merge.IHEP replace key \IHEP with \CNIHEP for value {\affiliation{Institute~of~High~Energy~Physics, Beijing}}
+merge.IHEP replaced latex \IHEP with \CNIHEP for 48 authors
+
+DYB_NewCom AFTER IHEP fix
+\BCC {\altaffiliation[Now at ]{Department of Chemistry and Chemical Technology, Bronx Community College, Bronx, New York  10453}} % add 20160311 for Sunej's 'now at'
+\BNL {\affiliation{Brookhaven~National~Laboratory, Upton, New York 11973}}
+\BNU {\affiliation{Beijing~Normal~University, Beijing}}
+\Berkeley {\affiliation{Lawrence~Berkeley~National~Laboratory, Berkeley, California 94720}}
+\CGNPG {\affiliation{China General Nuclear Power Group, Shenzhen}}% update 20170729 add city. updated 20140724 China~Guangdong~Nuclear~Power~Group, Shenzhen}}
+\CIAE {\affiliation{China~Institute~of~Atomic~Energy, Beijing}}
+\CNIHEP {\affiliation{Institute~of~High~Energy~Physics, Beijing}}
+\CQU {\affiliation{Chongqing University, Chongqing}} % add 20150417
+\CUC {\affiliation{Instituto de F\'isica, Pontificia Universidad Cat\'olica de Chile, Santiago}} % update 20140911 use r23215 for Spanish
+\CUHK {\affiliation{Chinese~University~of~Hong~Kong, Hong~Kong}}
+\Caltech {\affiliation{California~Institute~of~Technology, Pasadena, California 91125}}
+\Charles {\affiliation{Charles~University, Faculty~of~Mathematics~and~Physics, Prague}} %updated20140819
+\DGUT {\affiliation{Dongguan~University~of~Technology, Dongguan}}
+\Dubna {\affiliation{Joint~Institute~for~Nuclear~Research, Dubna, Moscow~Region}}
+\ECUST {\affiliation{Institute of Modern Physics, East China University of Science and Technology, Shanghai}}
+\HKU {\affiliation{Department of Physics, The~University~of~Hong~Kong, Pokfulam, Hong~Kong}}
+\Houston {\affiliation{Department of Physics, University~of~Houston, Houston, Texas  77204}}
+\IIT {\affiliation{Department of Physics, Illinois~Institute~of~Technology, Chicago, Illinois  60616}}
+\Iowa {\affiliation{Iowa~State~University, Ames, Iowa  50011}}
+\NCEPU {\affiliation{North~China~Electric~Power~University, Beijing}}
+\NCTU {\affiliation{Institute~of~Physics, National~Chiao-Tung~University, Hsinchu}}
+\NJU {\affiliation{Nanjing~University, Nanjing}}
+\NTU {\affiliation{Department of Physics, National~Taiwan~University, Taipei}}
+\NUDT {\affiliation{College of Electronic Science and Engineering, National University of Defense Technology, Changsha}} % added 20140111
+\NUU {\affiliation{National~United~University, Miao-Li}}
+\NanKai {\affiliation{School of Physics, Nankai~University, Tianjin}}
+\Princeton {\affiliation{Joseph Henry Laboratories, Princeton~University, Princeton, New~Jersey 08544}}
+\SDU {\affiliation{Shandong~University, Jinan}}
+\SJTU {\affiliation{Department of Physics and Astronomy, Shanghai Jiao Tong University, Shanghai Laboratory for Particle Physics and Cosmology, Shanghai}}
+\SZU {\affiliation{Shenzhen~University, Shenzhen}}
+\Siena {\affiliation{Siena~College, Loudonville, New York  12211}}
+\TempleUniversity {\affiliation{Department~of~Physics, College~of~Science~and~Technology, Temple~University, Philadelphia, Pennsylvania  19122}}
+\TsingHua {\affiliation{Department~of~Engineering~Physics, Tsinghua~University, Beijing}}
+\UC {\affiliation{Department of Physics, University~of~Cincinnati, Cincinnati, Ohio 45221}}
+\UCB {\affiliation{Department of Physics, University~of~California, Berkeley, California  94720}}
+\UCI {\affiliation{Department of Physics and Astronomy, University of California, Irvine, California 92697}} %20190209 for Pedro's new digs
+\UIUC {\affiliation{Department of Physics, University~of~Illinois~at~Urbana-Champaign, Urbana, Illinois 61801}}
+\USTC {\affiliation{University~of~Science~and~Technology~of~China, Hefei}}
+\VirginiaTech {\affiliation{Center for Neutrino Physics, Virginia~Tech, Blacksburg, Virginia  24061}}
+\WandM {\affiliation{College~of~William~and~Mary, Williamsburg, Virginia  23187}}
+\Wisconsin {\affiliation{University~of~Wisconsin, Madison, Wisconsin 53706}}
+\XJTU {\affiliation{Department of Nuclear Science and Technology, School of Energy and Power Engineering, Xi'an Jiaotong University, Xi'an}}%%updated 20161215 {Xi'an Jiaotong University, Xi'an}}
+\Yale {\affiliation{Wright~Laboratory and Department~of~Physics, Yale~University, New~Haven, Connecticut 06520}} %%%% 20170227 add Wright Lab
+\ZSU {\affiliation{Sun Yat-Sen (Zhongshan) University, Guangzhou}}
+
+MINOS Author with Affiliation
+R.~Toner \affiliation{\Harvard} 
+S.~De~Rijck \affiliation{\Texas} 
+M.~C.~Sanchez \affiliation{\Iowa} 
+J.~A.~B.~Coelho \affiliation{\Tufts} 
+K.~Grzelak \affiliation{\Warsaw} 
+G. Mills \affiliation{\LANL} 
+X.~Qiu \affiliation{\Stanford} 
+J.~O'Connor \affiliation{\UCL} 
+M.~A.~Thomson \affiliation{\Cambridge} 
+M.~Kordosky \affiliation{\WandM} 
+N.~Tagg \affiliation{\Otterbein} 
+G.~Barr \affiliation{\Oxford} 
+M.~Gabrielyan \affiliation{\Minnesota} 
+S.~Germani \affiliation{\UCL} 
+D.~Naples \affiliation{\Pittsburgh} 
+C.~M.~Castromonte \affiliation{\UFG} 
+N.~Mayer \affiliation{\Tufts} 
+A.~Schreckenberger \affiliation{\Texas} 
+R.~K.~Plunkett \affiliation{\FNAL} 
+P.~Adamson \affiliation{\FNAL} 
+K.~Lang \affiliation{\Texas} 
+L.~H.~Whitehead \affiliation{\UCL} 
+I.~Anghel \affiliation{\Iowa} 
+R.~B.~Pahlka \affiliation{\FNAL} 
+D.~Torretta \affiliation{\FNAL} 
+A.~Kreymer \affiliation{\FNAL} 
+R.~Hatcher \affiliation{\FNAL} 
+A.~Blake \affiliation{\Cambridge} \affiliation{\Lancaster} 
+P.~Gouffon \affiliation{\USP} 
+A.~Holin \affiliation{\UCL} 
+J.~Huang \affiliation{\Texas} 
+W.~H.~Miller \affiliation{\Minnesota} 
+D.~D.~Phan \affiliation{\Texas} 
+W.~A.~Mann \affiliation{\Tufts} 
+M.~L.~Marshak \affiliation{\Minnesota} 
+P.~Vahle \affiliation{\WandM} 
+S.~G.~Wojcicki \affiliation{\Stanford} 
+L.~W.~Koerner \affiliation{\Houston} 
+S.~V.~Cao \affiliation{\Texas} 
+A.~Radovic \affiliation{\WandM} 
+J.~R.~Meier \affiliation{\Minnesota} 
+A.~Sousa \affiliation{\Cincinnati} 
+N.~Graf \affiliation{\Pittsburgh} 
+J.~Thomas \affiliation{\UCL} 
+R.~Mehdiyev \affiliation{\Texas} 
+J.~Hartnell \affiliation{\Sussex} 
+P.~Sail \affiliation{\Texas} 
+S.~Childress \affiliation{\FNAL} 
+J.~Schneps \affiliation{\Tufts} 
+R.~Chen \affiliation{\Manchester} 
+\v{Z}.~Pavlovi\'{c} \affiliation{\LANL} 
+J.~K.~Nelson \affiliation{\WandM} 
+A.~Perch \affiliation{\UCL} 
+P.~Lucas \affiliation{\FNAL} 
+G.~J.~Feldman \affiliation{\Harvard} 
+A.~Aurisano \affiliation{\Cincinnati} 
+S.~C.~Tognini \affiliation{\UFG} 
+T.~J.~Carroll \affiliation{\Texas} 
+G.~Pawloski \affiliation{\Minnesota} 
+J.~Todd \affiliation{\Cincinnati} 
+W.~Flanagan \affiliation{\Texas} \affiliation{\Dallas} 
+N.~Poonthottathil \affiliation{\FNAL} 
+R.~J.~Nichol \affiliation{\UCL} 
+M.~M.~Pf\"{u}tzner \affiliation{\UCL} 
+S.~R.~Hahn \affiliation{\FNAL} 
+R.~Sharma \affiliation{\FNAL} 
+A.~Weber \affiliation{\Oxford} \affiliation{\RAL} 
+R.~A.~Gomes \affiliation{\UFG} 
+A.~Habig \affiliation{\Duluth} 
+J.~J.~Evans \affiliation{\Manchester} 
+A.~Timmons \affiliation{\Manchester} 
+
+DYB Author with Affiliation
+T.~Hu \CNIHEP 
+J.~S.~Lu \CNIHEP 
+E.~Worcester \BNL 
+A.~Olshevskiy \Dubna 
+H.~Steiner \UCB\LBNL 
+J.~J.~Li \TsingHua 
+Y.~Q.~Ma \CNIHEP 
+H.~F.~Yao \CNIHEP 
+J.~H.~Zou \CNIHEP 
+M.~Bishai \BNL 
+H.~L.~Li \CNIHEP 
+X.~L.~Ji \CNIHEP 
+L.~Zhou \CNIHEP 
+X.~Qian \BNL 
+X.~B.~Ma \NCEPU 
+J.~Lee \LBNL 
+S.~Zeng \CNIHEP 
+R.~G.~Wang \CNIHEP 
+K.~B.~Luk \UCB\LBNL 
+B.~R.~Littlejohn \IIT 
+B.~Viren \BNL 
+C.~Zhang \BNL 
+H.~R.~Band \Yale 
+C.~H.~Wang \NUU 
+L.~Zhan \CNIHEP 
+R.~A.~Johnson \UC 
+L.~Kang \DGUT 
+N.~Y.~Wang \BNU 
+Z.~Guo \TsingHua 
+J.~C.~Liu \CNIHEP 
+L.~Littenberg \BNL 
+Z.~Y.~Yu \CNIHEP 
+H.~H.~Zhang \ZSU 
+D.~M.~Xia \CQU 
+Y.~K.~Hor \ZSU 
+R.~D.~McKeown \CalTech\WM 
+Y.~M.~Zhang \ZSU 
+J.~Wang \ZSU 
+J.~Y.~Guo \ZSU 
+S.~Hans \BCC\BNL 
+C.~Morales~Reveco \UCI 
+S.~Patton \LBNL 
+D.~E.~Jaffe \BNL 
+X.~Wang \NUDT 
+D.~Jones \TempleUniversity 
+C.~Lu \Princeton 
+Y.~Y.~Ding \CNIHEP 
+W.~D.~Li \CNIHEP 
+S.~H.~Kettell \BNL 
+M.~Ye \CNIHEP 
+K.~M.~Heeger \Yale 
+J.~Dove \UIUC 
+H.~Z.~Yu \ZSU 
+J.~L.~Sun \CGNPG 
+X.~N.~Li \CNIHEP 
+M.~He \CNIHEP 
+M.~Qi \NJU 
+H.~Liang \USTC 
+B.~L.~Young \IowaState 
+W.~Wang \NJU 
+A.~Chukanov \Dubna 
+F.~L.~Wu \NJU 
+F.~P.~An \ECUST 
+Q.~J.~Li \CNIHEP 
+J.~M.~Link \VirginiaTech 
+H.~Y.~Wei \BNL 
+Z.~Q.~Xie \CNIHEP 
+J.~L.~Xu \CNIHEP 
+L.~Yang \DGUT 
+S.~Kohn \UCB 
+J.~F.~Chang \CNIHEP 
+X.~T.~Zhang \CNIHEP 
+J.~R.~Hu \CNIHEP 
+Y.~Wang \NJU 
+X.~T.~Huang \SDU 
+M.~Wang \SDU 
+Y.~F.~Li \CNIHEP 
+D.~Dolzhikov \Dubna 
+Y.~X.~Chen \NCEPU 
+S.~C.~Li \VirginiaTech 
+M.~V.~Diwan \BNL 
+Y.~Liu \SDU 
+J.~Park \VirginiaTech 
+G.~H.~Gong \TsingHua 
+C.~White \IIT 
+J.~L.~Liu \SJTU 
+J.~P.~Ochoa-Ricoux \UCI 
+J.~P.~Cummings \Siena 
+E.~Naumova \Dubna 
+J.~Ren \CIAE 
+Q.~Wu \SDU 
+L.~Guo \TsingHua 
+Y.~X.~Zhang \CGNPG 
+N.~Raper \ZSU 
+R.~Rosero \BNL 
+Y.~Zeng \ZSU 
+V.~Vorobel \Charles 
+X.~H.~Guo \BNU 
+N.~Dash \CNIHEP 
+Y.~Chen \SZU\ZSU 
+T.~Dohnal \Charles 
+G.~L.~Lin \NCTU 
+Z.~J.~Zhang \DGUT 
+F.~Y.~Zhang \SJTU 
+Z.~B.~Li \ZSU 
+D.~R.~Wu \CNIHEP 
+Z.~Y.~Zhang \CNIHEP 
+D.~A.~Martinez Caicedo \IIT 
+X.~Y.~Ma \CNIHEP 
+J.~K.~C.~Leung \HKU 
+C.~G.~Yang \CNIHEP 
+C.~J.~Lin \LBNL 
+J.~H.~C.~Lee \HKU 
+F.~S.~Deng \USTC 
+H.~Q.~Lu \CNIHEP 
+K.~Treskov \Dubna 
+Z.~Z.~Xing \CNIHEP 
+Q.~M.~Zhang \XJTU 
+S.~Blyth \NTU 
+Y.~Meng \SJTU 
+J.~W.~Zhang \CNIHEP 
+M.~Yeh \BNL 
+A.~Higuera \UH 
+W.-H.~Tse \CUHK 
+R.~T.~Lei \DGUT 
+J.~J.~Cherwinka \Wisconsin 
+S.~J.~Li \ZSU 
+Y.~B.~Huang \CNIHEP 
+T.~Tmej \Charles 
+H.~X.~Huang \CIAE 
+M.~Gonchar \Dubna 
+H.~L.~H.~Wong \UCB\LBNL 
+M.~C.~Chu \CUHK 
+P.~Huber \VirginiaTech 
+L.~J.~Wen \CNIHEP 
+M.~Kramer \LBNL\UCB 
+B.~Z.~Hu \NTU 
+Y.~K.~Heng \CNIHEP 
+G.~F.~Cao \CNIHEP 
+D.~A.~Dwyer \LBNL 
+S.~Lin \DGUT 
+Y.~Y.~Zhang \SJTU 
+A.~B.~Balantekin \Wisconsin 
+X.~P.~Ji \BNL 
+Y.~F.~Wang \CNIHEP 
+X.~Q.~Li \NanKai 
+J.~J.~Ling \ZSU 
+L.~H.~Wei \CNIHEP 
+J.~Cao \CNIHEP 
+C.~S.~J.~Pun \HKU 
+R.~W.~Hackenburg \BNL 
+H.-R.~Pan \NTU 
+Z.~J.~Hu \ZSU 
+B.~B.~Yue \ZSU 
+Z.~P.~Zhang \USTC 
+Z.~Wang \TsingHua 
+F.~Li \CNIHEP 
+Y.~H.~Guo \XJTU 
+K.~L.~Jen \NCTU 
+J.~Napolitano \TempleUniversity 
+J.~C.~Peng \UIUC 
+L.~Mora Lepin \CUC 
+S.~M.~Chen \TsingHua 
+W.~Q.~Gu \BNL 
+F.~Z.~Qi \CNIHEP 
+H.~S.~Chen \CNIHEP 
+Z.~K.~Cheng \ZSU 
+Y.~Chang \NUU 
+B.~Roskovec \UCI 
+J.~P.~Gallo \IIT 
+T.~Xu \TsingHua 
+K.~Whisnant \IowaState 
+T.~Xue \TsingHua 
+R.~Leitner \Charles 
+T.~J.~Langford \Yale 
+S.~C.~F.~Wong \ZSU 
+D.~Naumov \Dubna 
+Y.~Z.~Yang \TsingHua 
+X.~C.~Ruan \CIAE 
+J.~Cheng \CNIHEP 
+K.~T.~McDonald \Princeton 
+W.~J.~Wu \CNIHEP 
+N.~Shaheed \SDU 
+S.~Li \DGUT 
+H.~L.~Zhuang \CNIHEP 
+M.~Dvo\v{r}\'{a}k 
+H.~Gong \TsingHua 
+C.~Marshall \LBNL 
+C.~E.~Tull \LBNL 
+Y.~H.~Liu \NJU 
+Y.~B.~Hsiung \NTU 
+J.~Zhao \CNIHEP 
+Z.~M.~Wang \CNIHEP 
+
+DYB after fix Author with Affiliation
+T.~Hu \affiliation{\CNIHEP} 
+J.~S.~Lu \affiliation{\CNIHEP} 
+E.~Worcester \affiliation{\BNL} 
+A.~Olshevskiy \affiliation{\Dubna} 
+T.~Tmej \affiliation{\Charles} 
+H.~Steiner \affiliation{\UCB} \affiliation{\Berkeley} 
+J.~J.~Li \affiliation{\TsingHua} 
+Y.~Q.~Ma \affiliation{\CNIHEP} 
+H.~F.~Yao \affiliation{\CNIHEP} 
+M.~Bishai \affiliation{\BNL} 
+H.~L.~Li \affiliation{\CNIHEP} 
+X.~L.~Ji \affiliation{\CNIHEP} 
+Z.~M.~Wang \affiliation{\CNIHEP} 
+L.~Zhou \affiliation{\CNIHEP} 
+X.~Qian \affiliation{\BNL} 
+L.~Zhan \affiliation{\CNIHEP} 
+X.~H.~Guo \affiliation{\BNU} 
+S.~Zeng \affiliation{\CNIHEP} 
+R.~G.~Wang \affiliation{\CNIHEP} 
+K.~B.~Luk \affiliation{\UCB} \affiliation{\Berkeley} 
+B.~R.~Littlejohn \affiliation{\IIT} 
+B.~Viren \affiliation{\BNL} 
+M.~C.~Chu \affiliation{\CUHK} 
+H.~R.~Band \affiliation{\Yale} 
+J.~Cao \affiliation{\CNIHEP} 
+C.~H.~Wang \affiliation{\NUU} 
+R.~A.~Johnson \affiliation{\UC} 
+L.~Kang \affiliation{\DGUT} 
+N.~Y.~Wang \affiliation{\BNU} 
+Z.~Guo \affiliation{\TsingHua} 
+J.~C.~Liu \affiliation{\CNIHEP} 
+L.~Littenberg \affiliation{\BNL} 
+Z.~Y.~Yu \affiliation{\CNIHEP} 
+J.~H.~Zou \affiliation{\CNIHEP} 
+Y.~K.~Hor \affiliation{\ZSU} 
+T.~Dohnal \affiliation{\Charles} 
+Y.~M.~Zhang \affiliation{\ZSU} 
+J.~Y.~Guo \affiliation{\ZSU} 
+S.~Hans \altaffiliation{\BCC} \affiliation{\BNL} 
+C.~Morales~Reveco \affiliation{\UCI} 
+S.~Patton \affiliation{\Berkeley} 
+J.~M.~Link \affiliation{\VirginiaTech} 
+X.~Wang \affiliation{\NUDT} 
+D.~Jones \affiliation{\TempleUniversity} 
+C.~Lu \affiliation{\Princeton} 
+Y.~Y.~Ding \affiliation{\CNIHEP} 
+W.~D.~Li \affiliation{\CNIHEP} 
+S.~H.~Kettell \affiliation{\BNL} 
+M.~Ye \affiliation{\CNIHEP} 
+J.~Wang \affiliation{\ZSU} 
+J.~Dove \affiliation{\UIUC} 
+H.~Z.~Yu \affiliation{\ZSU} 
+J.~L.~Sun \affiliation{\CGNPG} 
+X.~N.~Li \affiliation{\CNIHEP} 
+M.~He \affiliation{\CNIHEP} 
+M.~Qi \affiliation{\NJU} 
+H.~Liang \affiliation{\USTC} 
+B.~L.~Young \affiliation{\Iowa} 
+J.~K.~C.~Leung \affiliation{\HKU} 
+A.~Chukanov \affiliation{\Dubna} 
+F.~L.~Wu \affiliation{\NJU} 
+F.~P.~An \affiliation{\ECUST} 
+Q.~J.~Li \affiliation{\CNIHEP} 
+S.~Lin \affiliation{\DGUT} 
+J.~L.~Xu \affiliation{\CNIHEP} 
+L.~Yang \affiliation{\DGUT} 
+J.~F.~Chang \affiliation{\CNIHEP} 
+X.~T.~Zhang \affiliation{\CNIHEP} 
+J.~R.~Hu \affiliation{\CNIHEP} 
+Y.~Wang \affiliation{\NJU} 
+X.~T.~Huang \affiliation{\SDU} 
+M.~Wang \affiliation{\SDU} 
+Y.~F.~Li \affiliation{\CNIHEP} 
+D.~Dolzhikov \affiliation{\Dubna} 
+H.~Y.~Wei \affiliation{\BNL} 
+S.~C.~Li \affiliation{\VirginiaTech} 
+M.~V.~Diwan \affiliation{\BNL} 
+Y.~Liu \affiliation{\SDU} 
+J.~Park \affiliation{\VirginiaTech} 
+G.~H.~Gong \affiliation{\TsingHua} 
+C.~White \affiliation{\IIT} 
+J.~L.~Liu \affiliation{\SJTU} 
+J.~P.~Ochoa-Ricoux \affiliation{\UCI} 
+J.~Cheng \affiliation{\CNIHEP} 
+J.~P.~Cummings \affiliation{\Siena} 
+E.~Naumova \affiliation{\Dubna} 
+J.~Ren \affiliation{\CIAE} 
+Q.~Wu \affiliation{\SDU} 
+J.~H.~C.~Lee \affiliation{\HKU} 
+Y.~X.~Zhang \affiliation{\CGNPG} 
+N.~Raper \affiliation{\ZSU} 
+R.~Rosero \affiliation{\BNL} 
+Y.~Zeng \affiliation{\ZSU} 
+V.~Vorobel \affiliation{\Charles} 
+J.~Lee \affiliation{\Berkeley} 
+N.~Dash \affiliation{\CNIHEP} 
+Y.~Chen \affiliation{\SZU} \affiliation{\ZSU} 
+R.~D.~McKeown \affiliation{\Caltech} \affiliation{\WandM} 
+G.~L.~Lin \affiliation{\NCTU} 
+Z.~J.~Zhang \affiliation{\DGUT} 
+F.~Y.~Zhang \affiliation{\SJTU} 
+K.~M.~Heeger \affiliation{\Yale} 
+D.~R.~Wu \affiliation{\CNIHEP} 
+Z.~Y.~Zhang \affiliation{\CNIHEP} 
+D.~A.~Martinez Caicedo \affiliation{\IIT} 
+X.~Y.~Ma \affiliation{\CNIHEP} 
+Y.~X.~Chen \affiliation{\NCEPU} 
+S.~Li \affiliation{\DGUT} 
+C.~J.~Lin \affiliation{\Berkeley} 
+L.~Guo \affiliation{\TsingHua} 
+F.~S.~Deng \affiliation{\USTC} 
+H.~Q.~Lu \affiliation{\CNIHEP} 
+K.~Treskov \affiliation{\Dubna} 
+Z.~Z.~Xing \affiliation{\CNIHEP} 
+S.~Blyth \affiliation{\NTU} 
+W.~Wang \affiliation{\NJU} 
+J.~W.~Zhang \affiliation{\CNIHEP} 
+M.~Yeh \affiliation{\BNL} 
+Z.~B.~Li \affiliation{\ZSU} 
+W.-H.~Tse \affiliation{\CUHK} 
+R.~T.~Lei \affiliation{\DGUT} 
+J.~J.~Cherwinka \affiliation{\Wisconsin} 
+S.~J.~Li \affiliation{\ZSU} 
+Y.~B.~Huang \affiliation{\CNIHEP} 
+Y.~Meng \affiliation{\SJTU} 
+H.~X.~Huang \affiliation{\CIAE} 
+M.~Gonchar \affiliation{\Dubna} 
+H.~L.~H.~Wong \affiliation{\UCB} \affiliation{\Berkeley} 
+C.~Zhang \affiliation{\BNL} 
+P.~Huber \affiliation{\VirginiaTech} 
+Z.~J.~Hu \affiliation{\ZSU} 
+D.~E.~Jaffe \affiliation{\BNL} 
+A.~Higuera \affiliation{\Houston} 
+Y.~K.~Heng \affiliation{\CNIHEP} 
+G.~F.~Cao \affiliation{\CNIHEP} 
+D.~A.~Dwyer \affiliation{\Berkeley} 
+Z.~Q.~Xie \affiliation{\CNIHEP} 
+Y.~Y.~Zhang \affiliation{\SJTU} 
+A.~B.~Balantekin \affiliation{\Wisconsin} 
+X.~P.~Ji \affiliation{\BNL} 
+Y.~F.~Wang \affiliation{\CNIHEP} 
+X.~Q.~Li \affiliation{\NanKai} 
+J.~J.~Ling \affiliation{\ZSU} 
+Y.~Chang \affiliation{\NUU} 
+L.~H.~Wei \affiliation{\CNIHEP} 
+Q.~M.~Zhang \affiliation{\XJTU} 
+C.~S.~J.~Pun \affiliation{\HKU} 
+R.~W.~Hackenburg \affiliation{\BNL} 
+H.-R.~Pan \affiliation{\NTU} 
+L.~J.~Wen \affiliation{\CNIHEP} 
+B.~B.~Yue \affiliation{\ZSU} 
+Z.~P.~Zhang \affiliation{\USTC} 
+Z.~Wang \affiliation{\TsingHua} 
+F.~Li \affiliation{\CNIHEP} 
+Y.~H.~Guo \affiliation{\XJTU} 
+K.~L.~Jen \affiliation{\NCTU} 
+J.~Napolitano \affiliation{\TempleUniversity} 
+J.~C.~Peng \affiliation{\UIUC} 
+L.~Mora Lepin \affiliation{\CUC} 
+S.~M.~Chen \affiliation{\TsingHua} 
+Y.~B.~Hsiung \affiliation{\NTU} 
+S.~Kohn \affiliation{\UCB} 
+D.~M.~Xia \affiliation{\CQU} 
+F.~Z.~Qi \affiliation{\CNIHEP} 
+H.~S.~Chen \affiliation{\CNIHEP} 
+Z.~K.~Cheng \affiliation{\ZSU} 
+X.~B.~Ma \affiliation{\NCEPU} 
+C.~E.~Tull \affiliation{\Berkeley} 
+J.~P.~Gallo \affiliation{\IIT} 
+T.~Xu \affiliation{\TsingHua} 
+H.~H.~Zhang \affiliation{\ZSU} 
+T.~Xue \affiliation{\TsingHua} 
+R.~Leitner \affiliation{\Charles} 
+T.~J.~Langford \affiliation{\Yale} 
+S.~C.~F.~Wong \affiliation{\ZSU} 
+D.~Naumov \affiliation{\Dubna} 
+Y.~Z.~Yang \affiliation{\TsingHua} 
+X.~C.~Ruan \affiliation{\CIAE} 
+B.~Roskovec \affiliation{\UCI} 
+K.~T.~McDonald \affiliation{\Princeton} 
+W.~J.~Wu \affiliation{\CNIHEP} 
+N.~Shaheed \affiliation{\SDU} 
+C.~G.~Yang \affiliation{\CNIHEP} 
+H.~L.~Zhuang \affiliation{\CNIHEP} 
+M.~Dvo\v{r}\'{a}k \affiliation{\CNIHEP} 
+H.~Gong \affiliation{\TsingHua} 
+C.~Marshall \affiliation{\Berkeley} 
+M.~Kramer \affiliation{\Berkeley} \affiliation{\UCB} 
+Y.~H.~Liu \affiliation{\NJU} 
+W.~Q.~Gu \affiliation{\BNL} 
+J.~Zhao \affiliation{\CNIHEP} 
+K.~Whisnant \affiliation{\Iowa} 
+B.~Z.~Hu \affiliation{\NTU} 
+
+NewCom after merger
+\ANL {Argonne National Laboratory, Argonne, Illinois 60439, USA}
+\Alabama {Department of Physics and Astronomy, University of Alabama, Tuscaloosa, Alabama 35487, USA}
+\Athens {Department of Physics, University of Athens, GR-15771 Athens, Greece}
+\BCC {{Now at Department of Chemistry and Chemical Technology, Bronx Community College, Bronx, New York  10453}} % add 20160311 for Sunej's 'now at'
+\BNL {Brookhaven National Laboratory, Upton, New York 11973, USA}
+\BNU {{Beijing~Normal~University, Beijing}}
+\Benedictine {Physics Department, Benedictine University, Lisle, Illinois 60532, USA}
+\Berkeley {Lawrence Berkeley National Laboratory, Berkeley, California, 94720 USA}
+\CGNPG {{China General Nuclear Power Group, Shenzhen}}% update 20170729 add city. updated 20140724 China~Guangdong~Nuclear~Power~Group, Shenzhen}}
+\CIAE {{China~Institute~of~Atomic~Energy, Beijing}}
+\CNIHEP {{Institute~of~High~Energy~Physics, Beijing}}
+\CQU {{Chongqing University, Chongqing}} % add 20150417
+\CUC {{Instituto de F\'isica, Pontificia Universidad Cat\'olica de Chile, Santiago}} % update 20140911 use r23215 for Spanish
+\CUHK {{Chinese~University~of~Hong~Kong, Hong~Kong}}
+\Caltech {Lauritsen Laboratory, California Institute of Technology, Pasadena, California 91125, USA}
+\Cambridge {Cavendish Laboratory, University of Cambridge, Cambridge CB3 0HE, United Kingdom}
+\Carolina {Department of Physics and Astronomy, University of South Carolina, Columbia, South Carolina 29208, USA}
+\CdF {APC -- Universit\'{e} Paris 7 Denis Diderot, 10, rue Alice Domon et L\'{e}onie Duquet, F-75205 Paris Cedex 13, France}
+\Charles {{Charles~University, Faculty~of~Mathematics~and~Physics, Prague}} %updated20140819
+\Cincinnati {Department of Physics, University of Cincinnati, Cincinnati, Ohio 45221, USA}
+\Cleveland {Cleveland Clinic, Cleveland, Ohio 44195, USA}
+\Crookston {Math, Science and Technology Department, University of Minnesota -- Crookston, Crookston, Minnesota 56716, USA}
+\DGUT {{Dongguan~University~of~Technology, Dongguan}}
+\Dallas {Department of Physics, University of Dallas, Irving, Texas 75062, USA}
+\Delhi {Department of Physics \& Astrophysics, University of Delhi, Delhi 110007, India}
+\Dubna {{Joint~Institute~for~Nuclear~Research, Dubna, Moscow~Region}}
+\Duluth {Department of Physics, University of Minnesota Duluth, Duluth, Minnesota 55812, USA}
+\ECUST {{Institute of Modern Physics, East China University of Science and Technology, Shanghai}}
+\FNAL {Fermi National Accelerator Laboratory, Batavia, Illinois 60510, USA}
+\GEHealth {GE Healthcare, Florence South Carolina 29501, USA}
+\HKU {{Department of Physics, The~University~of~Hong~Kong, Pokfulam, Hong~Kong}}
+\Harvard {Department of Physics, Harvard University, Cambridge, Massachusetts 02138, USA}
+\HolyCross {Holy Cross College, Notre Dame, Indiana 46556, USA}
+\Houston {Department of Physics, University of Houston, Houston, Texas 77204, USA}
+\IHEP {Institute for High Energy Physics, Protvino, Moscow Region RU-140284, Russia}
+\IIT {Department of Physics, Illinois Institute of Technology, Chicago, Illinois 60616, USA}
+\ITEP {High Energy Experimental Physics Department, ITEP, B. Cheremushkinskaya, 25, 117218 Moscow, Russia}
+\Indiana {Indiana University, Bloomington, Indiana 47405, USA}
+\Iowa {Department of Physics and Astronomy, Iowa State University, Ames, Iowa 50011 USA}
+\JMU {Physics Department, James Madison University, Harrisonburg, Virginia 22807, USA}
+\LANL {Los Alamos National Laboratory, Los Alamos, New Mexico 87545, USA}
+\LLL {Lawrence Livermore National Laboratory, Livermore, California 94550, USA}
+\Lancaster {Lancaster University, Lancaster, LA1 4YB, UK}
+\Lebedev {Nuclear Physics Department, Lebedev Physical Institute, Leninsky Prospect 53, 119991 Moscow, Russia}
+\LosAlamos {Los Alamos National Laboratory, Los Alamos, New Mexico 87545, USA}
+\MIT {Lincoln Laboratory, Massachusetts Institute of Technology, Lexington, Massachusetts 02420, USA}
+\Manchester {School of Physics and Astronomy, University of Manchester, Manchester M13 9PL, United Kingdom}
+\Minnesota {University of Minnesota, Minneapolis, Minnesota 55455, USA}
+\NCEPU {{North~China~Electric~Power~University, Beijing}}
+\NCTU {{Institute~of~Physics, National~Chiao-Tung~University, Hsinchu}}
+\NJU {{Nanjing~University, Nanjing}}
+\NTU {{Department of Physics, National~Taiwan~University, Taipei}}
+\NTUAthens {Department of Physics, National Tech. University of Athens, GR-15780 Athens, Greece}
+\NUDT {{College of Electronic Science and Engineering, National University of Defense Technology, Changsha}} % added 20140111
+\NUU {{National~United~University, Miao-Li}}
+\NanKai {{School of Physics, Nankai~University, Tianjin}}
+\Ohio {Center for Cosmology and Astro Particle Physics, Ohio State University, Columbus, Ohio 43210 USA}
+\Otterbein {Otterbein University, Westerville, Ohio 43081, USA}
+\Oxford {Subdepartment of Particle Physics, University of Oxford, Oxford OX1 3RH, United Kingdom}
+\PennState {Department of Physics, Pennsylvania State University, State College, Pennsylvania 16802, USA}
+\PennU {Department of Physics and Astronomy, University of Pennsylvania, Philadelphia, Pennsylvania 19104, USA}
+\Pittsburgh {Department of Physics and Astronomy, University of Pittsburgh, Pittsburgh, Pennsylvania 15260, USA}
+\Princeton {{Joseph Henry Laboratories, Princeton~University, Princeton, New~Jersey 08544}}
+\RAL {Rutherford Appleton Laboratory, Science and Technology Facilities Council, Didcot, OX11 0QX, United Kingdom}
+\Rochester {Department of Physics and Astronomy, University of Rochester, New York 14627 USA}
+\RoyalH {Physics Department, Royal Holloway, University of London, Egham, Surrey, TW20 0EX, United Kingdom}
+\SDU {{Shandong~University, Jinan}}
+\SDakota {South Dakota School of Mines and Technology, Rapid City, South Dakota 57701, USA}
+\SJTU {{Department of Physics and Astronomy, Shanghai Jiao Tong University, Shanghai Laboratory for Particle Physics and Cosmology, Shanghai}}
+\SLAC {Stanford Linear Accelerator Center, Stanford, California 94309, USA}
+\SZU {{Shenzhen~University, Shenzhen}}
+\Siena {{Siena~College, Loudonville, New York  12211}}
+\StJohnFisher {Physics Department, St. John Fisher College, Rochester, New York 14618 USA}
+\Stanford {Department of Physics, Stanford University, Stanford, California 94305, USA}
+\Sussex {Department of Physics and Astronomy, University of Sussex, Falmer, Brighton BN1 9QH, United Kingdom}
+\TechX {Tech-X Corporation, Boulder, Colorado 80303, USA}
+\TempleUniversity {{Department~of~Physics, College~of~Science~and~Technology, Temple~University, Philadelphia, Pennsylvania  19122}}
+\Texas {Department of Physics, University of Texas at Austin, Austin, Texas 78712, USA}
+\TexasAM {Physics Department, Texas A\&M University, College Station, Texas 77843, USA}
+\TsingHua {{Department~of~Engineering~Physics, Tsinghua~University, Beijing}}
+\Tufts {Physics Department, Tufts University, Medford, Massachusetts 02155, USA}
+\UC {{Department of Physics, University~of~Cincinnati, Cincinnati, Ohio 45221}}
+\UCB {{Department of Physics, University~of~California, Berkeley, California  94720}}
+\UCI {{Department of Physics and Astronomy, University of California, Irvine, California 92697}} %20190209 for Pedro's new digs
+\UCL {Department of Physics and Astronomy, University College London, London WC1E 6BT, United Kingdom}
+\UFG {Instituto de F\'{i}sica, Universidade Federal de Goi\'{a}s, 74690-900, Goi\^{a}nia, GO, Brazil}
+\UIUC {{Department of Physics, University~of~Illinois~at~Urbana-Champaign, Urbana, Illinois 61801}}
+\UNICAMP {Universidade Estadual de Campinas, IFGW, CP 6165, 13083-970, Campinas, SP, Brazil}
+\USP {Instituto de F\'{i}sica, Universidade de S\~{a}o Paulo,  CP 66318, 05315-970, S\~{a}o Paulo, SP, Brazil}
+\USTC {{University~of~Science~and~Technology~of~China, Hefei}}
+\VirginiaTech {{Center for Neutrino Physics, Virginia~Tech, Blacksburg, Virginia  24061}}
+\WandM {Department of Physics, College of William \& Mary, Williamsburg, Virginia 23187, USA}
+\Warsaw {Department of Physics, University of Warsaw, PL-02-093 Warsaw, Poland}
+\Washington {Physics Department, Western Washington University, Bellingham, Washington 98225, USA}
+\Wisconsin {Physics Department, University of Wisconsin, Madison, Wisconsin 53706, USA}
+\XJTU {{Department of Nuclear Science and Technology, School of Energy and Power Engineering, Xi'an Jiaotong University, Xi'an}}%%updated 20161215 {Xi'an Jiaotong University, Xi'an}}
+\Yale {{Wright~Laboratory and Department~of~Physics, Yale~University, New~Haven, Connecticut 06520}} %%%% 20170227 add Wright Lab
+\ZSU {{Sun Yat-Sen (Zhongshan) University, Guangzhou}}
+\deceased {Deceased.}
+
+ authorLatex
+P.~Adamson \author{P.~Adamson\ensuremath{^{\mu}}}
+\affiliation{\FNAL} 
+F.~P.~An \author{F.~P.~An\ensuremath{^{\delta}}}
+\affiliation{\ECUST} 
+I.~Anghel \author{I.~Anghel\ensuremath{^{\mu}}}
+\affiliation{\Iowa} 
+A.~Aurisano \author{A.~Aurisano\ensuremath{^{\mu}}}
+\affiliation{\Cincinnati} 
+A.~B.~Balantekin \author{A.~B.~Balantekin\ensuremath{^{\delta}}}
+\affiliation{\Wisconsin} 
+H.~R.~Band \author{H.~R.~Band\ensuremath{^{\delta}}}
+\affiliation{\Yale} 
+G.~Barr \author{G.~Barr\ensuremath{^{\mu}}}
+\affiliation{\Oxford} 
+M.~Bishai \author{M.~Bishai\ensuremath{^{\delta}}}
+\affiliation{\BNL} 
+A.~Blake \author{A.~Blake\ensuremath{^{\mu}}}
+\affiliation{\Cambridge}\affiliation{\Lancaster} 
+S.~Blyth \author{S.~Blyth\ensuremath{^{\delta}}}
+\affiliation{\NTU} 
+G.~F.~Cao \author{G.~F.~Cao\ensuremath{^{\delta}}}
+\affiliation{\CNIHEP} 
+J.~Cao \author{J.~Cao\ensuremath{^{\delta}}}
+\affiliation{\CNIHEP} 
+S.~V.~Cao \author{S.~V.~Cao\ensuremath{^{\mu}}}
+\affiliation{\Texas} 
+T.~J.~Carroll \author{T.~J.~Carroll\ensuremath{^{\mu}}}
+\affiliation{\Texas} 
+C.~M.~Castromonte \author{C.~M.~Castromonte\ensuremath{^{\mu}}}
+\affiliation{\UFG} 
+J.~F.~Chang \author{J.~F.~Chang\ensuremath{^{\delta}}}
+\affiliation{\CNIHEP} 
+Y.~Chang \author{Y.~Chang\ensuremath{^{\delta}}}
+\affiliation{\NUU} 
+H.~S.~Chen \author{H.~S.~Chen\ensuremath{^{\delta}}}
+\affiliation{\CNIHEP} 
+R.~Chen \author{R.~Chen\ensuremath{^{\mu}}}
+\affiliation{\Manchester} 
+S.~M.~Chen \author{S.~M.~Chen\ensuremath{^{\delta}}}
+\affiliation{\TsingHua} 
+Y.~Chen \author{Y.~Chen\ensuremath{^{\delta}}}
+\affiliation{\SZU}\affiliation{\ZSU} 
+Y.~X.~Chen \author{Y.~X.~Chen\ensuremath{^{\delta}}}
+\affiliation{\NCEPU} 
+J.~Cheng \author{J.~Cheng\ensuremath{^{\delta}}}
+\affiliation{\CNIHEP} 
+Z.~K.~Cheng \author{Z.~K.~Cheng\ensuremath{^{\delta}}}
+\affiliation{\ZSU} 
+J.~J.~Cherwinka \author{J.~J.~Cherwinka\ensuremath{^{\delta}}}
+\affiliation{\Wisconsin} 
+S.~Childress \author{S.~Childress\ensuremath{^{\mu}}}
+\affiliation{\FNAL} 
+M.~C.~Chu \author{M.~C.~Chu\ensuremath{^{\delta}}}
+\affiliation{\CUHK} 
+A.~Chukanov \author{A.~Chukanov\ensuremath{^{\delta}}}
+\affiliation{\Dubna} 
+J.~A.~B.~Coelho \author{J.~A.~B.~Coelho\ensuremath{^{\mu}}}
+\affiliation{\Tufts} 
+J.~P.~Cummings \author{J.~P.~Cummings\ensuremath{^{\delta}}}
+\affiliation{\Siena} 
+N.~Dash \author{N.~Dash\ensuremath{^{\delta}}}
+\affiliation{\CNIHEP} 
+S.~De~Rijck \author{S.~De~Rijck\ensuremath{^{\mu}}}
+\affiliation{\Texas} 
+F.~S.~Deng \author{F.~S.~Deng\ensuremath{^{\delta}}}
+\affiliation{\USTC} 
+Y.~Y.~Ding \author{Y.~Y.~Ding\ensuremath{^{\delta}}}
+\affiliation{\CNIHEP} 
+M.~V.~Diwan \author{M.~V.~Diwan\ensuremath{^{\delta}}}
+\affiliation{\BNL} 
+T.~Dohnal \author{T.~Dohnal\ensuremath{^{\delta}}}
+\affiliation{\Charles} 
+D.~Dolzhikov \author{D.~Dolzhikov\ensuremath{^{\delta}}}
+\affiliation{\Dubna} 
+J.~Dove \author{J.~Dove\ensuremath{^{\delta}}}
+\affiliation{\UIUC} 
+M.~Dvo\v{r}\'{a}k \author{M.~Dvo\v{r}\'{a}k\ensuremath{^{\delta}}}
+\affiliation{\CNIHEP} 
+D.~A.~Dwyer \author{D.~A.~Dwyer\ensuremath{^{\delta}}}
+\affiliation{\Berkeley} 
+J.~J.~Evans \author{J.~J.~Evans\ensuremath{^{\mu}}}
+\affiliation{\Manchester} 
+G.~J.~Feldman \author{G.~J.~Feldman\ensuremath{^{\mu}}}
+\affiliation{\Harvard} 
+W.~Flanagan \author{W.~Flanagan\ensuremath{^{\mu}}}
+\affiliation{\Texas}\affiliation{\Dallas} 
+G. Mills \author{G. Mills\ensuremath{^{\mu}}}
+\affiliation{\LANL} 
+M.~Gabrielyan \author{M.~Gabrielyan\ensuremath{^{\mu}}}
+\affiliation{\Minnesota} 
+J.~P.~Gallo \author{J.~P.~Gallo\ensuremath{^{\delta}}}
+\affiliation{\IIT} 
+S.~Germani \author{S.~Germani\ensuremath{^{\mu}}}
+\affiliation{\UCL} 
+R.~A.~Gomes \author{R.~A.~Gomes\ensuremath{^{\mu}}}
+\affiliation{\UFG} 
+M.~Gonchar \author{M.~Gonchar\ensuremath{^{\delta}}}
+\affiliation{\Dubna} 
+G.~H.~Gong \author{G.~H.~Gong\ensuremath{^{\delta}}}
+\affiliation{\TsingHua} 
+H.~Gong \author{H.~Gong\ensuremath{^{\delta}}}
+\affiliation{\TsingHua} 
+P.~Gouffon \author{P.~Gouffon\ensuremath{^{\mu}}}
+\affiliation{\USP} 
+N.~Graf \author{N.~Graf\ensuremath{^{\mu}}}
+\affiliation{\Pittsburgh} 
+K.~Grzelak \author{K.~Grzelak\ensuremath{^{\mu}}}
+\affiliation{\Warsaw} 
+W.~Q.~Gu \author{W.~Q.~Gu\ensuremath{^{\delta}}}
+\affiliation{\BNL} 
+J.~Y.~Guo \author{J.~Y.~Guo\ensuremath{^{\delta}}}
+\affiliation{\ZSU} 
+L.~Guo \author{L.~Guo\ensuremath{^{\delta}}}
+\affiliation{\TsingHua} 
+X.~H.~Guo \author{X.~H.~Guo\ensuremath{^{\delta}}}
+\affiliation{\BNU} 
+Y.~H.~Guo \author{Y.~H.~Guo\ensuremath{^{\delta}}}
+\affiliation{\XJTU} 
+Z.~Guo \author{Z.~Guo\ensuremath{^{\delta}}}
+\affiliation{\TsingHua} 
+A.~Habig \author{A.~Habig\ensuremath{^{\mu}}}
+\affiliation{\Duluth} 
+R.~W.~Hackenburg \author{R.~W.~Hackenburg\ensuremath{^{\delta}}}
+\affiliation{\BNL} 
+S.~R.~Hahn \author{S.~R.~Hahn\ensuremath{^{\mu}}}
+\affiliation{\FNAL} 
+S.~Hans \author{S.~Hans\ensuremath{^{\delta}}}
+\altaffiliation{\BCC}\affiliation{\BNL} 
+J.~Hartnell \author{J.~Hartnell\ensuremath{^{\mu}}}
+\affiliation{\Sussex} 
+R.~Hatcher \author{R.~Hatcher\ensuremath{^{\mu}}}
+\affiliation{\FNAL} 
+M.~He \author{M.~He\ensuremath{^{\delta}}}
+\affiliation{\CNIHEP} 
+K.~M.~Heeger \author{K.~M.~Heeger\ensuremath{^{\delta}}}
+\affiliation{\Yale} 
+Y.~K.~Heng \author{Y.~K.~Heng\ensuremath{^{\delta}}}
+\affiliation{\CNIHEP} 
+A.~Higuera \author{A.~Higuera\ensuremath{^{\delta}}}
+\affiliation{\Houston} 
+A.~Holin \author{A.~Holin\ensuremath{^{\mu}}}
+\affiliation{\UCL} 
+Y.~K.~Hor \author{Y.~K.~Hor\ensuremath{^{\delta}}}
+\affiliation{\ZSU} 
+Y.~B.~Hsiung \author{Y.~B.~Hsiung\ensuremath{^{\delta}}}
+\affiliation{\NTU} 
+B.~Z.~Hu \author{B.~Z.~Hu\ensuremath{^{\delta}}}
+\affiliation{\NTU} 
+J.~R.~Hu \author{J.~R.~Hu\ensuremath{^{\delta}}}
+\affiliation{\CNIHEP} 
+T.~Hu \author{T.~Hu\ensuremath{^{\delta}}}
+\affiliation{\CNIHEP} 
+Z.~J.~Hu \author{Z.~J.~Hu\ensuremath{^{\delta}}}
+\affiliation{\ZSU} 
+H.~X.~Huang \author{H.~X.~Huang\ensuremath{^{\delta}}}
+\affiliation{\CIAE} 
+J.~Huang \author{J.~Huang\ensuremath{^{\mu}}}
+\affiliation{\Texas} 
+X.~T.~Huang \author{X.~T.~Huang\ensuremath{^{\delta}}}
+\affiliation{\SDU} 
+Y.~B.~Huang \author{Y.~B.~Huang\ensuremath{^{\delta}}}
+\affiliation{\CNIHEP} 
+P.~Huber \author{P.~Huber\ensuremath{^{\delta}}}
+\affiliation{\VirginiaTech} 
+D.~E.~Jaffe \author{D.~E.~Jaffe\ensuremath{^{\delta}}}
+\affiliation{\BNL} 
+K.~L.~Jen \author{K.~L.~Jen\ensuremath{^{\delta}}}
+\affiliation{\NCTU} 
+X.~L.~Ji \author{X.~L.~Ji\ensuremath{^{\delta}}}
+\affiliation{\CNIHEP} 
+X.~P.~Ji \author{X.~P.~Ji\ensuremath{^{\delta}}}
+\affiliation{\BNL} 
+R.~A.~Johnson \author{R.~A.~Johnson\ensuremath{^{\delta}}}
+\affiliation{\UC} 
+D.~Jones \author{D.~Jones\ensuremath{^{\delta}}}
+\affiliation{\TempleUniversity} 
+L.~Kang \author{L.~Kang\ensuremath{^{\delta}}}
+\affiliation{\DGUT} 
+S.~H.~Kettell \author{S.~H.~Kettell\ensuremath{^{\delta}}}
+\affiliation{\BNL} 
+L.~W.~Koerner \author{L.~W.~Koerner\ensuremath{^{\mu}}}
+\affiliation{\Houston} 
+S.~Kohn \author{S.~Kohn\ensuremath{^{\delta}}}
+\affiliation{\UCB} 
+M.~Kordosky \author{M.~Kordosky\ensuremath{^{\mu}}}
+\affiliation{\WandM} 
+M.~Kramer \author{M.~Kramer\ensuremath{^{\delta}}}
+\affiliation{\Berkeley}\affiliation{\UCB} 
+A.~Kreymer \author{A.~Kreymer\ensuremath{^{\mu}}}
+\affiliation{\FNAL} 
+K.~Lang \author{K.~Lang\ensuremath{^{\mu}}}
+\affiliation{\Texas} 
+T.~J.~Langford \author{T.~J.~Langford\ensuremath{^{\delta}}}
+\affiliation{\Yale} 
+J.~Lee \author{J.~Lee\ensuremath{^{\delta}}}
+\affiliation{\Berkeley} 
+J.~H.~C.~Lee \author{J.~H.~C.~Lee\ensuremath{^{\delta}}}
+\affiliation{\HKU} 
+R.~T.~Lei \author{R.~T.~Lei\ensuremath{^{\delta}}}
+\affiliation{\DGUT} 
+R.~Leitner \author{R.~Leitner\ensuremath{^{\delta}}}
+\affiliation{\Charles} 
+J.~K.~C.~Leung \author{J.~K.~C.~Leung\ensuremath{^{\delta}}}
+\affiliation{\HKU} 
+F.~Li \author{F.~Li\ensuremath{^{\delta}}}
+\affiliation{\CNIHEP} 
+H.~L.~Li \author{H.~L.~Li\ensuremath{^{\delta}}}
+\affiliation{\CNIHEP} 
+J.~J.~Li \author{J.~J.~Li\ensuremath{^{\delta}}}
+\affiliation{\TsingHua} 
+Q.~J.~Li \author{Q.~J.~Li\ensuremath{^{\delta}}}
+\affiliation{\CNIHEP} 
+S.~Li \author{S.~Li\ensuremath{^{\delta}}}
+\affiliation{\DGUT} 
+S.~C.~Li \author{S.~C.~Li\ensuremath{^{\delta}}}
+\affiliation{\VirginiaTech} 
+S.~J.~Li \author{S.~J.~Li\ensuremath{^{\delta}}}
+\affiliation{\ZSU} 
+W.~D.~Li \author{W.~D.~Li\ensuremath{^{\delta}}}
+\affiliation{\CNIHEP} 
+X.~N.~Li \author{X.~N.~Li\ensuremath{^{\delta}}}
+\affiliation{\CNIHEP} 
+X.~Q.~Li \author{X.~Q.~Li\ensuremath{^{\delta}}}
+\affiliation{\NanKai} 
+Y.~F.~Li \author{Y.~F.~Li\ensuremath{^{\delta}}}
+\affiliation{\CNIHEP} 
+Z.~B.~Li \author{Z.~B.~Li\ensuremath{^{\delta}}}
+\affiliation{\ZSU} 
+H.~Liang \author{H.~Liang\ensuremath{^{\delta}}}
+\affiliation{\USTC} 
+C.~J.~Lin \author{C.~J.~Lin\ensuremath{^{\delta}}}
+\affiliation{\Berkeley} 
+G.~L.~Lin \author{G.~L.~Lin\ensuremath{^{\delta}}}
+\affiliation{\NCTU} 
+S.~Lin \author{S.~Lin\ensuremath{^{\delta}}}
+\affiliation{\DGUT} 
+J.~J.~Ling \author{J.~J.~Ling\ensuremath{^{\delta}}}
+\affiliation{\ZSU} 
+J.~M.~Link \author{J.~M.~Link\ensuremath{^{\delta}}}
+\affiliation{\VirginiaTech} 
+L.~Littenberg \author{L.~Littenberg\ensuremath{^{\delta}}}
+\affiliation{\BNL} 
+B.~R.~Littlejohn \author{B.~R.~Littlejohn\ensuremath{^{\delta}}}
+\affiliation{\IIT} 
+J.~C.~Liu \author{J.~C.~Liu\ensuremath{^{\delta}}}
+\affiliation{\CNIHEP} 
+J.~L.~Liu \author{J.~L.~Liu\ensuremath{^{\delta}}}
+\affiliation{\SJTU} 
+Y.~Liu \author{Y.~Liu\ensuremath{^{\delta}}}
+\affiliation{\SDU} 
+Y.~H.~Liu \author{Y.~H.~Liu\ensuremath{^{\delta}}}
+\affiliation{\NJU} 
+C.~Lu \author{C.~Lu\ensuremath{^{\delta}}}
+\affiliation{\Princeton} 
+H.~Q.~Lu \author{H.~Q.~Lu\ensuremath{^{\delta}}}
+\affiliation{\CNIHEP} 
+J.~S.~Lu \author{J.~S.~Lu\ensuremath{^{\delta}}}
+\affiliation{\CNIHEP} 
+P.~Lucas \author{P.~Lucas\ensuremath{^{\mu}}}
+\affiliation{\FNAL} 
+K.~B.~Luk \author{K.~B.~Luk\ensuremath{^{\delta}}}
+\affiliation{\UCB}\affiliation{\Berkeley} 
+X.~B.~Ma \author{X.~B.~Ma\ensuremath{^{\delta}}}
+\affiliation{\NCEPU} 
+X.~Y.~Ma \author{X.~Y.~Ma\ensuremath{^{\delta}}}
+\affiliation{\CNIHEP} 
+Y.~Q.~Ma \author{Y.~Q.~Ma\ensuremath{^{\delta}}}
+\affiliation{\CNIHEP} 
+W.~A.~Mann \author{W.~A.~Mann\ensuremath{^{\mu}}}
+\affiliation{\Tufts} 
+M.~L.~Marshak \author{M.~L.~Marshak\ensuremath{^{\mu}}}
+\affiliation{\Minnesota} 
+C.~Marshall \author{C.~Marshall\ensuremath{^{\delta}}}
+\affiliation{\Berkeley} 
+D.~A.~Martinez Caicedo \author{D.~A.~Martinez Caicedo\ensuremath{^{\delta}}}
+\affiliation{\IIT} 
+N.~Mayer \author{N.~Mayer\ensuremath{^{\mu}}}
+\affiliation{\Tufts} 
+K.~T.~McDonald \author{K.~T.~McDonald\ensuremath{^{\delta}}}
+\affiliation{\Princeton} 
+R.~D.~McKeown \author{R.~D.~McKeown\ensuremath{^{\delta}}}
+\affiliation{\Caltech}\affiliation{\WandM} 
+R.~Mehdiyev \author{R.~Mehdiyev\ensuremath{^{\mu}}}
+\affiliation{\Texas} 
+J.~R.~Meier \author{J.~R.~Meier\ensuremath{^{\mu}}}
+\affiliation{\Minnesota} 
+Y.~Meng \author{Y.~Meng\ensuremath{^{\delta}}}
+\affiliation{\SJTU} 
+W.~H.~Miller \author{W.~H.~Miller\ensuremath{^{\mu}}}
+\affiliation{\Minnesota} 
+L.~Mora Lepin \author{L.~Mora Lepin\ensuremath{^{\delta}}}
+\affiliation{\CUC} 
+D.~Naples \author{D.~Naples\ensuremath{^{\mu}}}
+\affiliation{\Pittsburgh} 
+J.~Napolitano \author{J.~Napolitano\ensuremath{^{\delta}}}
+\affiliation{\TempleUniversity} 
+D.~Naumov \author{D.~Naumov\ensuremath{^{\delta}}}
+\affiliation{\Dubna} 
+E.~Naumova \author{E.~Naumova\ensuremath{^{\delta}}}
+\affiliation{\Dubna} 
+J.~K.~Nelson \author{J.~K.~Nelson\ensuremath{^{\mu}}}
+\affiliation{\WandM} 
+R.~J.~Nichol \author{R.~J.~Nichol\ensuremath{^{\mu}}}
+\affiliation{\UCL} 
+J.~O'Connor \author{J.~O'Connor\ensuremath{^{\mu}}}
+\affiliation{\UCL} 
+J.~P.~Ochoa-Ricoux \author{J.~P.~Ochoa-Ricoux\ensuremath{^{\delta}}}
+\affiliation{\UCI} 
+A.~Olshevskiy \author{A.~Olshevskiy\ensuremath{^{\delta}}}
+\affiliation{\Dubna} 
+R.~B.~Pahlka \author{R.~B.~Pahlka\ensuremath{^{\mu}}}
+\affiliation{\FNAL} 
+H.-R.~Pan \author{H.-R.~Pan\ensuremath{^{\delta}}}
+\affiliation{\NTU} 
+J.~Park \author{J.~Park\ensuremath{^{\delta}}}
+\affiliation{\VirginiaTech} 
+S.~Patton \author{S.~Patton\ensuremath{^{\delta}}}
+\affiliation{\Berkeley} 
+\v{Z}.~Pavlovi\'{c} \author{\v{Z}.~Pavlovi\'{c}\ensuremath{^{\mu}}}
+\affiliation{\LANL} 
+G.~Pawloski \author{G.~Pawloski\ensuremath{^{\mu}}}
+\affiliation{\Minnesota} 
+J.~C.~Peng \author{J.~C.~Peng\ensuremath{^{\delta}}}
+\affiliation{\UIUC} 
+A.~Perch \author{A.~Perch\ensuremath{^{\mu}}}
+\affiliation{\UCL} 
+M.~M.~Pf\"{u}tzner \author{M.~M.~Pf\"{u}tzner\ensuremath{^{\mu}}}
+\affiliation{\UCL} 
+D.~D.~Phan \author{D.~D.~Phan\ensuremath{^{\mu}}}
+\affiliation{\Texas} 
+R.~K.~Plunkett \author{R.~K.~Plunkett\ensuremath{^{\mu}}}
+\affiliation{\FNAL} 
+N.~Poonthottathil \author{N.~Poonthottathil\ensuremath{^{\mu}}}
+\affiliation{\FNAL} 
+C.~S.~J.~Pun \author{C.~S.~J.~Pun\ensuremath{^{\delta}}}
+\affiliation{\HKU} 
+F.~Z.~Qi \author{F.~Z.~Qi\ensuremath{^{\delta}}}
+\affiliation{\CNIHEP} 
+M.~Qi \author{M.~Qi\ensuremath{^{\delta}}}
+\affiliation{\NJU} 
+X.~Qian \author{X.~Qian\ensuremath{^{\delta}}}
+\affiliation{\BNL} 
+X.~Qiu \author{X.~Qiu\ensuremath{^{\mu}}}
+\affiliation{\Stanford} 
+A.~Radovic \author{A.~Radovic\ensuremath{^{\mu}}}
+\affiliation{\WandM} 
+N.~Raper \author{N.~Raper\ensuremath{^{\delta}}}
+\affiliation{\ZSU} 
+J.~Ren \author{J.~Ren\ensuremath{^{\delta}}}
+\affiliation{\CIAE} 
+C.~Morales~Reveco \author{C.~Morales~Reveco\ensuremath{^{\delta}}}
+\affiliation{\UCI} 
+R.~Rosero \author{R.~Rosero\ensuremath{^{\delta}}}
+\affiliation{\BNL} 
+B.~Roskovec \author{B.~Roskovec\ensuremath{^{\delta}}}
+\affiliation{\UCI} 
+X.~C.~Ruan \author{X.~C.~Ruan\ensuremath{^{\delta}}}
+\affiliation{\CIAE} 
+P.~Sail \author{P.~Sail\ensuremath{^{\mu}}}
+\affiliation{\Texas} 
+M.~C.~Sanchez \author{M.~C.~Sanchez\ensuremath{^{\mu}}}
+\affiliation{\Iowa} 
+J.~Schneps \author{J.~Schneps\ensuremath{^{\mu}}}
+\affiliation{\Tufts} 
+A.~Schreckenberger \author{A.~Schreckenberger\ensuremath{^{\mu}}}
+\affiliation{\Texas} 
+N.~Shaheed \author{N.~Shaheed\ensuremath{^{\delta}}}
+\affiliation{\SDU} 
+R.~Sharma \author{R.~Sharma\ensuremath{^{\mu}}}
+\affiliation{\FNAL} 
+A.~Sousa \author{A.~Sousa\ensuremath{^{\mu}}}
+\affiliation{\Cincinnati} 
+H.~Steiner \author{H.~Steiner\ensuremath{^{\delta}}}
+\affiliation{\UCB}\affiliation{\Berkeley} 
+J.~L.~Sun \author{J.~L.~Sun\ensuremath{^{\delta}}}
+\affiliation{\CGNPG} 
+N.~Tagg \author{N.~Tagg\ensuremath{^{\mu}}}
+\affiliation{\Otterbein} 
+J.~Thomas \author{J.~Thomas\ensuremath{^{\mu}}}
+\affiliation{\UCL} 
+M.~A.~Thomson \author{M.~A.~Thomson\ensuremath{^{\mu}}}
+\affiliation{\Cambridge} 
+A.~Timmons \author{A.~Timmons\ensuremath{^{\mu}}}
+\affiliation{\Manchester} 
+T.~Tmej \author{T.~Tmej\ensuremath{^{\delta}}}
+\affiliation{\Charles} 
+J.~Todd \author{J.~Todd\ensuremath{^{\mu}}}
+\affiliation{\Cincinnati} 
+S.~C.~Tognini \author{S.~C.~Tognini\ensuremath{^{\mu}}}
+\affiliation{\UFG} 
+R.~Toner \author{R.~Toner\ensuremath{^{\mu}}}
+\affiliation{\Harvard} 
+D.~Torretta \author{D.~Torretta\ensuremath{^{\mu}}}
+\affiliation{\FNAL} 
+K.~Treskov \author{K.~Treskov\ensuremath{^{\delta}}}
+\affiliation{\Dubna} 
+W.-H.~Tse \author{W.-H.~Tse\ensuremath{^{\delta}}}
+\affiliation{\CUHK} 
+C.~E.~Tull \author{C.~E.~Tull\ensuremath{^{\delta}}}
+\affiliation{\Berkeley} 
+P.~Vahle \author{P.~Vahle\ensuremath{^{\mu}}}
+\affiliation{\WandM} 
+B.~Viren \author{B.~Viren\ensuremath{^{\delta}}}
+\affiliation{\BNL} 
+V.~Vorobel \author{V.~Vorobel\ensuremath{^{\delta}}}
+\affiliation{\Charles} 
+C.~H.~Wang \author{C.~H.~Wang\ensuremath{^{\delta}}}
+\affiliation{\NUU} 
+J.~Wang \author{J.~Wang\ensuremath{^{\delta}}}
+\affiliation{\ZSU} 
+M.~Wang \author{M.~Wang\ensuremath{^{\delta}}}
+\affiliation{\SDU} 
+N.~Y.~Wang \author{N.~Y.~Wang\ensuremath{^{\delta}}}
+\affiliation{\BNU} 
+R.~G.~Wang \author{R.~G.~Wang\ensuremath{^{\delta}}}
+\affiliation{\CNIHEP} 
+W.~Wang \author{W.~Wang\ensuremath{^{\delta}}}
+\affiliation{\NJU} 
+X.~Wang \author{X.~Wang\ensuremath{^{\delta}}}
+\affiliation{\NUDT} 
+Y.~Wang \author{Y.~Wang\ensuremath{^{\delta}}}
+\affiliation{\NJU} 
+Y.~F.~Wang \author{Y.~F.~Wang\ensuremath{^{\delta}}}
+\affiliation{\CNIHEP} 
+Z.~Wang \author{Z.~Wang\ensuremath{^{\delta}}}
+\affiliation{\TsingHua} 
+Z.~M.~Wang \author{Z.~M.~Wang\ensuremath{^{\delta}}}
+\affiliation{\CNIHEP} 
+A.~Weber \author{A.~Weber\ensuremath{^{\mu}}}
+\affiliation{\Oxford}\affiliation{\RAL} 
+H.~Y.~Wei \author{H.~Y.~Wei\ensuremath{^{\delta}}}
+\affiliation{\BNL} 
+L.~H.~Wei \author{L.~H.~Wei\ensuremath{^{\delta}}}
+\affiliation{\CNIHEP} 
+L.~J.~Wen \author{L.~J.~Wen\ensuremath{^{\delta}}}
+\affiliation{\CNIHEP} 
+K.~Whisnant \author{K.~Whisnant\ensuremath{^{\delta}}}
+\affiliation{\Iowa} 
+C.~White \author{C.~White\ensuremath{^{\delta}}}
+\affiliation{\IIT} 
+L.~H.~Whitehead \author{L.~H.~Whitehead\ensuremath{^{\mu}}}
+\affiliation{\UCL} 
+S.~G.~Wojcicki \author{S.~G.~Wojcicki\ensuremath{^{\mu}}}
+\affiliation{\Stanford} 
+H.~L.~H.~Wong \author{H.~L.~H.~Wong\ensuremath{^{\delta}}}
+\affiliation{\UCB}\affiliation{\Berkeley} 
+S.~C.~F.~Wong \author{S.~C.~F.~Wong\ensuremath{^{\delta}}}
+\affiliation{\ZSU} 
+E.~Worcester \author{E.~Worcester\ensuremath{^{\delta}}}
+\affiliation{\BNL} 
+D.~R.~Wu \author{D.~R.~Wu\ensuremath{^{\delta}}}
+\affiliation{\CNIHEP} 
+F.~L.~Wu \author{F.~L.~Wu\ensuremath{^{\delta}}}
+\affiliation{\NJU} 
+Q.~Wu \author{Q.~Wu\ensuremath{^{\delta}}}
+\affiliation{\SDU} 
+W.~J.~Wu \author{W.~J.~Wu\ensuremath{^{\delta}}}
+\affiliation{\CNIHEP} 
+D.~M.~Xia \author{D.~M.~Xia\ensuremath{^{\delta}}}
+\affiliation{\CQU} 
+Z.~Q.~Xie \author{Z.~Q.~Xie\ensuremath{^{\delta}}}
+\affiliation{\CNIHEP} 
+Z.~Z.~Xing \author{Z.~Z.~Xing\ensuremath{^{\delta}}}
+\affiliation{\CNIHEP} 
+J.~L.~Xu \author{J.~L.~Xu\ensuremath{^{\delta}}}
+\affiliation{\CNIHEP} 
+T.~Xu \author{T.~Xu\ensuremath{^{\delta}}}
+\affiliation{\TsingHua} 
+T.~Xue \author{T.~Xue\ensuremath{^{\delta}}}
+\affiliation{\TsingHua} 
+C.~G.~Yang \author{C.~G.~Yang\ensuremath{^{\delta}}}
+\affiliation{\CNIHEP} 
+L.~Yang \author{L.~Yang\ensuremath{^{\delta}}}
+\affiliation{\DGUT} 
+Y.~Z.~Yang \author{Y.~Z.~Yang\ensuremath{^{\delta}}}
+\affiliation{\TsingHua} 
+H.~F.~Yao \author{H.~F.~Yao\ensuremath{^{\deThis is pdfeTeX, Version 3.141592-1.21a-2.2 (Web2C 7.5.4)
+entering extended mode
+(./test_combined_authorlist.tex
+LaTeX2e <2008/12/01>
+Babel <v3.8d> and hyphenation patterns for american, french, german, ngerman, b
+ahasa, basque, bulgarian, catalan, croatian, czech, danish, dutch, esperanto, e
+stonian, finnish, greek, icelandic, irish, italian, latin, magyar, norsk, polis
+h, portuges, romanian, russian, serbian, slovak, slovene, spanish, swedish, tur
+kish, ukrainian, nohyphenation, loaded.
+(./revtex4-1.cls
+Document Class: revtex4-1 2010/07/25/20:33:00 4.1r (http://publish.aps.org/revt
+ex4/ for documentation)
+ltxutil[2010/07/25/20:33:00 4.1r utilities package (portions licensed from W. E
+. Baxter web at superscript.com)]
+ltxfront[2010/07/25/20:33:00 4.1r frontmatter package (AO,DPC)]
+ltxgrid[2010/07/25/20:33:00 4.1r page grid package (portions licensed from W. E
+. Baxter web at superscript.com)]
+(./aps4-1.rtx)
+
+Class revtex4-1 Warning: No type size specified, using default 10.
+
+(./aps10pt4-1.rtx) (/sw/share/texmf-dist/tex/latex/carlisle/textcase.sty)
+(/sw/share/texmf-dist/tex/latex/amsfonts/amssymb.sty
+(/sw/share/texmf-dist/tex/latex/amsfonts/amsfonts.sty))
+(/sw/share/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/sw/share/texmf-dist/tex/latex/amsmath/amstext.sty
+(/sw/share/texmf-dist/tex/latex/amsmath/amsgen.sty))
+(/sw/share/texmf-dist/tex/latex/amsmath/amsbsy.sty)
+(/sw/share/texmf-dist/tex/latex/amsmath/amsopn.sty))
+(/sw/share/texmf-dist/tex/latex/url/url.sty) (./natbib.sty) (./revsymb4-1.sty))
+(./test_combined_authorlist.aux) (./merged_minos_dyb_authors.tex)
+(/sw/share/texmf-dist/tex/latex/amsfonts/umsa.fd)
+(/sw/share/texmf-dist/tex/latex/amsfonts/umsb.fd) [1{/sw/var/lib/texmf/fonts/ma
+p/pdftex/updmap/pdftex.map}] (./test_combined_authorlist.bbl) [2]
+(./test_combined_authorlist.aux) )</sw/share/texmf-dist/fonts/type1/bluesky/cm/
+cmbx9.pfb></sw/share/texmf-dist/fonts/type1/bluesky/cm/cmsy6.pfb></sw/share/tex
+mf-dist/fonts/type1/bluesky/cm/cmr9.pfb></sw/share/texmf-dist/fonts/type1/blues
+ky/cm/cmti9.pfb></sw/share/texmf-dist/fonts/type1/bluesky/cm/cmr6.pfb></sw/shar
+e/texmf-dist/fonts/type1/bluesky/cm/cmsy7.pfb></sw/share/texmf-dist/fonts/type1
+/bluesky/cm/cmr7.pfb></sw/share/texmf-dist/fonts/type1/bluesky/cm/cmmi7.pfb></s
+w/share/texmf-dist/fonts/type1/bluesky/cm/cmr10.pfb></sw/share/texmf-dist/fonts
+/type1/bluesky/cm/cmbx12.pfb>
+Output written on test_combined_authorlist.pdf (2 pages, 78011 bytes).
+Transcript written on test_combined_authorlist.log.
+This is BibTeX, Version 0.99c (Web2C 7.5.4)
+The top-level auxiliary file: test_combined_authorlist.aux
+The style file: apsrev4-1.bst
+Database file #1: test_combined_authorlistNotes.bib
+Database file #2: ../fake_PhysRev_refs.bib
+merlin.mbs apsrev4-1.bst 2010-07-25 4.21a (PWD, AO, DPC) hacked
+Control: key (0) 
+Control: author (72) initials jnrlst
+Control: editor formatted (1) identically to author
+Control: production of article title (-1) disabled
+Control: page (0) single
+Control: year (1) truncated
+Control: production of eprint (0) enabled
+This is pdfeTeX, Version 3.141592-1.21a-2.2 (Web2C 7.5.4)
+entering extended mode
+(./test_combined_authorlist.tex
+LaTeX2e <2008/12/01>
+Babel <v3.8d> and hyphenation patterns for american, french, german, ngerman, b
+ahasa, basque, bulgarian, catalan, croatian, czech, danish, dutch, esperanto, e
+stonian, finnish, greek, icelandic, irish, italian, latin, magyar, norsk, polis
+h, portuges, romanian, russian, serbian, slovak, slovene, spanish, swedish, tur
+kish, ukrainian, nohyphenation, loaded.
+(./revtex4-1.cls
+Document Class: revtex4-1 2010/07/25/20:33:00 4.1r (http://publish.aps.org/revt
+ex4/ for documentation)
+ltxutil[2010/07/25/20:33:00 4.1r utilities package (portions licensed from W. E
+. Baxter web at superscript.com)]
+ltxfront[2010/07/25/20:33:00 4.1r frontmatter package (AO,DPC)]
+ltxgrid[2010/07/25/20:33:00 4.1r page grid package (portions licensed from W. E
+. Baxter web at superscript.com)]
+(./aps4-1.rtx)
+
+Class revtex4-1 Warning: No type size specified, using default 10.
+
+(./aps10pt4-1.rtx) (/sw/share/texmf-dist/tex/latex/carlisle/textcase.sty)
+(/sw/share/texmf-dist/tex/latex/amsfonts/amssymb.sty
+(/sw/share/texmf-dist/tex/latex/amsfonts/amsfonts.sty))
+(/sw/share/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/sw/share/texmf-dist/tex/latex/amsmath/amstext.sty
+(/sw/share/texmf-dist/tex/latex/amsmath/amsgen.sty))
+(/sw/share/texmf-dist/tex/latex/amsmath/amsbsy.sty)
+(/sw/share/texmf-dist/tex/latex/amsmath/amsopn.sty))
+(/sw/share/texmf-dist/tex/latex/url/url.sty) (./natbib.sty) (./revsymb4-1.sty))
+(./test_combined_authorlist.aux) (./merged_minos_dyb_authors.tex)
+(/sw/share/texmf-dist/tex/latex/amsfonts/umsa.fd)
+(/sw/share/texmf-dist/tex/latex/amsfonts/umsb.fd) [1{/sw/var/lib/texmf/fonts/ma
+p/pdftex/updmap/pdftex.map}] (./test_combined_authorlist.bbl) [2]
+(./test_combined_authorlist.aux) )</sw/share/texmf-dist/fonts/type1/bluesky/cm/
+cmbx9.pfb></sw/share/texmf-dist/fonts/type1/bluesky/cm/cmsy6.pfb></sw/share/tex
+mf-dist/fonts/type1/bluesky/cm/cmr9.pfb></sw/share/texmf-dist/fonts/type1/blues
+ky/cm/cmti9.pfb></sw/share/texmf-dist/fonts/type1/bluesky/cm/cmr6.pfb></sw/shar
+e/texmf-dist/fonts/type1/bluesky/cm/cmsy7.pfb></sw/share/texmf-dist/fonts/type1
+/bluesky/cm/cmr7.pfb></sw/share/texmf-dist/fonts/type1/bluesky/cm/cmmi7.pfb></s
+w/share/texmf-dist/fonts/type1/bluesky/cm/cmr10.pfb></sw/share/texmf-dist/fonts
+/type1/bluesky/cm/cmbx12.pfb>
+Output written on test_combined_authorlist.pdf (2 pages, 78009 bytes).
+Transcript written on test_combined_authorlist.log.
+This is pdfeTeX, Version 3.141592-1.21a-2.2 (Web2C 7.5.4)
+entering extended mode
+(./test_combined_authorlist.tex
+LaTeX2e <2008/12/01>
+Babel <v3.8d> and hyphenation patterns for american, french, german, ngerman, b
+ahasa, basque, bulgarian, catalan, croatian, czech, danish, dutch, esperanto, e
+stonian, finnish, greek, icelandic, irish, italian, latin, magyar, norsk, polis
+h, portuges, romanian, russian, serbian, slovak, slovene, spanish, swedish, tur
+kish, ukrainian, nohyphenation, loaded.
+(./revtex4-1.cls
+Document Class: revtex4-1 2010/07/25/20:33:00 4.1r (http://publish.aps.org/revt
+ex4/ for documentation)
+ltxutil[2010/07/25/20:33:00 4.1r utilities package (portions licensed from W. E
+. Baxter web at superscript.com)]
+ltxfront[2010/07/25/20:33:00 4.1r frontmatter package (AO,DPC)]
+ltxgrid[2010/07/25/20:33:00 4.1r page grid package (portions licensed from W. E
+. Baxter web at superscript.com)]
+(./aps4-1.rtx)
+
+Class revtex4-1 Warning: No type size specified, using default 10.
+
+(./aps10pt4-1.rtx) (/sw/share/texmf-dist/tex/latex/carlisle/textcase.sty)
+(/sw/share/texmf-dist/tex/latex/amsfonts/amssymb.sty
+(/sw/share/texmf-dist/tex/latex/amsfonts/amsfonts.sty))
+(/sw/share/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/sw/share/texmf-dist/tex/latex/amsmath/amstext.sty
+(/sw/share/texmf-dist/tex/latex/amsmath/amsgen.sty))
+(/sw/share/texmf-dist/tex/latex/amsmath/amsbsy.sty)
+(/sw/share/texmf-dist/tex/latex/amsmath/amsopn.sty))
+(/sw/share/texmf-dist/tex/latex/url/url.sty) (./natbib.sty) (./revsymb4-1.sty))
+(./test_combined_authorlist.aux) (./merged_minos_dyb_authors.tex)
+(/sw/share/texmf-dist/tex/latex/amsfonts/umsa.fd)
+(/sw/share/texmf-dist/tex/latex/amsfonts/umsb.fd) [1{/sw/var/lib/texmf/fonts/ma
+p/pdftex/updmap/pdftex.map}] (./test_combined_authorlist.bbl) [2]
+(./test_combined_authorlist.aux) )</sw/share/texmf-dist/fonts/type1/bluesky/cm/
+cmbx9.pfb></sw/share/texmf-dist/fonts/type1/bluesky/cm/cmsy6.pfb></sw/share/tex
+mf-dist/fonts/type1/bluesky/cm/cmr9.pfb></sw/share/texmf-dist/fonts/type1/blues
+ky/cm/cmti9.pfb></sw/share/texmf-dist/fonts/type1/bluesky/cm/cmr6.pfb></sw/shar
+e/texmf-dist/fonts/type1/bluesky/cm/cmsy7.pfb></sw/share/texmf-dist/fonts/type1
+/bluesky/cm/cmr7.pfb></sw/share/texmf-dist/fonts/type1/bluesky/cm/cmmi7.pfb></s
+w/share/texmf-dist/fonts/type1/bluesky/cm/cmr10.pfb></sw/share/texmf-dist/fonts
+/type1/bluesky/cm/cmbx12.pfb>
+Output written on test_combined_authorlist.pdf (2 pages, 78009 bytes).
+Transcript written on test_combined_authorlist.log.
+lta}}}
+\affiliation{\CNIHEP} 
+M.~Ye \author{M.~Ye\ensuremath{^{\delta}}}
+\affiliation{\CNIHEP} 
+M.~Yeh \author{M.~Yeh\ensuremath{^{\delta}}}
+\affiliation{\BNL} 
+B.~L.~Young \author{B.~L.~Young\ensuremath{^{\delta}}}
+\affiliation{\Iowa} 
+H.~Z.~Yu \author{H.~Z.~Yu\ensuremath{^{\delta}}}
+\affiliation{\ZSU} 
+Z.~Y.~Yu \author{Z.~Y.~Yu\ensuremath{^{\delta}}}
+\affiliation{\CNIHEP} 
+B.~B.~Yue \author{B.~B.~Yue\ensuremath{^{\delta}}}
+\affiliation{\ZSU} 
+S.~Zeng \author{S.~Zeng\ensuremath{^{\delta}}}
+\affiliation{\CNIHEP} 
+Y.~Zeng \author{Y.~Zeng\ensuremath{^{\delta}}}
+\affiliation{\ZSU} 
+L.~Zhan \author{L.~Zhan\ensuremath{^{\delta}}}
+\affiliation{\CNIHEP} 
+C.~Zhang \author{C.~Zhang\ensuremath{^{\delta}}}
+\affiliation{\BNL} 
+F.~Y.~Zhang \author{F.~Y.~Zhang\ensuremath{^{\delta}}}
+\affiliation{\SJTU} 
+H.~H.~Zhang \author{H.~H.~Zhang\ensuremath{^{\delta}}}
+\affiliation{\ZSU} 
+J.~W.~Zhang \author{J.~W.~Zhang\ensuremath{^{\delta}}}
+\affiliation{\CNIHEP} 
+Q.~M.~Zhang \author{Q.~M.~Zhang\ensuremath{^{\delta}}}
+\affiliation{\XJTU} 
+X.~T.~Zhang \author{X.~T.~Zhang\ensuremath{^{\delta}}}
+\affiliation{\CNIHEP} 
+Y.~M.~Zhang \author{Y.~M.~Zhang\ensuremath{^{\delta}}}
+\affiliation{\ZSU} 
+Y.~X.~Zhang \author{Y.~X.~Zhang\ensuremath{^{\delta}}}
+\affiliation{\CGNPG} 
+Y.~Y.~Zhang \author{Y.~Y.~Zhang\ensuremath{^{\delta}}}
+\affiliation{\SJTU} 
+Z.~J.~Zhang \author{Z.~J.~Zhang\ensuremath{^{\delta}}}
+\affiliation{\DGUT} 
+Z.~P.~Zhang \author{Z.~P.~Zhang\ensuremath{^{\delta}}}
+\affiliation{\USTC} 
+Z.~Y.~Zhang \author{Z.~Y.~Zhang\ensuremath{^{\delta}}}
+\affiliation{\CNIHEP} 
+J.~Zhao \author{J.~Zhao\ensuremath{^{\delta}}}
+\affiliation{\CNIHEP} 
+L.~Zhou \author{L.~Zhou\ensuremath{^{\delta}}}
+\affiliation{\CNIHEP} 
+H.~L.~Zhuang \author{H.~L.~Zhuang\ensuremath{^{\delta}}}
+\affiliation{\CNIHEP} 
+writeAuthorList: wrote to merged_minos_dyb_authors.tex
+
+ Press return to test authorlist and generate pdf
+
+ Tested author list by executing pdflatex test_combined_authorlist ; bibtex test_combined_authorlist; pdflatex  test_combined_authorlist ; pdflatex  test_combined_authorlist 
+

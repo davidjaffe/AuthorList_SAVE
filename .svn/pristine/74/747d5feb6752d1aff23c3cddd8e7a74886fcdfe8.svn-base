@@ -1,0 +1,58 @@
+\relax 
+\ifx\hyper@anchor\@undefined
+\global \let \oldcontentsline\contentsline
+\gdef \contentsline#1#2#3#4{\oldcontentsline{#1}{#2}{#3}}
+\global \let \oldnewlabel\newlabel
+\gdef \newlabel#1#2{\newlabelxx{#1}#2}
+\gdef \newlabelxx#1#2#3#4#5#6{\oldnewlabel{#1}{{#2}{#3}}}
+\AtEndDocument{\let \contentsline\oldcontentsline
+\let \newlabel\oldnewlabel}
+\else
+\global \let \hyper@last\relax 
+\fi
+
+\thanksnewlabel{BCCthanks}{{a}{1}}
+\thanksnewlabel{ECUSTthanks}{{1}{2}}
+\thanksnewlabel{Wisconsinthanks}{{2}{2}}
+\thanksnewlabel{Yalethanks}{{3}{2}}
+\thanksnewlabel{BNLthanks}{{4}{2}}
+\thanksnewlabel{NTUthanks}{{5}{2}}
+\thanksnewlabel{IHEPthanks}{{6}{2}}
+\thanksnewlabel{NUUthanks}{{7}{2}}
+\thanksnewlabel{TsingHuathanks}{{8}{2}}
+\thanksnewlabel{SZUthanks}{{9}{2}}
+\thanksnewlabel{ZSUthanks}{{10}{2}}
+\thanksnewlabel{NCEPUthanks}{{11}{2}}
+\thanksnewlabel{CUHKthanks}{{12}{2}}
+\thanksnewlabel{Sienathanks}{{13}{2}}
+\thanksnewlabel{UCIthanks}{{14}{2}}
+\thanksnewlabel{USTCthanks}{{15}{2}}
+\thanksnewlabel{Charlesthanks}{{16}{2}}
+\thanksnewlabel{UIUCthanks}{{17}{2}}
+\thanksnewlabel{LBNLthanks}{{18}{2}}
+\thanksnewlabel{IITthanks}{{19}{2}}
+\thanksnewlabel{Dubnathanks}{{20}{2}}
+\thanksnewlabel{BNUthanks}{{21}{2}}
+\thanksnewlabel{XJTUthanks}{{22}{2}}
+\thanksnewlabel{UHthanks}{{23}{2}}
+\thanksnewlabel{CIAEthanks}{{24}{2}}
+\thanksnewlabel{SDUthanks}{{25}{2}}
+\thanksnewlabel{VirginiaTechthanks}{{26}{2}}
+\thanksnewlabel{NCTUthanks}{{27}{2}}
+\thanksnewlabel{UCthanks}{{28}{2}}
+\thanksnewlabel{TempleUniversitythanks}{{29}{2}}
+\thanksnewlabel{DGUTthanks}{{30}{2}}
+\thanksnewlabel{UCBthanks}{{31}{2}}
+\thanksnewlabel{HKUthanks}{{32}{2}}
+\thanksnewlabel{NanKaithanks}{{33}{2}}
+\thanksnewlabel{SJTUthanks}{{34}{2}}
+\thanksnewlabel{Princetonthanks}{{35}{2}}
+\thanksnewlabel{CalTechthanks}{{36}{2}}
+\thanksnewlabel{WMthanks}{{37}{2}}
+\thanksnewlabel{NJUthanks}{{38}{2}}
+\thanksnewlabel{CGNPGthanks}{{39}{2}}
+\thanksnewlabel{NUDTthanks}{{40}{2}}
+\thanksnewlabel{IowaStatethanks}{{41}{2}}
+\thanksnewlabel{CQUthanks}{{42}{2}}
+\bibcite{r1}{{1}{}{{}}{{}}}
+\providecommand\NAT@force@numbers{}\NAT@force@numbers

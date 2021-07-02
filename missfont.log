@@ -1,0 +1,2 @@
+mktexpk --mfmode / --bdpi 600 --mag 1+0/600 --dpi 600 cyberb76
+mktexpk --mfmode / --bdpi 600 --mag 0+542/600 --dpi 542 cyberb89

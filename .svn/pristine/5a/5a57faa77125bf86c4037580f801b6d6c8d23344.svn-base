@@ -1,0 +1,18 @@
+%% Taken from file 'sample63.tex' downloaded 1nov2019, using aastex version 6.3
+\documentclass{aastex63}
+
+\begin{document}
+
+\title{The APJ title} 
+
+\input APJ.tex
+
+\begin{abstract}
+This is the abstract. 
+\end{abstract}
+
+\section{Introduction} \label{sec:intro}
+This would be the introduction. 
+\end{document} %%%%%%%%%%%%%%%%
+
+

@@ -1,0 +1,86 @@
+# comment line
+# version1
+# format of a valid line:   Action FamilyName GivenName Institution
+#   valid Actions are 'ADD' or 'REMOVE' (case-insensitive)
+#   For multiple, unhyphenated names in FamilyName or GivenName use an underscore
+#
+# Fixes to excel file:
+# 1. Heeger appears with/without middle initial and has invalid dates due to change of institution
+# 2. Ling has invalid dates due to change of institution
+# 3. Olshevski only appears with reversed FamilyName and GivenName
+# 4. M.Kramer, K.B.Luk, H.Steiner, H.L.H.Wong all should have UCB & LBNL affiliations
+# 5. Add Marco Grassi IHEP 20140711 (one year rule)
+# 6. Add 2d institution for Wei Wang 20140728
+# 7. Add Dongmei XIA and Wei TANG 20150120
+# 8. Chnage Bei-Zhen Hu affiliation from NCTU to NTU 20150121
+# 9. Add affiliation to Xiangpan Ji to Tsinghua in addition to his Nankai affiliation 20150121
+#10. Add 2d institution for B.Littlejohn (IIT)  20150126
+#11. Add 2d institution for Dongmei Xia (CQU) 20150417
+#12. Add Chia-Hua Cheng (NCTU) who joined dyb 2014-02-01	20150505
+#13. Add Jiashu Lu (IHEP) joined 2014-04-01 201505
+#14. As result of IB meeting 20150530 add
+#      D.Taychenachev Dubna, A.Higuera UH, D.Martinez IIT, J.Park VT
+#15. 20150602 Miao says "I was informed by Wei [Wang] that Steven (Chan-Fai) Wong has moved from CUHK to SYSU as a postdoc"
+#16. 20160404 remove "ADD" for many authors who are now on paper by usual rules
+# 
+### FORMAT IS **** FAMILYNAME  GIVENNAME *****
+ADD Heeger Karsten_M.   Yale
+#ADD Ling     Jiajie            BNL
+#ADD Ling     Jiajie            UIUC
+ADD Blyth   Simon           NTU
+ADD Olshevski Alexandr Dubna
+ADD Kramer Matt            UCB
+ADD Luk       Kam-Biu     LBNL
+ADD Steiner Herb            LBNL
+ADD Wong   Hin-Lok_Henoch       LBNL
+#ADD Grassi Marco 		IHEP
+#ADD Wang Wei                 ZSU
+#ADD Xia Dongmei            IHEP
+#ADD Tang Wei                  BNL
+ADD Hu Bei-Zhen             NTU
+ADD Ji Xiangpan                 TsingHua
+ADD Littlejohn Bryce		IIT
+ADD Xia Dongmei			CQU
+#ADD Cheng Chia-Hua     NCTU
+#ADD Lu Jiashu                IHEP
+#ADD Taychenachev Dmitriy Dubna
+#ADD Higuera Aaron             UH
+#ADD Martinez David            IIT
+#ADD Park Jaewon           VirginiaTech
+#ADD Wong Steven,_Chan-Fai         ZSU
+#17. 20160615 add Shih-Kai Lin, student who left less than 2 years ago
+ADD Lin Shih-Kai UH
+# 20161010 requested by Jim Napolitano
+ADD Jones Donald TempleUniversity
+#
+# Remove  false or outdated affiliations
+# 1. D. Naumov "please remove Yu.Gornushkin from the author list as he left the Collaboration. " 20140707
+# 2. Remove WM affiliation from Yanfei Zhao 20150126
+# 3. D. Naumov "Please remove I.Nemchenok from the author list. His term in Daya Bay is over." 20150503
+# 4. 20160404 Remove false affil. for Chukanov. Old affil for Jiajie
+REMOVE Nemchenok Igor  Dubna
+REMOVE Cherwinka Jeff   BNL 
+REMOVE Napolitano Jim  RPI 
+REMOVE Gornushkin Yuri_A. Dubna
+REMOVE Hu Bei-Zhen      NCTU
+REMOVE Zhao Yanfei			WM
+REMOVE Chukanov  Artem  BNL 
+REMOVE Ling Jiajie BNL
+REMOVE Ling Jiajie UIUC
+REMOVE Cheng  Chia-Hua  NCTU
+# 5. 20160629 Remove old affiliation for Dongmei Xia
+REMOVE Xia Dongmei IHEP
+#
+# remove duplicates
+# 1. 20140915 Remove K.Heeger, retain K.M.Heeger
+REMOVE Heeger Karsten  Wisconsin
+REMOVE Heeger Karsten Yale
+#
+# fix collaborators with family and given names reversed in collaboration list
+REMOVE Alexandr Olshevski Dubna 
+REMOVE Soeren Jetter IHEP 
+#
+#
+# 20160404 Enabled 'Now at...' for authors. Add it for Sunej as per orders from IB
+NOWAT Hans Sunej BCC
+#

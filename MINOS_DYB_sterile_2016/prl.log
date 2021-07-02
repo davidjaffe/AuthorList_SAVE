@@ -1,0 +1,981 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  28 APR 2016 10:15
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**prl.tex
+(./prl.tex
+LaTeX2e <2015/01/01>
+Babel <3.9l> and hyphenation patterns for 79 languages loaded.
+(/usr/local/texlive/2015/texmf-dist/tex/latex/revtex4/revtex4.cls
+Document Class: revtex4 2001/08/02 v4.0 (http://publish.aps.org/revtex4/ for do
+cumentation)
+ Copyright (c) 2001 The American Physical Society.
+ mailto:revtex@aps.org
+ Licensed under the LPPL:
+http://www.ctan.org/tex-archive/macros/latex/base/lppl.txt
+ Arthur Ogawa <ogawa@teleport.com>
+ Based on work by David Carlisle <david@dcarlisle.demon.co.uk>.
+ltxutil: portions licensed from W. E. Baxter (web@superscript.com)
+Class revtex4 Info: Repairing broken LateX \@sect on input line 596.
+\intertabularlinepenalty=\count79
+\@tbpen=\count80
+\@arstrutbox@hline=\box26
+Class revtex4 Info: Repairing broken LaTeX \@xbitor on input line 1610.
+ltxgrid: portions licensed from W. E. Baxter (web@superscript.com)
+\c@linecount=\count81
+\output=\toks14
+\@protection@box=\box27
+\@topmark@saved=\toks15
+\footins@saved=\box28
+\pagesofar=\box29
+\footbox=\box30
+\pagegrid@col=\count82
+Class revtex4 Info: Incorporating package {textcase}  [1998/11/12 v0.06 Text on
+ly upper/lower case changing (DPC)]. on input line 3682.
+(/usr/local/texlive/2015/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+\c@affil=\count83
+\absbox=\box31
+\c@part=\count84
+\c@section=\count85
+\c@subsection=\count86
+\c@subsubsection=\count87
+\c@paragraph=\count88
+\c@subparagraph=\count89
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\c@figure=\count90
+\c@table=\count91
+ (./natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip43
+\bibsep=\skip44
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count92
+)
+\widetext@top=\box32
+\widetext@bot=\box33
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/revtex4/revsymb.sty
+Package: revsymb 2001/08/02 v4.0 (http://publish.aps.org/revtex4/ for documenta
+tion)
+LaTeX Info: Redefining \REV@mathfrak on input line 118.
+))
+(/usr/local/texlive/2015/texmf-dist/tex/latex/revtex4/aps.rtx
+File: aps.rtx 2001/08/02 v4.0 (http://publish.aps.org/revtex4/ for documentatio
+n)
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/revtex4/10pt.rtx
+File: 10pt.rtx 2001/08/02 v4.0 (http://publish.aps.org/revtex4/ for documentati
+on)
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 94.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count93
+))
+\Gin@req@height=\dimen102
+\Gin@req@width=\dimen103
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/tools/dcolumn.sty
+Package: dcolumn 2014/10/28 v1.06 decimal alignment package (DPC)
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/tools/array.sty
+Package: array 2014/10/28 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen104
+\extrarowheight=\dimen105
+\NC@list=\toks17
+\extratabsurround=\skip45
+\backup@length=\skip46
+))
+(/usr/local/texlive/2015/texmf-dist/tex/latex/tools/bm.sty
+Package: bm 2014/10/28 v1.1c Bold Symbol Support (DPC/FMi)
+\symboldoperators=\mathgroup4
+\symboldletters=\mathgroup5
+\symboldsymbols=\mathgroup6
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 141.
+LaTeX Info: Redefining \bm on input line 207.
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks18
+\symAMSa=\mathgroup7
+\symAMSb=\mathgroup8
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+LaTeX Info: Redefining \frak on input line 111.
+LaTeX Info: Redefining \Bbb on input line 113.
+))
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip47
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks19
+\ex@=\dimen106
+))
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+LaTeX Info: Redefining \boldsymbol on input line 39.
+\pmbraise@=\dimen107
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count94
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count95
+\leftroot@=\count96
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count97
+\DOTSCASE@=\count98
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box34
+\strutbox@=\box35
+\big@size=\dimen108
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count99
+\c@MaxMatrixCols=\count100
+\dotsspace@=\muskip11
+\c@parentequation=\count101
+\dspbrk@lvl=\count102
+\tag@help=\toks20
+\row@=\count103
+\column@=\count104
+\maxfields@=\count105
+\andhelp@=\toks21
+\eqnshift@=\dimen109
+\alignsep@=\dimen110
+\tagshift@=\dimen111
+\tagwidth@=\dimen112
+\totwidth@=\dimen113
+\lineht@=\dimen114
+\@envbody=\toks22
+\multlinegap=\skip48
+\multlinetaggap=\skip49
+\mathdisplay@stack=\toks23
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2014/10/28 v1.1a Standard LaTeX Color (DPC)
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 142.
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/multirow/multirow.sty
+\bigstrutjot=\dimen115
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/rotating/rotating.sty
+Package: rotating 2009/03/28 v2.16a rotated objects in LaTeX
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\c@r@tfl@t=\count106
+\rotFPtop=\skip50
+\rotFPbot=\skip51
+\rot@float@box=\box36
+\rot@mess@toks=\toks24
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/tools/xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/comment/comment.sty
+\CommentStream=\write3
+
+Excluding comment 'comment')
+(/usr/local/texlive/2015/texmf-dist/tex/latex/carlisle/slashed.sty
+Package: slashed 1997/01/16 v0.01 Feynman Slashed Character Notation (DPC)
+)
+No file prl.aux.
+\openout1 = `prl.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 103.
+LaTeX Font Info:    ... okay on input line 103.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 103.
+LaTeX Font Info:    ... okay on input line 103.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 103.
+LaTeX Font Info:    ... okay on input line 103.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 103.
+LaTeX Font Info:    ... okay on input line 103.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 103.
+LaTeX Font Info:    ... okay on input line 103.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 103.
+LaTeX Font Info:    ... okay on input line 103.
+Class revtex4 Info: Patching array package. on input line 103.
+Class revtex4 Info: cite was not loaded (OK!) on input line 103.
+Class revtex4 Info: multicol was not loaded (OK!) on input line 103.
+(/usr/local/texlive/2015/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count107
+\scratchdimen=\dimen116
+\scratchbox=\box37
+\nofMPsegments=\count108
+\nofMParguments=\count109
+\everyMPshowfont=\toks25
+\MPscratchCnt=\count110
+\MPscratchDim=\dimen117
+\MPnumerator=\count111
+\makeMPintoPDFobject=\count112
+\everyMPtoPDFconversion=\toks26
+) (/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+Overfull \hbox (262.85957pt too wide) in paragraph at lines 105--106
+[]  [] 
+ []
+
+(./author.tex)
+LaTeX Font Info:    Try loading font information for U+msa on input line 127.
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 127.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [1{/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2]
+ [3] [4]
+
+Package natbib Warning: Citation `top' on page 5 undefined on input line 164.
+
+
+Package natbib Warning: Citation `ttbar_combi' on page 5 undefined on input lin
+e 168.
+
+
+Package natbib Warning: Citation `ckm' on page 5 undefined on input line 171.
+
+
+Package natbib Warning: Citation `FourthGen1' on page 5 undefined on input line
+ 173.
+
+
+Package natbib Warning: Citation `FourthGen2' on page 5 undefined on input line
+ 173.
+
+
+Package natbib Warning: Citation `Tait:2000sh' on page 5 undefined on input lin
+e 174.
+
+
+Package natbib Warning: Citation `singletop-willenbrock' on page 5 undefined on
+ input line 183.
+
+
+Package natbib Warning: Citation `singletop-yuan' on page 5 undefined on input 
+line 183.
+
+
+Package natbib Warning: Citation `tchannel-kidonakis' on page 5 undefined on in
+put line 183.
+
+
+Package natbib Warning: Citation `singletop-cortese' on page 5 undefined on inp
+ut line 187.
+
+
+Package natbib Warning: Citation `Wt-tait' on page 5 undefined on input line 18
+8.
+
+
+Package natbib Warning: Citation `tchannel-kidonakis' on page 5 undefined on in
+put line 190.
+
+
+Package natbib Warning: Citation `schannel-kidonakis' on page 5 undefined on in
+put line 191.
+
+
+Package natbib Warning: Citation `topmasswa' on page 5 undefined on input line 
+196.
+
+
+Package natbib Warning: Citation `pdg' on page 5 undefined on input line 200.
+
+[5]
+
+Package natbib Warning: Citation `stop-obs-2009-cdf' on page 6 undefined on inp
+ut line 204.
+
+
+Package natbib Warning: Citation `Aaltonen:2010fs' on page 6 undefined on input
+ line 204.
+
+
+Package natbib Warning: Citation `cdf-prd-2010' on page 6 undefined on input li
+ne 204.
+
+
+Package natbib Warning: Citation `stop-obs-2009-d0' on page 6 undefined on inpu
+t line 205.
+
+
+Package natbib Warning: Citation `stop-2011-d0' on page 6 undefined on input li
+ne 205.
+
+
+Package natbib Warning: Citation `cdf_channels_7.5' on page 6 undefined on inpu
+t line 211.
+
+
+Package natbib Warning: Citation `cdf_channels' on page 6 undefined on input li
+ne 214.
+
+
+Package natbib Warning: Citation `d0_schannel' on page 6 undefined on input lin
+e 216.
+
+
+Package natbib Warning: Citation `t-channel-new' on page 6 undefined on input l
+ine 220.
+
+
+Package natbib Warning: Citation `d0_schannel' on page 6 undefined on input lin
+e 222.
+
+
+Package natbib Warning: Citation `cdf_channels_7.5' on page 6 undefined on inpu
+t line 225.
+
+
+Package natbib Warning: Citation `cdf_channels' on page 6 undefined on input li
+ne 226.
+
+
+Package natbib Warning: Citation `cdf_schannel' on page 6 undefined on input li
+ne 231.
+
+
+Package natbib Warning: Citation `cdf_schannel_MET' on page 6 undefined on inpu
+t line 231.
+
+
+Package natbib Warning: Citation `d0_schannel' on page 6 undefined on input lin
+e 231.
+
+
+Package natbib Warning: Citation `tev_schannel' on page 6 undefined on input li
+ne 234.
+
+
+Package natbib Warning: Citation `atlas-tchannel-1' on page 6 undefined on inpu
+t line 238.
+
+
+Package natbib Warning: Citation `atlas-tchannel-2' on page 6 undefined on inpu
+t line 238.
+
+
+Package natbib Warning: Citation `cms-tchannel-1' on page 6 undefined on input 
+line 238.
+
+
+Package natbib Warning: Citation `cms-tchannel-2' on page 6 undefined on input 
+line 238.
+
+
+Package natbib Warning: Citation `atlas-tW' on page 6 undefined on input line 2
+40.
+
+
+Package natbib Warning: Citation `cms-tW' on page 6 undefined on input line 241
+.
+
+
+Package natbib Warning: Citation `schannel-kidonakis' on page 6 undefined on in
+put line 242.
+
+
+Package natbib Warning: Citation `tchannel-kidonakis' on page 6 undefined on in
+put line 242.
+
+
+Package natbib Warning: Citation `cdf_channels' on page 6 undefined on input li
+ne 255.
+
+
+Package natbib Warning: Citation `d0_schannel' on page 6 undefined on input lin
+e 255.
+
+
+Package natbib Warning: Citation `tev_schannel' on page 6 undefined on input li
+ne 267.
+
+
+Package natbib Warning: Citation `CDFII' on page 6 undefined on input line 273.
+
+
+
+Package natbib Warning: Citation `D0II' on page 6 undefined on input line 273.
+
+
+Package natbib Warning: Citation `cdf_channels_7.5' on page 6 undefined on inpu
+t line 282.
+
+
+Package natbib Warning: Citation `d0_schannel' on page 6 undefined on input lin
+e 282.
+
+
+Package natbib Warning: Citation `CDFbtag' on page 6 undefined on input line 28
+9.
+
+
+Package natbib Warning: Citation `D0btag' on page 6 undefined on input line 289
+.
+
+
+Package natbib Warning: Citation `cdf_channels_7.5' on page 6 undefined on inpu
+t line 293.
+
+
+Package natbib Warning: Citation `d0_schannel' on page 6 undefined on input lin
+e 293.
+
+
+Underfull \hbox (badness 1448) in paragraph at lines 271--294
+[]\OT1/cmr/m/n/10 The CDF and D0 de-tec-tors are large solenoidal
+ []
+
+
+Package natbib Warning: Citation `cdf_channels' on page 6 undefined on input li
+ne 297.
+
+
+Package natbib Warning: Citation `cdf_channels' on page 6 undefined on input li
+ne 308.
+
+
+Package natbib Warning: Citation `cdf_channels' on page 6 undefined on input li
+ne 316.
+
+
+Package natbib Warning: Citation `d0_schannel' on page 6 undefined on input lin
+e 316.
+
+[6]
+
+Package natbib Warning: Citation `cdf_matrix_method' on page 7 undefined on inp
+ut line 338.
+
+
+Package natbib Warning: Citation `d0-prd-2008' on page 7 undefined on input lin
+e 338.
+
+
+Package natbib Warning: Citation `POWHEG2009' on page 7 undefined on input line
+ 339.
+
+
+Package natbib Warning: Citation `singletop-mcgen' on page 7 undefined on input
+ line 342.
+
+
+Package natbib Warning: Citation `singletop-xsec-sullivan' on page 7 undefined 
+on input line 345.
+
+
+Package natbib Warning: Citation `Campbell:2009ss' on page 7 undefined on input
+ line 345.
+
+
+Package natbib Warning: Citation `alpgen' on page 7 undefined on input line 352
+.
+
+
+Package natbib Warning: Citation `pythia' on page 7 undefined on input line 353
+.
+
+
+Package natbib Warning: Citation `MLM' on page 7 undefined on input line 355.
+
+
+Package natbib Warning: Citation `pythia' on page 7 undefined on input line 357
+.
+
+
+Package natbib Warning: Citation `atlas-higgs-mass' on page 7 undefined on inpu
+t line 362.
+
+
+Package natbib Warning: Citation `cms-higgs-mass1' on page 7 undefined on input
+ line 362.
+
+
+Package natbib Warning: Citation `cms-higgs-mass2' on page 7 undefined on input
+ line 362.
+
+
+Package natbib Warning: Citation `geant' on page 7 undefined on input line 368.
+
+
+
+Package natbib Warning: Citation `d0_schannel' on page 7 undefined on input lin
+e 374.
+
+
+Package natbib Warning: Citation `cdf-prd-2010' on page 7 undefined on input li
+ne 374.
+
+
+Package natbib Warning: Citation `cdf_schannel_MET' on page 7 undefined on inpu
+t line 374.
+
+
+Package natbib Warning: Citation `ttbar-xsec' on page 7 undefined on input line
+ 377.
+
+
+Package natbib Warning: Citation `mcfm' on page 7 undefined on input line 378.
+
+
+Package natbib Warning: Citation `higgs-xsec' on page 7 undefined on input line
+ 379.
+
+
+Package natbib Warning: Citation `schannel-kidonakis' on page 7 undefined on in
+put line 383.
+
+
+Package natbib Warning: Citation `cdf_schannel' on page 7 undefined on input li
+ne 397.
+
+
+Package natbib Warning: Citation `d0_schannel' on page 7 undefined on input lin
+e 397.
+
+
+Package natbib Warning: Citation `bayes-limits' on page 7 undefined on input li
+ne 404.
+
+
+Package natbib Warning: Citation `tev_schannel' on page 7 undefined on input li
+ne 416.
+
+
+Package natbib Warning: Citation `tev_schannel' on page 7 undefined on input li
+ne 423.
+
+
+Package natbib Warning: Citation `tev_schannel' on page 7 undefined on input li
+ne 427.
+
+
+Package natbib Warning: Citation `tev_schannel' on page 7 undefined on input li
+ne 435.
+
+
+LaTeX Warning: Reference `fig:TevtbtqbSubtrLog' on page 7 undefined on input li
+ne 449.
+
+Package epstopdf Info: Source file: <fig01.eps>
+(epstopdf)                    date: 2015-03-17 07:15:43
+(epstopdf)                    size: 37555 bytes
+(epstopdf)             Output file: <fig01-eps-converted-to.pdf>
+(epstopdf)             Command: <repstopdf --outfile=fig01-eps-converted-to.pdf
+ fig01.eps>
+(epstopdf)             \includegraphics on input line 471.
+runsystem(repstopdf --outfile=fig01-eps-converted-to.pdf fig01.eps)...executed 
+safely (allowed).
+
+Package epstopdf Info: Result file: <fig01-eps-converted-to.pdf>.
+
+./prl.tex:471: Package pdftex.def Error: File `fig01-eps-converted-to.pdf' not 
+found.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.471 ...graphics[width=0.48\textwidth]{fig01.eps}
+                                                  
+? 
+
+LaTeX Warning: Reference `fig:tevposterior' on page 7 undefined on input line 4
+85.
+
+Package epstopdf Info: Source file: <fig02.eps>
+(epstopdf)                    date: 2015-03-17 07:15:43
+(epstopdf)                    size: 18396 bytes
+(epstopdf)             Output file: <fig02-eps-converted-to.pdf>
+(epstopdf)             Command: <repstopdf --outfile=fig02-eps-converted-to.pdf
+ fig02.eps>
+(epstopdf)             \includegraphics on input line 491.
+runsystem(repstopdf --outfile=fig02-eps-converted-to.pdf fig02.eps)...executed 
+safely (allowed).
+
+Package epstopdf Info: Result file: <fig02-eps-converted-to.pdf>.
+
+./prl.tex:491: Package pdftex.def Error: File `fig02-eps-converted-to.pdf' not 
+found.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.491 ...graphics[width=0.48\textwidth]{fig02.eps}
+                                                  
+? 
+
+Package natbib Warning: Citation `schannel-kidonakis' on page 7 undefined on in
+put line 505.
+
+
+Package natbib Warning: Citation `tchannel-kidonakis' on page 7 undefined on in
+put line 505.
+
+
+Package natbib Warning: Citation `FourthGen2' on page 7 undefined on input line
+ 505.
+
+
+Package natbib Warning: Citation `Tait:2000sh' on page 7 undefined on input lin
+e 505.
+
+
+Package natbib Warning: Citation `Tait:2000sh' on page 7 undefined on input lin
+e 505.
+
+
+Package natbib Warning: Citation `Tait:2000sh' on page 7 undefined on input lin
+e 505.
+
+
+Package natbib Warning: Citation `d0-fcnc' on page 7 undefined on input line 50
+5.
+
+
+Package natbib Warning: Citation `schannel-kidonakis' on page 7 undefined on in
+put line 505.
+
+
+Package natbib Warning: Citation `tchannel-kidonakis' on page 7 undefined on in
+put line 505.
+
+
+Package natbib Warning: Citation `FourthGen2' on page 7 undefined on input line
+ 505.
+
+
+Package natbib Warning: Citation `Tait:2000sh' on page 7 undefined on input lin
+e 505.
+
+
+Package natbib Warning: Citation `Tait:2000sh' on page 7 undefined on input lin
+e 505.
+
+
+Package natbib Warning: Citation `Tait:2000sh' on page 7 undefined on input lin
+e 505.
+
+
+Package natbib Warning: Citation `d0-fcnc' on page 7 undefined on input line 50
+5.
+
+
+Package natbib Warning: Citation `cdf-prd-2010' on page 7 undefined on input li
+ne 525.
+
+
+Package natbib Warning: Citation `d0_schannel' on page 7 undefined on input lin
+e 525.
+
+
+LaTeX Warning: Reference `fig:tevposterior' on page 7 undefined on input line 5
+25.
+
+
+LaTeX Warning: Reference `fig:tevxsec' on page 7 undefined on input line 527.
+
+
+Package natbib Warning: Citation `cdf_channels' on page 7 undefined on input li
+ne 528.
+
+
+Package natbib Warning: Citation `d0_schannel' on page 7 undefined on input lin
+e 528.
+
+
+Package natbib Warning: Citation `cdf_schannel' on page 7 undefined on input li
+ne 531.
+
+
+Package natbib Warning: Citation `d0_schannel' on page 7 undefined on input lin
+e 531.
+
+
+Package natbib Warning: Citation `tev_schannel' on page 7 undefined on input li
+ne 532.
+
+Package epstopdf Info: Source file: <fig03.eps>
+(epstopdf)                    date: 2016-01-19 16:44:11
+(epstopdf)                    size: 12558 bytes
+(epstopdf)             Output file: <fig03-eps-converted-to.pdf>
+(epstopdf)             Command: <repstopdf --outfile=fig03-eps-converted-to.pdf
+ fig03.eps>
+(epstopdf)             \includegraphics on input line 538.
+runsystem(repstopdf --outfile=fig03-eps-converted-to.pdf fig03.eps)...executed 
+safely (allowed).
+
+Package epstopdf Info: Result file: <fig03-eps-converted-to.pdf>.
+
+./prl.tex:538: Package pdftex.def Error: File `fig03-eps-converted-to.pdf' not 
+found.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.538 ...graphics[width=0.48\textwidth]{fig03.eps}
+                                                  
+? 
+
+Package natbib Warning: Citation `schannel-kidonakis' on page 7 undefined on in
+put line 543.
+
+
+Package natbib Warning: Citation `tchannel-kidonakis' on page 7 undefined on in
+put line 543.
+
+
+Package natbib Warning: Citation `schannel-kidonakis' on page 7 undefined on in
+put line 543.
+
+
+Package natbib Warning: Citation `tchannel-kidonakis' on page 7 undefined on in
+put line 543.
+
+[7]
+
+LaTeX Warning: A float is stuck (cannot be placed); try class option [floatfix]
+ on input line 548.
+
+
+Package natbib Warning: Citation `tchannel-kidonakis' on page 8 undefined on in
+put line 551.
+
+
+Package natbib Warning: Citation `schannel-kidonakis' on page 8 undefined on in
+put line 551.
+
+
+Package natbib Warning: Citation `d0-prd-2008' on page 8 undefined on input lin
+e 554.
+
+
+Package natbib Warning: Citation `schannel-kidonakis' on page 8 undefined on in
+put line 564.
+
+
+Package natbib Warning: Citation `tchannel-kidonakis' on page 8 undefined on in
+put line 564.
+
+
+LaTeX Warning: Reference `fig:TevVtb' on page 8 undefined on input line 566.
+
+Package epstopdf Info: Source file: <fig04.eps>
+(epstopdf)                    date: 2015-03-17 07:15:43
+(epstopdf)                    size: 20773 bytes
+(epstopdf)             Output file: <fig04-eps-converted-to.pdf>
+(epstopdf)             Command: <repstopdf --outfile=fig04-eps-converted-to.pdf
+ fig04.eps>
+(epstopdf)             \includegraphics on input line 571.
+runsystem(repstopdf --outfile=fig04-eps-converted-to.pdf fig04.eps)...executed 
+safely (allowed).
+
+Package epstopdf Info: Result file: <fig04-eps-converted-to.pdf>.
+
+./prl.tex:571: Package pdftex.def Error: File `fig04-eps-converted-to.pdf' not 
+found.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.571 ...graphics[width=0.48\textwidth]{fig04.eps}
+                                                  
+? 
+
+Underfull \hbox (badness 1102) in paragraph at lines 558--584
+\OML/cmm/m/it/10 s$ \OT1/cmr/m/n/10 and $\OML/cmm/m/it/10 t$ \OT1/cmr/m/n/10 ch
+an-nels for each ex-per-i-ment and form a
+ []
+
+[8]
+
+LaTeX Warning: A float is stuck (cannot be placed); try class option [floatfix]
+ on input line 599.
+
+
+Package natbib Warning: Citation `tev_schannel' on page 9 undefined on input li
+ne 603.
+
+
+Package natbib Warning: Citation `schannel-kidonakis' on page 9 undefined on in
+put line 606.
+
+
+Package natbib Warning: Citation `tchannel-kidonakis' on page 9 undefined on in
+put line 606.
+
+(./acknowledgement.tex) [9]
+
+LaTeX Warning: Reference `LastBibItem' on page 10 undefined on input line 623.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 699--702
+ []\OT1/cmr/m/n/9 ATLAS, CDF, CMS and D0 Col-lab-o-ra-tions,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 742--745
+ []\OT1/cmr/m/n/9 T. A. Aal-to-nen \OT1/cmr/m/it/9 et al. \OT1/cmr/m/n/9 (CDF C
+ol-lab-o-ra-tion),
+ []
+
+[10]
+
+Class revtex4 Warning: Endnote numbers changed: rerun LaTeX.
+
+
+Package natbib Warning: There were undefined citations.
+
+[11] (./prl.aux
+
+Package natbib Warning: Citation(s) may have changed.
+(natbib)                Rerun to get citations correct.
+
+)
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right .
+
+
+ ) 
+Here is how much of TeX's memory you used:
+ 4551 strings out of 493089
+ 60051 string characters out of 6134842
+ 282155 words of memory out of 5000000
+ 7924 multiletter control sequences out of 15000+600000
+ 20483 words of font info for 75 fonts, out of 8000000 for 9000
+ 1144 hyphenation exceptions out of 8191
+ 38i,6n,26p,1082b,366s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
+></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
+</usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></
+usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></us
+r/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></us
+r/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr
+/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/l
+ocal/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/loc
+al/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/local
+/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/t
+exlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texl
+ive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive
+/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/20
+15/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2015/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2015/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/local/texlive/2015/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2015/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2015/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/local/texlive/2015/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2015/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmti7.pfb></usr/local/texlive/2015/texmf-dist/f
+onts/type1/public/amsfonts/cm/cmti9.pfb></usr/local/texlive/2015/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmtt9.pfb>
+Output written on prl.pdf (11 pages, 329260 bytes).
+PDF statistics:
+ 132 PDF objects out of 1000 (max. 8388607)
+ 95 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
